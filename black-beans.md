@@ -1,3 +1,6 @@
+Black Beans
+===========
+
 Soak the overnight in several inches of cold water OR pour enough boiling water
 over them to cover by a few inches and soak them for an hour.
 
