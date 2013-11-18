@@ -11,11 +11,12 @@ Marinate, 15 minutes:
 
 Combine, set aside:
 
-- 1/2 small head of green or red cabbage (about 14 ounces), cored and thinly sliced
+- 1/2 small head of green or red cabbage (about 14 ounces), cored and thinly
+  sliced
 - 1/2 red onion, thinly sliced
 - 1/4 cup cilantro, coarsely chopped
 - 1 lime, juiced
-- 1 tablespoon vegetable oil
+- 1 tablespoon canola oil
 - Kosher salt
 - Freshly ground black pepper
 
