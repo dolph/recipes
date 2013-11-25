@@ -1,3 +1,6 @@
+Brussels sprouts
+================
+
 Pour enough oil into a medium pot so that the oil comes 3 inches up the sides.
 Heat the oil to 350 degrees.
 
