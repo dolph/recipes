@@ -3,8 +3,8 @@ Croatian mussels
 
 Sweat:
 
-- 1/2 tsp garlic
-- 2 tbsp olive oil
+- 3 cloves garlic
+- 2 tablespoon olive oil
 
 Combine:
 
@@ -12,12 +12,12 @@ Combine:
 
 Add, deglaze and cover until mussels open, 5-7 min:
 
-- 2 lbs mussels
+- 2 pounds mussels
 - 1 cup white wine
 
 Garnish and serve in the pan:
 
-- 1 tbsp chopped parsley
+- 2 tablespoons chopped parsley
 
 Serve with:
 
