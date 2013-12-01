@@ -3,7 +3,7 @@ Meunière
 
 Season filets on both sides:
 
-- 1 pound firm white fish filets, boneless, skinless
+- 1 pound firm white fish filets (sole, trout, redfish), boneless, skinless
 - Kosher salt and freshly ground black pepper, to taste
 
 Place flour on a plate and set aside:
