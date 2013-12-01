@@ -14,7 +14,7 @@ Heat butter in a skillet over medium-high heat:
 
 - 2 tablespoons unsalted butter
 
-Working in batches, dust filets in flour, shaking off excess, and cook, turning once, until browned on both sides and just cooked through (about 6 minutes).
+Dust filets in flour, shake off excess, and cook until browned on both sides and just cooked through (about 6 minutes).
 
 Transfer filets to warm serving platter or individual plates; sprinkle with:
 
