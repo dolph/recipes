@@ -12,7 +12,7 @@ Place flour on a plate and set aside:
 
 Heat butter in a skillet over medium-high heat:
 
-- 2 tablespoons unsalted butter
+- 2 tablespoons clarified butter
 
 Dust filets in flour, shake off excess, and cook until browned on both sides and just cooked through (about 6 minutes).
 
@@ -22,7 +22,7 @@ Transfer filets to warm serving platter or individual plates; sprinkle with:
 
 Wipe skillet clean and return to heat. Cook, swirling pan, until butter begins to brown:
 
-- 3 tablespoons unsalted butter
+- 3 tablespoons unsalted or clarified butter
 
 Add and cook until heated through:
 
