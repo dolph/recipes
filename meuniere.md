@@ -1,7 +1,7 @@
 Meunière
 ========
 
-Season filets on both sides:
+Season on both sides:
 
 - 1 pound firm seafood (sole, trout, redfish, shrimp, softshell crab)
 - Kosher salt and freshly ground black pepper, to taste
