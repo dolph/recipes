@@ -22,10 +22,10 @@ Transfer filets to warm serving platter or individual plates; sprinkle with:
 
 Wipe skillet clean and return to heat. Cook, swirling pan, until butter begins to brown:
 
-- 3 tablespoons unsalted or clarified butter
+- 3 tablespoons clarified butter
 
 Add and cook until heated through:
 
-- 1/4 lemon, thinly sliced crosswise
+- 1/3 lemon, thinly sliced crosswise
 
 Pour evenly over filets, including lemon slices, and serve immediately.
