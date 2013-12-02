@@ -3,7 +3,7 @@ Meunière
 
 Season filets on both sides:
 
-- 1 pound firm seafood (sole, trout, redfish, shrimp), boneless, skinless/shelled
+- 1 pound firm seafood (sole, trout, redfish, shrimp, softshell crab)
 - Kosher salt and freshly ground black pepper, to taste
 
 Place flour on a plate and set aside:
