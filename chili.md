@@ -35,13 +35,3 @@ Add the beans and simmer for 10 minutes:
 Finish with:
 
 - 1 lime, juiced
-
-Serve with:
-
-- Shredded cheddar
-- Diced onions
-- Tortilla chips
-- Corn chips
-- Lime wedges
-- Green onions
-- Avocado
