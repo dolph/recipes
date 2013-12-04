@@ -1,4 +1,4 @@
-Roasted Salsa
+Roasted salsa
 =============
 
 Blacken:
@@ -7,8 +7,8 @@ Blacken:
 
 Blend with:
 
-- 1/4 can chipotle peppers
 - 3 tablespoons olive oil
+- 2 chipotle peppers, in adobo
 - 1 tablespoon beef base
 - 1 tooth of garlic
 - 1 teaspoon white vinegar
