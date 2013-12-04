@@ -1,3 +1,6 @@
+Open source chili
+=================
+
 In a dutch oven, cook until crispy:
 
 - 4 slices bacon, diced
