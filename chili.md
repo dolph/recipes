@@ -26,8 +26,8 @@ Combine, cover and reduce heat to low for an hour:
 
 Combine a separate bowl, and then add to chili:
 
-- 1/4 cup masa harina (this was way too much)
-- 1/2 cup water
+- 1/4 cup water
+- 2 tablespooons masa harina
 
 Add the beans and simmer for 10 minutes:
 
