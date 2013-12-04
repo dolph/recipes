@@ -13,16 +13,15 @@ Sauté until translucent:
 Combine and brown:
 
 - 1 pound ground beef
-- 1 pound chopped pork
+- 1 pound pork, cubed
 
 Combine, cover and reduce heat to low for an hour:
 
-- 16 ounces crushed tomatoes (used 3x this)
+- 48 ounces crushed tomatoes, canned
 - 2 tablespoons chili powder
 - 2 tablespoons sriracha
 - 1 teaspoon ground cumin
 - 1 teaspoon ground oregano
-- 1/4 teaspoon cayenne pepper (skipped)
 - Kosher salt, to taste
 
 Combine a separate bowl, and then add to chili:
