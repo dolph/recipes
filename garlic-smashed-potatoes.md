@@ -1,12 +1,12 @@
-Mashed potatoes
-===============
+Garlic smashed potatoes
+=======================
 
 In a 4-quart saucepan, cover with cold salted water:
 
-- 2.5 pounds russet potatoes, peeled, coarsely chopped
+- 2.5 pounds red potatoes, quartered
 
 Bring to a boil then simmer until the tines of a fork slide easily into the
-potatoes, 15–20 minutes. Drain.
+potatoes (about 15 minutes). Drain.
 
 In a 4-quart saucepan, melt over medium heat:
 
@@ -15,10 +15,12 @@ In a 4-quart saucepan, melt over medium heat:
 
 Remove the saucepan from the heat.
 
-Working in batches, pass the potatoes through a ricer into the hot cream
-mixture.
+Add the potatoes, and roughly smash them into the hot cream mixture. Fold in:
 
-Beat the potatoes vigorously with a whisk until smooth and creamy. Season with
-salt and pepper, to taste.
+- 5 chives, finely chopped
+- 1/2 cup feta cheese
+- 5 cloves garlic, roasted
+
+Season to taste:
 
 - Kosher salt and freshly ground black pepper
