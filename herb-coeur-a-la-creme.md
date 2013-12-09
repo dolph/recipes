@@ -11,7 +11,11 @@ Herb coeur à la crème
 - Kosher salt and freshly ground black pepper
 - Crackers, for serving
 
-Place the cream cheese in the bowl of an electric mixer fitted with the whisk attachment. Whip until smooth. With the mixer on low, slowly add the cream and then the lemon zest, lemon juice, scallions, dill, chives, 1 teaspoon salt and 1/2 teaspoon pepper.
+Place the cream cheese in the bowl of an electric mixer fitted with the whisk attachment.
+
+Whip until smooth.
+
+With the mixer on low, slowly add the cream and then the lemon zest, lemon juice, scallions, dill, chives, 1 teaspoon salt and 1/2 teaspoon pepper.
 
 Whisk until firm.
 
