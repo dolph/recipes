@@ -1,11 +1,11 @@
 Herb coeur à la crème
 =====================
 
-Place the cream cheese in the bowl of an electric mixer fitted with the whisk attachment. Whip until smooth.
+In the bowl of an electric mixer fitted with a whisk, whip until smooth:
 
 - 12 ounces cream cheese, at room temperature
 
-With the mixer on low, slowly add the cream and then the lemon zest, lemon juice, scallions, dill, chives, 1 teaspoon salt and 1/2 teaspoon pepper. Whisk until firm.
+With the mixer on low, slowly add the following, whisking until firm:
 
 - 1 cup heavy cream
 - Grated zest of 1 lemon
@@ -15,16 +15,8 @@ With the mixer on low, slowly add the cream and then the lemon zest, lemon juice
 - 1 tablespoon minced fresh chives
 - Kosher salt and freshly ground black pepper
 
-Line a 6-inch coeur a la creme mold or a 6-inch sieve with a few layers of cheesecloth, allowing the excess to drape over the sides.
+Wrap the mixture in cheesecloth, suspended over a bowl using a strainer, cover with plastic wrap, and allow to refridgerate overnight.
 
-Pour the cream cheese mixture into the cheesecloth and smooth the top.
-
-Fold the excess cheesecloth over the top of the creme.
-
-Suspend the sieve over a small bowl, cover with plastic wrap and refrigerate overnight.
-
-When ready to serve, discard the liquid that has collected in the bowl and invert the creme onto a plate.
-
-Serve chilled with:
+Discard liquid in the bowl and serve chilled with:
 
 - Crackers
