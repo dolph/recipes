@@ -14,7 +14,6 @@ With the mixer on low, slowly add the cream and then the lemon zest, lemon juice
 - 2 tablespoons minced fresh dill
 - 1 tablespoon minced fresh chives
 - Kosher salt and freshly ground black pepper
-- Crackers, for serving
 
 Line a 6-inch coeur a la creme mold or a 6-inch sieve with a few layers of cheesecloth, allowing the excess to drape over the sides.
 
@@ -26,4 +25,6 @@ Suspend the sieve over a small bowl, cover with plastic wrap and refrigerate ove
 
 When ready to serve, discard the liquid that has collected in the bowl and invert the creme onto a plate.
 
-Serve chilled with crackers.
+Serve chilled with:
+
+- Crackers
