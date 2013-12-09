@@ -1,4 +1,4 @@
-Herb coeur a la creme
+Herb coeur à la crème
 =====================
 
 - 12 ounces cream cheese, at room temperature
