@@ -1,15 +1,12 @@
 Gumbo
 =====
 
-In a large enameled cast iron Dutch oven or large pot, heat 1 tablespoon of the vegetable oil over medium-high heat.
+In a Dutch oven, over medium-high heat, cook until well browned, about 8 minutes:
 
-- 1 tablespoon vegetable oil
-
-Add the sausage and cook until well browned, about 8 minutes.
+- 1 tablespoon canola oil
+- 1 pound smoked sausage, such as andouille or kielbasa, cut crosswise 1/2-inch thick pieces
 
 Remove the sausage with a slotted spoon and drain on paper towels. Set aside.
-
-- 1 pound smoked sausage, such as andouille or kielbasa, cut crosswise 1/2-inch thick pieces
 
 Season the chicken with the Essence and add in batches to the fat remaining in the pan. Cook over medium-high heat until well browned, 5 to 6 minutes. Remove the chicken from the pan, let cool, and then refrigerate until ready to use.
 
