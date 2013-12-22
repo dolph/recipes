@@ -1,32 +1,22 @@
 Black Beans
 ===========
 
-Soak the overnight in several inches of cold water OR pour enough boiling water
-over them to cover by a few inches and soak them for an hour.
-
-- 1 lb dried black beans
-- 6 cups water
-
-Discard the soaking liquid.
-
 Bring to a boil in a large pot, and reduce heat to a simmer until the beans are
 soft but not quite done (~1 hour).
 
-- Soaked beans
-- 6 cups water
-- 1 tablespoon dried oregano
-- 2 bay leaves
+- 1 can black beans, rinsed and drained
+- 2 cups water
+- 1 teaspoon dried oregano
+- 1 bay leaves
 - 1 sprig sage leaves
 
 When the beans are starting to soften, sauté until soft:
 
-- 2 tablespoons olive oil
-- 1 yellow onions, chopped
-- 1 chopped peppers – bell pepper, Anaheim, or jalapeño (your choice, depending
-  on taste for heat), seeds, stems and ribs discarded
-- 3 cloves crushed garlic
-- 1 tablespoon chili powder
-- 1 puréed chipotle in adobo
+- 1 tablespoons olive oil
+- 1/2 yellow onion, chopped
+- 1 clove crushed garlic
+- 1 teaspoon chili powder
+- 1 small chipotle in adobo, puréed
 
 Discard the stems, bay leaves, etc, from the pot of beans. Remove, but reserve,
 extra cooking liquid (keep the beans soaked).
@@ -40,9 +30,9 @@ reserved liquid if needed.
 
 Combine and adjust heat to taste:
 
-- 1/4 cup fresh orange juice
-- 1/2 lime, juiced
-- 1 tablespoon rice wine vinegar
+- 1 tablespoon fresh orange juice
+- 1/4 lime, juiced
+- 1 teaspoon rice wine vinegar
 - Salt to taste
 
 Garnish and serve:
