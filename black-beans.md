@@ -24,8 +24,7 @@ Add to the pot of beans and cook another hour or so until thickened. Add
 reserved liquid if needed.
 
 - Sautéed onion mixture
-- 1 teaspoon kosher salt
-- 1 teaspoon cumin
+- 1/2 teaspoon cumin
 
 Combine and adjust heat to taste:
 
