@@ -1,8 +1,7 @@
 Black Beans
 ===========
 
-Bring to a boil in a large pot, and reduce heat to a simmer until the beans are
-soft but not quite done (~1 hour).
+Briefly bring to a boil, then simmer:
 
 - 1 can black beans, rinsed and drained
 - 2 cups water
