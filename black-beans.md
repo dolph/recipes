@@ -4,7 +4,7 @@ Black Beans
 Briefly bring to a boil, then simmer:
 
 - 1 can black beans, rinsed and drained
-- 2 cups water
+- 1 cup water
 - 1 teaspoon dried oregano
 - 1 bay leaves
 - 1 sprig sage leaves
