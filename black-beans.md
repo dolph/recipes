@@ -1,15 +1,7 @@
 Black Beans
 ===========
 
-Briefly bring to a boil, then simmer:
-
-- 1 can black beans, rinsed and drained
-- 1 cup water
-- 1 teaspoon dried oregano
-- 1 bay leaves
-- 1 sprig sage leaves
-
-When the beans are starting to soften, sauté until soft:
+In a small pot, sauté until soft:
 
 - 1 tablespoons olive oil
 - 1/2 yellow onion, chopped
@@ -17,14 +9,17 @@ When the beans are starting to soften, sauté until soft:
 - 1 teaspoon chili powder
 - 1 small chipotle in adobo, puréed
 
+Combine, bring to a boil, then simmer for an hour until thickened:
+
+- 1 can black beans, rinsed and drained
+- 1 cup water, adding more if necessary to cover
+- 1 teaspoon dried oregano
+- 1 bay leaves
+- 1 sprig sage leaves
+- 1/2 teaspoon cumin
+
 Discard the stems, bay leaves, etc, from the pot of beans. Remove, but reserve,
 extra cooking liquid (keep the beans soaked).
-
-Add to the pot of beans and cook another hour or so until thickened. Add
-reserved liquid if needed.
-
-- Sautéed onion mixture
-- 1/2 teaspoon cumin
 
 Combine and adjust heat to taste:
 
