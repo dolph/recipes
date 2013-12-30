@@ -23,9 +23,9 @@ Add separately, and scramble together when the egg whites begin to firm up:
 
 Garnish and serve immediately with:
 
-- Cheese (cotija, colby jack, cheddar, etc)
-- Sliced avocado
-- Cilantro
+- Cheese (cotija, colby jack, cheddar, etc), grated
+- Avocado, sliced
+- Cilantro, coarsely chopped
 
 Serve with:
 
