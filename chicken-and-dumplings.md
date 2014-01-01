@@ -26,7 +26,7 @@ Add to combine, cover and simmer for 20 minutes:
 - 6 cups low sodium chicken broth
 - 1/2 cup apple cider
 
-While chicken is simmering, make the dough for the dumplings by sifting together all dry ingredients, then add half-and-half, stirring gently to combine. Set aside.
+While chicken is simmering, make the dough for the dumplings by sifting together all dry ingredients, adding  half-and-half, and stirring gently to combine. Set aside.
 
 - 1-1/2 cup all-purpose flour
 - 1/2 cup yellow cornmeal
