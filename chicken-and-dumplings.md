@@ -38,7 +38,7 @@ Remove chicken from pot and shred it. Add to combine, then simmer for 15 minutes
 
 - Shredded chicken
 - 1/2 cup heavy cream
-- Tablespoons of dumpling dough
+- Dumpling dough, roughly formed into tablespoon-sized balls
 - 2 tablespoons fresh parsley, minced
 - Kosher salt
 
