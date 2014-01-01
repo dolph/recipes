@@ -1,13 +1,13 @@
 Chicken and dumplings
 =====================
 
-Sprinkle chicken pieces with salt and pepper, then dredge both sides in flour.
+Season and dredge both sides:
 
-- 1 whole chicken, cut into pieces
+- 3 pounds chicken thighs
 - Salt and pepper
 - 1/2 cup all-purpose flour
 
-In two batches, brown chicken on both sides and remove to a clean plate.
+In two batches, brown chicken on both sides and remove to a clean plate:
 
 - Chicken
 - 2 tablespoons butter
