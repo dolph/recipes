@@ -3,7 +3,7 @@ Chicken and dumplings
 
 Season and dredge both sides:
 
-- 3 pounds chicken thighs
+- 4 chicken thighs
 - Salt and pepper
 - 1/2 cup all-purpose flour
 
