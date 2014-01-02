@@ -21,6 +21,7 @@ In the same pot, saute over medium-low heat (about 3-4 minutes):
 
 Add to combine, cover and simmer for 20 minutes:
 
+- Chicken
 - 1/2 teaspoon ground thyme
 - 1/4 teaspoon turmeric
 - 6 cups low sodium chicken broth
@@ -29,14 +30,14 @@ Add to combine, cover and simmer for 20 minutes:
 While chicken is simmering, make the dough for the dumplings by sifting together all dry ingredients, adding  half-and-half, and stirring gently to combine. Set aside.
 
 - 1-1/2 cup all-purpose flour
-- 1/2 cup yellow cornmeal
+- 1/2 cup yellow cornmeal (Ashley doesn't like the corn meal)
 - 1 tablespoon baking powder
 - 1 teaspoon kosher salt
 - 1 1/2 cup half-and-half
 
 Remove chicken from pot and shred it. Add to combine, then simmer for 15 minutes:
 
-- Shredded chicken
+- Shredded chicken, skins discarded
 - 1/2 cup heavy cream
 - Dumpling dough, roughly formed into tablespoon-sized balls
 - 2 tablespoons fresh parsley, minced
