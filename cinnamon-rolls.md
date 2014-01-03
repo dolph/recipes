@@ -59,15 +59,13 @@ space between each.
 
 Cover with plastic wrap and let rise until doubled, 40 minutes.
 
-Preheat the oven to 325.
+Preheat the oven to 325 F and bake the buns until golden brown, about 35 minutes.
 
 Meanwhile, whisk together the glaze:
 
 - 2 cups confectioners' sugar, sifted
 - 1/3 cup heavy cream
 - 4 tablespoons unsalted butter, melted
-
-Bake the buns until golden brown, about 35 minutes.
 
 Transfer the buns to a rack and spoon the glaze on top while still warm.
 
