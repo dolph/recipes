@@ -4,24 +4,23 @@ Cinnamon Rolls
 Dough
 -----
 
-Warm the milk in a medium saucepan over low heat until it reaches about 100F.
+Warm in a medium saucepan over low heat until it reaches 100-110F.
 
 - 1 cup whole milk
 
-Remove from the heat and sprinkle in the yeast and 1/4 to 1 teaspoon sugar (don't
-stir). Set aside until foamy, 5-15 minutes.
+Remove from the heat, vigorously combine yeast and 1/4 to 1 teaspoon sugar, and
+then set aside until foamy, about 5-15 minutes.
 
 - one 1/4-ounce packet active dry yeast (2.5 teaspoons)
 - 1/4 teaspoon granulated sugar (or follow directions on yeast packet)
 
-Whisk in the melted butter, egg yolk and vanilla.
+Whisk in:
 
 - 4 tablespoons unsalted butter, melted, plus more for the bowl
 - 1 large egg yolk
 - 1 1/2 teaspoons vanilla extract
 
-Whisk the flour, the remaining 1/4 cup sugar, the salt and nutmeg in the bowl
-of a stand mixer.
+In a stand mixer, whisk together:
 
 - 1/4 cup granulated sugar
 - 2 3/4 cups all-purpose flour, plus more if needed
@@ -40,41 +39,36 @@ rise until doubled, 1 hour 15 minutes.
 Filling
 -------
 
-Combine:
+In a bowl, combine:
 
-- All-purpose flour, for dusting
 - 12 tablespoons unsalted butter, softened, plus more for the pan
 - 1/2 cup granulated sugar
 - 3 tablespoons ground cinnamon
 
-Rolls
------
+Buns
+----
 
-Roll out the dough, fill and cut into buns (see instructions below). Butter a
-9-by-13-inch baking pan; place the buns cut-side down in the pan, leaving space
-between each. Cover with plastic wrap and let rise until doubled, 40 minutes.
+On a lightly floured surface, roll the dough into a 12-by-14-inch rectangle
+with the longer side facing you. Spread with the softened butter, leaving a
+1/2-inch border on the far long edge. Brush the unbuttered far edge with water.
+Roll the dough away from you into a tight cylinder and press on the long edge
+to seal. Cut the cylinder with a sharp knife to make 6 equal-size buns.
+
+Place the buns cut-side down in a buttered 9-by-13 inch baking pan, leaving
+space between each.
+
+Cover with plastic wrap and let rise until doubled, 40 minutes.
+
 Preheat the oven to 325.
 
-Bake the buns until golden brown, about 35 minutes. Cool in the pan 15 minutes.
+Meanwhile, whisk together the glaze:
 
-1. On a lightly floured surface, roll the dough into a 12-by-14-inch rectangle
-with the longer side facing you.
-
-2. Spread with the softened butter, leaving a 1/2-inch border on the far long
-edge. Mix the sugar and cinnamon; sprinkle over the butter.
-
-3. Brush the unbuttered far edge with water. Roll the dough away from you into
-a tight cylinder and press on the long edge to seal.
-
-4. Cut the cylinder with a sharp knife to make 6 equal-size buns.
-
-Glaze
------
-
-Sift the confectioners' sugar into a bowl, then whisk in the cream and melted
-butter. Transfer the buns to a rack and spoon the glaze on top while still
-warm.
-
-- 2 cups confectioners' sugar
+- 2 cups confectioners' sugar, sifted
 - 1/3 cup heavy cream
 - 4 tablespoons unsalted butter, melted
+
+Bake the buns until golden brown, about 35 minutes.
+
+Transfer the buns to a rack and spoon the glaze on top while still warm.
+
+Cool in the pan 15 minutes.
