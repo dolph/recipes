@@ -8,11 +8,11 @@ Warm the milk in a medium saucepan over low heat until it reaches about 100F.
 
 - 1 cup whole milk
 
-Remove from the heat and sprinkle in the yeast and 1/4 teaspoon sugar (don't
-stir). Set aside until foamy, 5 minutes.
+Remove from the heat and sprinkle in the yeast and 1/4 to 1 teaspoon sugar (don't
+stir). Set aside until foamy, 5-15 minutes.
 
 - one 1/4-ounce packet active dry yeast (2.5 teaspoons)
-- 1/4 teaspoon granulated sugar
+- 1/4 teaspoon granulated sugar (or follow directions on yeast packet)
 
 Whisk in the melted butter, egg yolk and vanilla.
 
