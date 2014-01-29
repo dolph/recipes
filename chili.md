@@ -1,5 +1,5 @@
-Chili
-=====
+Sriracha Chili Con Carne
+========================
 
 In a dutch oven over medium-high heat, cook until nearly crispy:
 
