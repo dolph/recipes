@@ -1,21 +1,27 @@
-Open source chili
-=================
+Sriracha Chili Con Carne
+========================
 
-In a dutch oven, cook until crispy:
+In a dutch oven over medium-high heat, cook until nearly crispy:
 
 - 4 slices bacon, diced
 
 Sauté until translucent:
 
-- 2 cloves garlic, minced
 - 1 yellow onion, diced
 
-Combine and brown:
+Add, and sauté until fragrant:
+
+- 3 cloves garlic, minced
+
+Add, and brown thoroughly:
 
 - 1 pound ground beef
+
+Reduce heat to medium-low, add, and brown:
+
 - 1 pound pork, cubed
 
-Combine, cover and reduce heat to low for an hour:
+Combine, bring to quick boil, cover and reduce heat to low for an hour:
 
 - 48 ounces crushed tomatoes, canned
 - 2 tablespoons chili powder
