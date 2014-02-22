@@ -60,7 +60,7 @@ about 3 minutes.
 
 Add the rice and measured salt and stir to coat in the tomato mixture.
 
-- 1 cups paella rice (about 1/2 pound), sometimes labeled bomba or Valencia
+- 1 cup paella rice (about 1/2 pound), sometimes labeled bomba or Valencia
 - 1/2 teaspoon kosher salt
 
 Increase the heat to medium high. Add the broth and stir to combine.
