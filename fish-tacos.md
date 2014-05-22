@@ -35,7 +35,3 @@ Serve and (optionally) garnish with:
 
 - Lime wedges
 - Sliced avocado
-- Guacamole
-- Salsa
-- Sour cream
-- Hot sauce
