@@ -3,7 +3,7 @@ Black Beans
 
 In a small pot, sauté until soft:
 
-- 1 tablespoons olive oil
+- 1 tablespoons canola oil
 - 1/2 yellow onion, chopped
 - 1 teaspoon chili powder
 - 1 small chipotle in adobo, puréed
