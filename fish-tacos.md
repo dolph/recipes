@@ -3,7 +3,7 @@ Fish Tacos
 
 Marinate, 15 minutes:
 
-- 1 pound firm white fish (e.g. tilapia, snapper, cod, mahi mahi, or catfish)
+- 1 pound firm white fish (e.g. halibut, cod, tilapia, snapper, mahi mahi)
 - 1 tablespoon vegetable oil
 - 1 lime, juiced
 - 1 garlic clove, minced
