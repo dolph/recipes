@@ -5,9 +5,12 @@ In a small pot, sauté until soft:
 
 - 1 tablespoons olive oil
 - 1/2 yellow onion, chopped
-- 1 clove crushed garlic
 - 1 teaspoon chili powder
 - 1 small chipotle in adobo, puréed
+
+Combine and sauté until fragrant:
+
+- 1 clove garlic, minced
 
 Combine, bring to a boil, then simmer for an hour until thickened:
 
