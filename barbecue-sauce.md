@@ -8,7 +8,7 @@ Combine, bring to a boil, and simmer for 15 minutes:
 - 1/4 cup Jack Daniels whiskey
 - 1/4 cup Worcestershire sauce
 - 1/4 cup dark brown sugar
-- 3 tbsp Sirracha chile sauce
+- 3 tbsp Sriracha chile sauce
 - 2 tbsp molasses
 - 2 tbsp Dijon mustard
 - 1 tbsp ancho chile powder
