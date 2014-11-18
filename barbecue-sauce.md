@@ -1,4 +1,4 @@
-Barbecue Sauce
+Barbecue sauce
 ==============
 
 Combine, bring to a boil, and simmer for 15 minutes:
@@ -8,9 +8,9 @@ Combine, bring to a boil, and simmer for 15 minutes:
 - 1/4 cup Jack Daniels whiskey
 - 1/4 cup Worcestershire sauce
 - 1/4 cup dark brown sugar
-- 3 tbsp Sriracha chile sauce
-- 2 tbsp molasses
-- 2 tbsp Dijon mustard
-- 1 tbsp ancho chile powder
-- 1 tbsp liquid smoke
-- 2 tsp ground black pepper
+- 3 tablespoons Sriracha chile sauce
+- 2 tablespoons molasses
+- 2 tablespoons Dijon mustard
+- 1 tablespoon ancho chile powder
+- 1 tablespoon liquid smoke
+- 2 teaspoon ground black pepper
