@@ -7,10 +7,11 @@ Blacken:
 
 Blend with:
 
+- 1 cup beef stock
 - 3 tablespoons olive oil
-- 2 chipotle peppers, in adobo
-- 1 tablespoon beef base
-- 1 tooth of garlic
+- 3 chipotle peppers, in adobo
+- 1 cloves of garlic
+- 2 teaspoons garlic powder
+- 2 teaspoons onion powder
+- 2 teaspoons kosher salt
 - 1 teaspoon white vinegar
-
-Medicine and dilute to taste.
