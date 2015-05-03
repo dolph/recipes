@@ -3,14 +3,14 @@ Barbecue sauce
 
 Combine, bring to a boil, and simmer for 15 minutes:
 
-- 2 cups Heinz ketchup
-- 1/4 cup apple cider vinegar
-- 1/4 cup Jack Daniels whiskey
-- 1/4 cup Worcestershire sauce
-- 1/4 cup dark brown sugar
-- 3 tablespoons Sriracha chile sauce
-- 2 tablespoons molasses
-- 2 tablespoons Dijon mustard
+- 480 grams (~2 cups) Heinz ketchup
+- 60 grams (~1/4 cup) apple cider vinegar
+- 60 grams (~1/4 cup) Jack Daniels whiskey
+- 60 grams (~1/4 cup) Worcestershire sauce
+- 60 grams (~1/4 cup) dark brown sugar
+- 50 grams (~3 tablespoons) Sriracha chile sauce
+- 50 grams (~2 tablespoons) molasses
+- 15 grams (~1 tablespoon) liquid smoke
+- 4 grams (~2 teaspoons) ground black pepper
+- 2 teaspoons mustard powder (or 2 tablespoons prepared mustard)
 - 1 tablespoon ancho chile powder
-- 1 tablespoon liquid smoke
-- 2 teaspoon ground black pepper
