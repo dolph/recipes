@@ -9,7 +9,6 @@ In a Dutch oven over medium-high heat, saute until the onions are just short of 
 - 2 carrots, finely diced
 - 4 ribs celery, diced
 - 5 cloves garlic, minced
-- Kosher salt & freshly ground black pepper
 
 Increase heat to high and render the fat:
 
