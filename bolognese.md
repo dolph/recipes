@@ -25,16 +25,9 @@ Reduce heat to low and simmer for 2-2.5 hours with a lid slightly ajar:
 - 2.5 oz tomato paste
 - Bouquet garni of rosemary, thyme, sage, parsley
 
-Season with salt and pepper as necessary. Discard bouquet garni. Remove from heat.
+Discard bouquet garni. Remove from heat. Season sauce to tasete, toss to coat with pasta, and garnish:
 
-- Salt and pepper
-
-Toss to coat with:
-
-- 1 pound fresh tri color fettuccine pasta (cooked)
-
-Garnish:
-
+- Kosher salt & freshly ground black pepper
+- 1 pound fresh tri color fettuccine pasta, cooked
 - Parmigiano-reggiano
 - Parsley, minced
-- Kosher salt & freshly ground black pepper
