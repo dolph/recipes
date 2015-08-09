@@ -1,33 +1,35 @@
 Bolognese
 =========
 
-In a Dutch oven over medium-high heat, saute until the onions are just short of caramelized (about 10-12 minutes):
+In a Dutch oven over medium-high heat, saute until the onions are just short of caramelized (about 10-15 minutes):
 
 - 1/4 cup extra virgin olive oil
-– 1 leek, thinly sliced
-– 1 medium carrot, diced
-– 1 small fennel bulb, diced
+- 3 tablespoons butter
+- 1 medium onion, diced
+- 1 carrot, finely diced
+- 1 rib celery, diced
 - 3 cloves garlic, minced
-- Salt and pepper
+- Kosher salt & freshly ground black pepper
 
 Increase heat to high and cook until the meat is well browned (about 5-10 minutes):
 
-- 1 pound ground lamb
-- 1/2 pound ground veal
+- 1 pound lamb, ground
+- 1/2 pound veal, ground
+- 1/4 pound pancetta, ground
 
 Reduce heat to low and simmer for 2-2.5 hours with a lid slightly ajar:
 
 - 1 large tomato, seeded and diced
-- Tomato paste, 1 good large spoonful
+- 1 cup milk
+- 1.5 cup dry red (or white?) wine
+- 2.5 oz tomato paste
 - Bouquet garni of rosemary, thyme, sage, parsley
-- 1.5 cup chicken broth
-- 1.5 cup dry red wine
 
-Season with salt and pepper as necessary. Discard bouquet garni.
+Season with salt and pepper as necessary. Discard bouquet garni. Remove from heat.
 
 - Salt and pepper
 
-Combine with:
+Toss to coat with:
 
 - 1 pound fresh tri color fettuccine pasta (cooked)
 
@@ -35,3 +37,4 @@ Garnish:
 
 - Parmigiano-reggiano
 - Parsley, minced
+- Kosher salt & freshly ground black pepper
