@@ -18,9 +18,9 @@ Cook until the meat is well browned (about 5-10 minutes):
 - 1 pound lamb, ground
 - 8 ounces veal, ground
 
-Reduce heat to low and simmer for 2-2.5 hours with a lid slightly ajar:
+Reduce heat to low and simmer for 2 hours with a lid slightly ajar:
 
-- (?) 14 ounces crushed san marzano
+- (idea: maybe add here or in last 10 minutes of simmer?) 14 ounces crushed san marzano
 - 1 large tomato, seeded and diced
 - 1.5 cups chicken stock
 - 1.5 cups dry red wine
