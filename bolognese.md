@@ -4,7 +4,6 @@ Bolognese
 In a Dutch oven over medium-high heat, saute until the onions are just short of caramelized (about 10-15 minutes):
 
 - 1/4 cup extra virgin olive oil
-- 1 tablespoon butter
 - 2 medium onions, diced
 - 2 carrots, finely diced
 - 4 ribs celery, diced
@@ -21,6 +20,7 @@ Cook until the meat is well browned (about 5-10 minutes):
 
 Reduce heat to low and simmer for 2-2.5 hours with a lid slightly ajar:
 
+- (?) 14 ounces crushed san marzano
 - 1 large tomato, seeded and diced
 - 1.5 cups chicken stock
 - 1.5 cups dry red wine
