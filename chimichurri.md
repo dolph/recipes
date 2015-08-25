@@ -1,7 +1,7 @@
 Chimichurri
 ===========
 
-Makes 1 cup.
+Makes 1 cup. Combine all ingredients. A food processor is handy, but not necessary for this quantity.
 
 - 2/3 cup fresh parsley, leaves only, finely chopped
 - 1/3 cup fresh cilantro, leaves only, finely chopped
