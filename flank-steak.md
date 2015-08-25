@@ -6,7 +6,7 @@ Marinade
 
 Combine one of the following marinades in a zip-top bag.
 
-**Herbal marinade**:
+**Cilantro**:
 
 - 1/2 cup packed fresh cilantro leaves, minced
 - 3 medium scallions, minced
@@ -15,7 +15,15 @@ Combine one of the following marinades in a zip-top bag.
 - 1/4 cup vegetable oil
 - 1 tablespoon lime juice
 
-**Fajita marinade**:
+**Rosemary**:
+
+- 1/2 cup soy sauce
+- 1/2 cup olive oil
+- 1/4 cup honey
+- 6 large garlic cloves, minced
+- 3 tablespoons chopped fresh rosemary (or 1 tablespoon dried)
+
+**Fajita**:
 
 - 1/4 cup fresh lime juice
 - 1/4 cup tequila
