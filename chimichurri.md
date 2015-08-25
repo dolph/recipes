@@ -11,3 +11,4 @@ Makes 1 cup. Combine all ingredients. A food processor is handy, but not necessa
 - 2 pickled Spanish Piquillo peppers
 - 3 tablespoons fresh lime juice (or 2 tablespoons red wine vinegar)
 - 2 teaspoons kosher salt
+- 1/4 teaspoon red pepper flakes
