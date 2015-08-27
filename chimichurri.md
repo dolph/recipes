@@ -7,7 +7,7 @@ Makes 1 cup. Combine all ingredients. A food processor is handy, but not necessa
 - 1/3 cup fresh cilantro, leaves only, finely chopped
 - 1/2 cup extra virgin olive oil
 - 85 grams red onion, finely minced
-- 75 grams garlic cloves, finely minced
+- 20 grams fresh garlic, pressed
 - 2 pickled Spanish Piquillo peppers
 - 2 tablespoons fresh lime juice or red wine vinegar
 - 1 teaspoon kosher salt
