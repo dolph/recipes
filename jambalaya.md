@@ -8,7 +8,7 @@ Dry chicken and season.
 - Freshly ground black pepper
 - Cajun seasoning
 
-Peel, devein, and season shrimp.
+Peel, devein, and season shrimp. Keep refridgerated.
 
 - 1 pound large shrimp (10-25 per pound), peeled and deveined
 - Cajun seasoning
