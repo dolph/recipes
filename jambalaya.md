@@ -8,6 +8,11 @@ Dry chicken and season.
 - Freshly ground black pepper
 - Cajun seasoning
 
+Peel, devein, and season shrimp.
+
+- 1 pound large shrimp (10-25 per pound), peeled and deveined
+- Cajun seasoning
+
 Heat 15 inch cast iron skillet or dutch oven until smoking:
 
 - 2 teaspoons canola oil
@@ -48,7 +53,7 @@ Transfer chicken to a plate, and keep warm. Shred into bite size pieces when con
 
 Stir the shrimp and sausage into the rice, cover, and cook over low heat for 3 minutes.
 
-- 1 pound large shrimp (10-25 per pound), peeled and deveined, seasoned with cajun seasoning
+- Raw shrimp
 - Sausage
 
 Remove the skillet from the heat and let stand until the shrimp are fully cooked and the rice is tender.
