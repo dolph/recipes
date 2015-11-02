@@ -37,13 +37,13 @@ Add oil and return to medium heat until shimmering. Cook until the onion is soft
 
 Add the rice and cook until translucent:
 
-- 1.5 cups long grain white rice
+- 2 cups long grain white rice
 
-Add the liquids, and bring to a simmer.
+Add the liquids, and bring to a simmer, and leave uncovered.
 
 - 14.5 ounce can diced tomatoes, drained
 - 8 ounce bottle clam juice
-- 2.5 cups low sodium chicken broth
+- 3.5 cups low sodium chicken broth
 
 Return the chicken to the pot, nestling it into the water. Cook until the chicken is cooked through (about 30 minutes).
 
