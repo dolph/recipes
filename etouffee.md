@@ -1,6 +1,9 @@
 Shrimp Etouffee
 ===============
 
+- **Serves**: 8
+- **Total time**: 2.5 hours
+
 Peel and devein shrimp, setting aside shells and heads (if any) in a colandar:
 
 - 3 pounds medium shrimp (21 to 25 count per pound)
