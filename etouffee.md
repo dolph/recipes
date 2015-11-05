@@ -11,11 +11,11 @@ Season the shrimp:
 
 - 1 tablespoons Emeril's Essence / Bayou Blast
 
-Refridgerate peeled shrimp.
+Refrigerate peeled shrimp.
 
-Combine in a heavy 6-quart stockpot, and bring to a boil over high heat.
-Skim to remove any foam that rises to the surface. Reduce the heat to medium-low
-and simmer, uncovered, for 45 minutes, skimming occasionally.
+Combine in a heavy 6-quart stockpot, and bring to a boil over high heat. Skim
+to remove any foam that rises to the surface. Reduce the heat to medium-low and
+simmer, uncovered, for 45 minutes, skimming occasionally.
 
 - Shrimp shells, rinsed
 - 4 quarts water
@@ -28,18 +28,20 @@ and simmer, uncovered, for 45 minutes, skimming occasionally.
 - 1 teaspoon dried thyme
 - 2 teaspoons salt
 
-Remove the stock from the heat and strain through a fine-mesh sieve into a clean container;
-let cool completely.
+Remove the stock from the heat and strain through a fine-mesh sieve into a
+clean container; let cool completely.
 
 Melt the butter in a 6 quart stock pot set over medium heat.
 
 - 6 tablespoons unsalted butter
 
-Add the flour and stir continuously to make a roux. Stir the roux over medium heat until the color of peanut butter, 5 to 7 minutes.
+Add the flour and stir continuously to make a roux. Stir the roux over medium
+heat until the color of peanut butter, 5 to 7 minutes.
 
 - 1/2 cup all-purpose flour
 
-Halt the roux from darkening further by adding vegetables, and cook, stirring often, for 10 minutes. 
+Halt the roux from darkening further by adding vegetables, and cook, stirring
+often, for 10 minutes.
 
 - 4 cups chopped onions
 - 2 cups chopped green bell peppers
@@ -58,14 +60,16 @@ Whisk in:
 
 - 1 quart shrimp stock
 
-Bring the mixture to a boil, and reduce to a simmer, stirring occasionally, for 45 minutes.
+Bring the mixture to a boil, and reduce to a simmer, stirring occasionally, for
+45 minutes.
 
 Meanwhile, cook rice:
 
 - 4.5 cups water
 - 3 cups white rice, rinsed thoroughly
 
-Add shrimp to etouffee, stirring to evenly distribute. Cook the shrimp for 5-7 minutes, or until they are cooked through:
+Add shrimp to etouffee, stirring to evenly distribute. Cook the shrimp for 5-7
+minutes, or until they are cooked through:
 
 - Seasoned shrimp
 
