@@ -28,3 +28,17 @@
 - 2 ounces lime juice
 - 1 ounce triple sec (such as Cointreau, but not Grand Marnier)
 - 1 ounce simple syrup (optional)
+
+## Old fashioned
+
+- 2 ounces rye or bourbon
+- 2 dashes Angostura Bitters
+- 1 half dollar–sized slice orange peel, including pith, muddled
+- 1 cherry, muddled
+
+## Toronto
+
+- 2 ounces rye whiskey
+- 1/4 ounce Fernet
+- 1/4 ounce simple syrup
+- 2 dashes Angostura bitters
