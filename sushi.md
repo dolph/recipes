@@ -17,7 +17,7 @@ Meanwhile, combine in a small bowl and heat in the microwave on high for 30 to 4
 
 - 2 tablespoons rice vinegar
 - 2 tablespoons sugar
-- 1 (to 3?) teaspoon kosher salt
+- 1 teaspoon kosher salt
 
 Transfer the rice into a glass mixing bowl and add the vinegar mixture.
 Fan the rice while folding thoroughly to combine.
