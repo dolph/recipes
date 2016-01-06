@@ -42,3 +42,11 @@
 - 1/4 ounce Fernet
 - 1/4 ounce simple syrup
 - 2 dashes Angostura bitters
+
+### Mexican Martini
+
+- 2 ounces tequila
+- 1 ounce triple sec
+- 1 ounce sprite
+- 1 ounce orange juice
+- 1/2 ounce lime juice
