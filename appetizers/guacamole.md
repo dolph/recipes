@@ -8,4 +8,4 @@ Chop together:
 - 2 avocados, seeded and scooped out of skin
 - 4 tablespoons roasted and charred Roma tomatoes, diced
 - 2 tablespoons medium dice red onions
-- coarse ground salt to taste (sea salt is better)
+- Kosher salt
