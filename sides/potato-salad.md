@@ -24,8 +24,8 @@ Meanwhile, in a small bowl, whisk together and set aside:
 - 1 teaspoon Kosher salt
 - 1 teaspoon freshly ground black pepper
 
-Combine
--------
+Marinate
+--------
 
 When the potatoes are cool enough to handle, cut them down to bite size and place them in a large bowl. While the potatoes are still warm, pour enough dressing over them to moisten. Add:
 
