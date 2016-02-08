@@ -16,23 +16,22 @@ Dressing
 
 Meanwhile, in a small bowl, whisk together and set aside:
 
-- 1 cup mayonnaise
-- 1/4 cup buttermilk
-- 2 tablespoons Dijon mustard
-- 2 tablespoons whole-grain mustard
-- 1/2 cup chopped fresh dill
+- 220 grams (~1 cup) mayonnaise
+- 60 grams (~1/4 cup) buttermilk
+- 2 tablespoons Colman's mustard powder
+- 6 grams (1/2 cup) fresh dill, chopped
 - 1 teaspoon Kosher salt
-- 1 teaspoon freshly ground black pepper
+- 2 grams (~1 teaspoon) freshly ground black pepper
 
 Marinate
 --------
 
 When the potatoes are cool enough to handle, cut them down to bite size and place them in a large bowl. While the potatoes are still warm, pour enough dressing over them to moisten. Add:
 
-- 1/2 cup chopped celery
+- 2 ribs (~1/2 cup) chopped celery
 - 1/2 cup chopped red onion
 - 2 teaspoon Kosher salt
-- 1 teaspoon freshly ground black pepper
+- 2 grams (~1 teaspoon) freshly ground black pepper
 
 Toss well, cover, and refrigerate for a few hours to allow the flavors to blend.
 
