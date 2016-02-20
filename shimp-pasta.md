@@ -42,7 +42,7 @@ Remove shrimp and set aside.
 Add, bring to a simmer, and cook until slightly thickened (~15 minutes):
 
 - Tomatoes
-- 4 ounces clam juice (optional, for variation with shrimp)
+- 4 ounces clam juice
 
 Remove from heat, and add:
 
