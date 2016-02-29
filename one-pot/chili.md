@@ -1,7 +1,7 @@
 Sriracha Chili Con Carne
 ========================
 
-**Makes 3 quarts.**
+> Makes 3 quarts.
 
 In a dutch oven over medium-high heat, cook until nearly crispy:
 
