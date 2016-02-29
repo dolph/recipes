@@ -5,7 +5,11 @@ In a dutch oven over medium-high heat, cook until nearly crispy:
 
 - 4 slices bacon, diced
 
-Sauté until translucent:
+Set aside bacon and all but 1 tablespoon of bacon fat. Working in batches if necessary, brown:
+
+- 1 pound pork, cubed
+
+Set pork aside. Return bacon and bacon fat to pan. Sauté until translucent:
 
 - 1 yellow onion, diced
 
@@ -17,13 +21,10 @@ Add, and brown thoroughly:
 
 - 1 pound ground beef
 
-Reduce heat to medium-low, add, and brown:
-
-- 1 pound pork, cubed
-
 Combine, bring to quick boil, cover and reduce heat to low for an hour:
 
-- 48 ounces crushed tomatoes, canned
+- 1 cup water
+- 28 ounces crushed tomatoes, canned
 - 4 tablespoons sriracha
 - 2 tablespoons chili powder
 - 1 teaspoon ground cumin
@@ -37,8 +38,8 @@ Combine a separate bowl, and then add to chili:
 
 Add the beans and simmer for 10 minutes:
 
-- 15 ounces black beans, drained and rinsed
-- 15 ounces kidney beans, drained and rinsed
+- 1 can (15 ounces) black beans, drained and rinsed
+- 1 can (15 ounces) kidney beans, drained and rinsed
 
 Finish with:
 
