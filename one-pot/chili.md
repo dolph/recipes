@@ -43,4 +43,4 @@ Add the beans and simmer for 10 minutes:
 
 Finish with:
 
-- 1 lime, juiced
+- 2 tablespoons lime juice (~1 lime, juiced)
