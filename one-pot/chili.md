@@ -1,5 +1,5 @@
-Sriracha Chili Con Carne
-========================
+Chili
+=====
 
 > Makes 3 quarts.
 
