@@ -1,11 +1,13 @@
 Sriracha Chili Con Carne
 ========================
 
+**Makes 3 quarts.**
+
 In a dutch oven over medium-high heat, cook until nearly crispy:
 
 - 4 slices bacon, diced
 
-Set aside bacon and all but 1 tablespoon of bacon fat. Working in batches if necessary, brown:
+Set aside bacon and all but 1 tablespoon of bacon fat. Brown:
 
 - 1 pound pork, cubed
 
