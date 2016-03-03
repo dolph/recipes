@@ -78,6 +78,6 @@ To serve, line the bottom of bowls with tortilla strips, ladle soup on top, and 
 
 - **Limes**, cut into wedges
 - **Avacado**, diced
-- **Cotija cheese**, crumbled, or Monterey Jack cheese, diced fine
+- **Cotija cheese**, crumbled, or **Monterey Jack cheese**, diced fine
 - Fresh cilantro
-- **Crema mexicana**, or sour cream
+- **Crema mexicana**, or **sour cream**
