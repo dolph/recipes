@@ -11,13 +11,13 @@ Adjust oven rack to middle position and preheat to 425 F.
 Spread tortilla strips on a rimmed baking sheet, drizzle with oil, and toss until evenly coated.
 
 - **8 corn tortillas**, cut into 1/2" wide strips
-- **1 tablespoon canola oil**
+- 1 tablespoon canola oil
 
 Rotate the pan and shake the pan to redistribute halfway through baking. Bake until the strips are golden brown (~14 minutes).
 
 Lightly season with salt and transfer strips to a paper-towel lined plate.
 
-- **Table salt**
+- Table salt
 
 For the soup
 ------------
@@ -35,7 +35,7 @@ Bring to a boil in a large saucepan, then reduce heat to low, cover, and simmer 
 - **8 cups low sodium chicken broth**
 - **8 sprigs fresh cilantro**
 - **1 sprig fresh oregeno**
-- **1/2 teaspoon kosher salt**
+- 1/2 teaspoon kosher salt
 
 Transfer the chicken to a large plate.
 
@@ -53,12 +53,12 @@ Puree:
 
 Heat in a dutch oven over medium high heat until shimmering:
 
-- **1 tablespoon canola oil**
+- 1 tablespoon canola oil
 
 Add and cook, stirring frequently until the mixture darkens:
 
 - Vegetable puree
-- **1/8 teaspoon salt**
+- 1/8 teaspoon salt
 
 Add, bring to a boil and reduce to a simmer for 15 minutes:
 
