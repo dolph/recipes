@@ -3,14 +3,13 @@ Barbecue sauce
 
 Combine, bring to a boil, and simmer for 15 minutes:
 
-- 480 grams (~2 cups) ketchup
-- 60 grams (~1/4 cup) apple cider vinegar
-- 60 grams (~1/4 cup) whiskey
-- 60 grams (~1/4 cup) Worcestershire sauce
-- 60 grams (~1/4 cup) dark brown sugar
-- 50 grams (~3 tablespoons) sriracha chile sauce
-- 50 grams (~2 tablespoons) molasses
-- 15 grams (~1 tablespoon) liquid smoke
-- 4 grams (~2 teaspoons) ground black pepper
-- 2 teaspoons mustard powder (or 2 tablespoons prepared mustard)
-- 1 tablespoon ancho chile powder
+- 240 grams (~1 cups.) ketchup
+- 30 grams (~2 tablespoons) apple cider vinegar
+- 30 grams (~2 tablespoons) whiskey
+- 30 grams (~2 tablespoons) Worcestershire sauce
+- 30 grams (~2 tablespoons) dark brown sugar
+- 25 grams (~1 tablespoon) molasses
+- 8 grams (~1.5 teaspoons) liquid smoke
+- 2 grams (~1 teaspoons) ground black pepper
+- 1 teaspoon mustard powder
+- 1.5 teaspoon ancho chile powder
