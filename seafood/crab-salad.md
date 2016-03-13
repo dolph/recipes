@@ -4,7 +4,7 @@ Crab salad
 In a medium bowl, combine:
 
 - 1 pound lump crabmeat
-- 1 stalk celery, dice
+- 1 stalk celery, diced
 - 4 teaspoons fresh chives, finely sliced
 - 1 teaspoon fresh tarragon leaves, minced
 - 70 grams (~1/3 cup) mayonnaise
