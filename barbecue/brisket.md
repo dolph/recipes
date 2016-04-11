@@ -3,15 +3,10 @@ Brisket
 
 > Note: It is not possible to write a traditional "recipe" for brisket. Instead, we have the variables.
 
-- Grade: select
+- Grade: high choice or prime
 - Rub:
-  - 3 tablespoon coarsely ground black pepper
-  - 1 tablespoon granulated white sugar
-  - 1 tablespoon onion powder
-  - 2 teaspoons mustard powder
-  - 2 teaspoons garlic powder
-  - 2 teaspoons chili or ancho powder
-  - 1 teaspoon chipotle or cayenne powder
+  - 1 part salt
+  - 1 part pepper
 - Warm up: 1 hour
 - Smoker temperature: 225 F
 - Wood: mesquite
