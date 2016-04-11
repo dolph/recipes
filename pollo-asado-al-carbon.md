@@ -25,7 +25,7 @@ Reserve 1/4 cup of marinade for basting. Marinate the chicken for 2-4 hours.
 Grilling
 --------
 
-Prepare a grill with a hot side and a cool side. Bring the grill to 275 degrees. Brush the grill grates with oil.
+Prepare a grill with a hot side and a cool side. Bring the grill to 325 F degrees. Brush the grill grates with oil.
 
 Cook chicken bone-side down on the hot side of the grill, cover.
 
