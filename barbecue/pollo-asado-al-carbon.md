@@ -27,15 +27,11 @@ Grilling
 
 Prepare a grill with a hot side and a cool side. Bring the grill to 325 F degrees. Brush the grill grates with oil.
 
-Cook chicken bone-side down on the hot side of the grill, cover.
+Cook chicken bone-side down on the hot side of the grill for 15 minutes, covered.
 
-Move chicken to cool side of the grill and cover. Cook 20 minutes.
+Move chicken to cool side of the grill and cover. Cook 15 minutes.
 
-Turn chicken, baste heavily with marinade, cover and cook on the cool side another 20 minutes.
-
-Turn chicken, baste heavily with marinade, cover and cook on the hot side another 20 minutes.
-
-Turn chicken, baste heavily with marinade, cover and cook on the hot side another 20 minutes.
+Continue turning every 15 minutes, basting with marinade each time, until the chicken reach 165 F.
 
 Serve with:
 
