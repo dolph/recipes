@@ -1,7 +1,7 @@
 Brisket
 =======
 
-> It's not possible to write a traditional "recipe" for brisket. Instead, we have the variables.
+> It's not possible to write a traditional "recipe" for brisket. Instead, we have some of the variables.
 
 - Grade: high choice or prime
 - Rub:
