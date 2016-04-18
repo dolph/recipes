@@ -37,6 +37,8 @@ Add oil and return to medium heat until shimmering. Cook until the onion is soft
 
 Add the rice and cook until translucent:
 
+> Without rinsing the rice, the jambalaya ends up a bit mushy, but it's not necessarily bad. Try rinsing starches?
+
 - 2 cups long grain white rice
 
 Add the liquids, and bring to a simmer, and leave uncovered.
