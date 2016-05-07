@@ -9,8 +9,8 @@ Brisket
   - 1 part salt
   - 1 part pepper
 - Warm up: 1 hour
-- Smoker temperature: 225 F
-- Wood: mesquite
-- Internal temperature: 190 F
-- Wrap: naked
+- Smoker temperature: 275 F
+- Wood: oak
+- Internal temperature: 203 F
+- Wrap: naked, or butcher paper if necessary
 - Rested temperature: 140 F
