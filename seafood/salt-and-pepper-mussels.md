@@ -33,10 +33,14 @@ Add to pan and toss to finish:
 
 - Cooked pasta
 - Pan-roasted garlic
-- 1/2 cup freshly grated parmesean
 - 2 tablespoons fresh parsley, chopped
 - 1 tablespoon black pepper
 - 1 tablespoon extra virgin olive oil
+
+Garnish with:
+
+- Freshly grated parmesean
+- Fresh parsley, chopped
 
 Serve with:
 
