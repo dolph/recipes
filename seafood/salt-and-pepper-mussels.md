@@ -22,10 +22,12 @@ When the garlic is browned, remove from heat, set aside and cover. Allow to sit 
 
 Remove the garlic from the pan and set aside.
 
-When the pasta is finished, return the sauté pan to a medium-low heat and bring to a simmer:
+When the pasta is al dente, set aside at least 1/2 cup of pasta water and strain the pasta.
+
+Return the sauté pan to a medium-low heat and bring to a simmer:
 
 - 3 tablespoons butter
-- 1/2 cup pasta water (reserve extra in case you need to maintain moisture)
+- 1/2 cup pasta water (reserve extra in case you need to maintain moisture later)
 
 Add, cover, and return heat to low for 8 minutes:
 
