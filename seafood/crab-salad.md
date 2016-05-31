@@ -9,7 +9,7 @@ In a medium bowl, combine:
 - 1 teaspoon fresh tarragon leaves, minced
 - 70 grams (~1/3 cup) mayonnaise
 - 40 grams (~3 tablespoons) sour cream
-- 1 teaspoon lemon juice
+- 1 tablespoon lemon juice
 - 1 teaspoon Colman's mustard powder mustard
 - Kosher salt and freshly ground black pepper
 
