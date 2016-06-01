@@ -1,7 +1,7 @@
 Crab salad
 ==========
 
-<img src="http://i.imgur.com/JcilzHb.jpg" alt="Crab salad" style="width: 480px;"/>
+<img src="http://i.imgur.com/JcilzHb.jpg" alt="Crab salad" width="480" />
 
 In a medium bowl, combine:
 
