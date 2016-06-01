@@ -5,7 +5,7 @@ Salt & pepper mussels
 
 > The salt here comes entirely from the parmesean and the pasta water. Be heavy handed with both!
 
-![Salt & pepper mussels](https://pbs.twimg.com/media/Cinwya_VAAAZUR0.jpg:medium)
+<img src="https://pbs.twimg.com/media/Cinwya_VAAAZUR0.jpg:large" alt="Salt & pepper mussels" width="50%" />
 
 Start the pasta:
 
