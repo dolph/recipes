@@ -34,5 +34,3 @@ When the potatoes are cool enough to handle, cut them down to bite size and plac
 - 2 grams (~1 teaspoon) freshly ground black pepper
 
 Toss well, cover, and refrigerate for a few hours to allow the flavors to blend.
-
-Serve cold or at room temperature.
