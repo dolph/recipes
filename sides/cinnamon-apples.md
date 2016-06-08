@@ -1,7 +1,7 @@
 Cinnamon apples
 ===============
 
-<img src="httpshttp://i.imgur.com/d3ztxYs.jpg" alt="Cinnamon apples" width="50%" />
+<img src="http://i.imgur.com/d3ztxYs.jpg" alt="Cinnamon apples" width="50%" />
 
 In a skillet over medium heat, melt together:
 
