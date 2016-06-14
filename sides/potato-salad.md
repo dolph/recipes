@@ -1,9 +1,6 @@
 Potato salad
 ============
 
-Potatoes
---------
-
 Place the potatoes and 2 tablespoons of salt in a large pot of water. Bring the water to a boil, then lower the heat and simmer for 10 to 15 minutes, until the potatoes are barely tender when pierced with a knife.
 
 - 1 pound small white potatoes
@@ -17,7 +14,7 @@ Meanwhile, in a medium bowl, combine:
 - 15 grams (~1 tablespoon) buttermilk
 - 1 rib celery, chopped
 - 3 tablespoons red onion, chopped
-- 2 grams (3 tablespoons) fresh dill, chopped
+- 2 grams (3 tablespoons) fresh dill, chopped (or 2 tablespoons dill pickles, chopped)
 - 2 teaspoons Colman's mustard powder
 - 2 grams (~1 teaspoon) freshly ground black pepper
 - 1 teaspoon Kosher salt
