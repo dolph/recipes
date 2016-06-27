@@ -19,7 +19,7 @@ Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bo
 
 Add egg and beating well.
 
-- 1 large eggs
+- 1 large egg
 
 Gradually beat in flour mixture.
 
