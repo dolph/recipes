@@ -27,6 +27,6 @@ Stir in morsels by hand.
 
 Drop by rounded tablespoon onto ungreased baking sheets. 
 
-- 1 cup chocolate chips
+- 6 ounces (1 cup) chocolate chips
 
 Bake until golden brown (about 10 minutes). Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
