@@ -21,12 +21,12 @@ Add egg and beating well.
 
 - 1 large egg
 
-Gradually beat in flour mixture.
+Gradually beat in flour mixture. Stop the mixer as soon as it's combined.
 
-Stir in morsels by hand.
-
-Drop by rounded tablespoon onto ungreased baking sheets. 
+Fold in chocolate by hand.
 
 - 6 ounces (1 cup) chocolate chips
+
+Use a pair of spoons to portion out 25 grams at a time, form into rounds, and spread onto ungreased baking sheets.
 
 Bake until golden brown (about 10 minutes). Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
