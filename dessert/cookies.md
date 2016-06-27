@@ -17,7 +17,7 @@ Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bo
 - 75 grams packed brown sugar
 - 1/2 teaspoon vanilla extract
 
-Add egg and beating well.
+Add egg and beat well.
 
 - 1 large egg
 
@@ -31,4 +31,6 @@ Fold in chocolate by hand.
 
 Use a pair of spoons to portion out 25 grams at a time, form into rounds, and spread onto ungreased baking sheets.
 
-Bake until golden brown (about 10 minutes). Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
+Add a few flakes of finishing salt to each round.
+
+Bake until golden brown (about 11 minutes). Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
