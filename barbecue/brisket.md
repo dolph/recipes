@@ -16,3 +16,17 @@ Brisket
 - Internal temperature: 203 F
 - Wrap: naked, or butcher paper if necessary
 - Rested temperature: 140 F
+
+Cook log
+--------
+
+July 3, 2016
+
+- 7.5 pounds prime cut, trimmed
+- 5:45am: started fire
+- 6:30am: brisket on
+- 11:45am: spritz
+- 12:45pm: spritz & wrap in butcher paper
+- 1:45pm: brisket off
+- ?:??pm: hit 140 F
+- 6:00pm: served
