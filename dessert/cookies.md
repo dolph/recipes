@@ -29,7 +29,7 @@ Fold in chocolate by hand.
 
 - 6 ounces (1 cup) semi-sweet chocolate chips
 
-Use a pair of spoons to portion out 25 grams at a time, form into rounds, and spread onto ungreased baking sheets.
+Use a pair of spoons to portion out 25 grams at a time, form into rounds, and spread onto a baking sheet lined with parchment paper.
 
 Add a few flakes of finishing salt to each round.
 
