@@ -22,7 +22,7 @@ Cook log
 
 July 3, 2016
 
-- 7.5 pounds prime cut, trimmed
+- Prime cut (10.9 pounds untrimmed, 7.5 pounds trimmed)
 - 5:45am: started fire
 - 6:30am: brisket on
 - 11:45am: spritz
