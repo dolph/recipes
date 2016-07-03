@@ -14,7 +14,7 @@ Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bo
 
 - 4 tablespoons butter, softened
 - 75 grams granulated sugar
-- 75 grams packed brown sugar
+- 75 grams brown sugar
 - 1/2 teaspoon vanilla extract
 
 Add egg and beat well.
