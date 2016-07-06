@@ -28,5 +28,4 @@ July 3, 2016
 - 11:45am: spritz
 - 12:45pm: spritz & wrap in butcher paper
 - 1:45pm: brisket off
-- ?:??pm: hit 140 F
 - 6:00pm: served
