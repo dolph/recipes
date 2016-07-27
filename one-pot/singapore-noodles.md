@@ -10,7 +10,7 @@ Marinate for 15 minutes:
 - 2 pork steaks, sliced thin
 - 1 tablespoon honey
 - 1 tablespoon soy sauce
-- 2 teaspoons cornflour
+- 2 teaspoons masa (corn flour)
 
 Stir fry in a wok over high heat (smoking).
 
@@ -26,7 +26,7 @@ Set pork aside. Stir fry vegetables for a bit:
 - 1 tablespoon curry powder
 - 1 teaspoon chinese 5 spice
 
-Stir fry until prawns are cooked through:
+Stir fry until shrimp are cooked through:
 
 - 1/2 pound shrimp, peeled & deveined
 - 1 tablespoon rice wine vinegar
