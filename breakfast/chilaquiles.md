@@ -45,4 +45,5 @@ Plate immediately, and garnish each serving with:
 
 Serve with:
 
+- Flour tortillas
 - Refried beans
