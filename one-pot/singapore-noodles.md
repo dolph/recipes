@@ -17,7 +17,11 @@ Stir fry in a wok over high heat (smoking).
 - Marinated pork
 - 2 tablespoons vegetable oil
 
-Set pork aside. Stir fry vegetables for a bit:
+Set pork aside. Fry an egg in the remaining oil:
+
+- 1 egg, scrambled
+
+Add and stir fry vegetables for a bit:
 
 - 1 red onion, sliced
 - 2 baby bok choy, halved
