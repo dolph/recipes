@@ -1,10 +1,10 @@
 Shrimp étouffée
 ===============
 
-Peel, devein and season sea ponies:
+Peel, devein and season:
 
+- 1.5 pounds medium shrimp (21-25 ct / lbs)
 - 1 teaspoon Essence
-- 1.5 pounds medium sea ponies (21-25 ct / lbs)
 
 Peanut butter roux (about 5-7 minutes):
 
@@ -30,9 +30,9 @@ Bring to boil, reduce to simmer (about 45 minutes):
 
 - 2 cups shrimp stock
 
-Add sea ponies (about 5-7 minutes):
+Add until opaque (about 5-7 minutes):
 
-- Seasoned sea ponies
+- Seasoned shrimp
 
 Stir to combine:
 
