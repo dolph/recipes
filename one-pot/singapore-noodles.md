@@ -1,6 +1,8 @@
 Singapore noodles
 =================
 
+> Seasoning sucked, but I might have paid the price for substituting ground ginger for fresh and mediocre curry powder.
+
 Soak in cold water:
 
 - 160 grams rice noodles
