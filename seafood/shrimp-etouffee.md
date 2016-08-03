@@ -26,7 +26,7 @@ Stop and season (about 2-3 minutes):
 - 1/4 teaspoon cayenne pepper
 - 2 teaspoon Essence
 
-Bring to boil, reduce to simmer (about 45 min):
+Bring to boil, reduce to simmer (about 45 minutes):
 
 - 2 cups shrimp stock
 
