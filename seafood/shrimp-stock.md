@@ -1,13 +1,13 @@
-Shrimp Stock
+Shrimp stock
 ============
 
 Rinse under cold water:
 
-- 1 pound (about 1 quart) sea pony parts
+- 1 pound (about 1 quart) shrimp parts
 
 Bring to a boil, simmer, skim any foam (about 45 minutes):
 
-- Sea pony parts
+- Shrimp parts
 - 1 cup yellow onions, coarsely chopped
 - 1/2 cup celery, coarsely chopped
 - 1/2 cup carrots, coarsely chopped
