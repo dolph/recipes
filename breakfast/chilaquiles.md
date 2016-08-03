@@ -29,9 +29,9 @@ Transfer to a non-stick pan:
 
 Cook over medium heat until salsa just begins to dry up. Add and lower heat:
 
-- 6 eggs, beaten
+- 6 eggs
 
-When eggs are nearly cooked, add and fold together:
+When whites are starting to solidify, break yolks, add the following, and fold it all together:
 
 - 1 heaping tablespoon chunky salsa
 - Tortilla strips
