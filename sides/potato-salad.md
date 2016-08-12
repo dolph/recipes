@@ -1,7 +1,7 @@
 Potato salad
 ============
 
-Place the potatoes and 2 tablespoons of salt in a large pot of water. Bring the water to a boil, then lower the heat and simmer for 10 to 15 minutes, until the potatoes are barely tender when pierced with a knife.
+Place the potatoes and salt in a large pot of water. Bring the water to a boil, then lower the heat and simmer for 10 to 15 minutes, until the potatoes are barely tender when pierced with a knife.
 
 - 1 pound small white potatoes
 - 2 teaspoons Kosher salt
