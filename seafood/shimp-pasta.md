@@ -24,7 +24,7 @@ Without taking them out of the can, drain well, and gently pulse with an immerso
 
 In a small bowl, season lightly:
 
-- 8 ounces shrimp, peeled & deveined
+- 12 ounces shrimp, peeled & deveined
 - Kosher salt
 
 Meanwhile, in a medium sauce pan over medium heat, cook until garlic is fragrant (~30 seconds):
