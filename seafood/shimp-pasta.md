@@ -20,7 +20,7 @@ Sauce
 
 Without taking them out of the can, drain well, and gently pulse with an immerson blender until there are no large chunks of tomato remaining:
 
-- 28 ounce can whole peeled tomatoes, drained
+- 14.5 ounce can whole peeled tomatoes, drained
 
 In a small bowl, season lightly:
 
