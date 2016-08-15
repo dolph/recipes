@@ -52,3 +52,7 @@ Remove from heat, and add:
 - Kosher salt & freshly ground black pepper to taste
 
 Adjust consistency with reserved pasta cooking liquid as needed.
+
+Garnish with:
+
+- Grated Parmesan
