@@ -48,7 +48,7 @@ Remove from heat, and add:
 
 - Shrimp
 - Pasta
-- 2 tablspoons chopped fresh basil
+- 2 tablespoons chopped fresh basil
 - Kosher salt & freshly ground black pepper to taste
 
 Adjust consistency with reserved pasta cooking liquid as needed.
