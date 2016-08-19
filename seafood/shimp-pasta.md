@@ -27,7 +27,7 @@ In a small bowl, season lightly:
 - 12 ounces shrimp, peeled & deveined
 - Kosher salt
 
-Meanwhile, in a medium sauce pan over medium heat, cook until garlic is fragrant (~30 seconds):
+Meanwhile, in the same stock pot used for pasta, cook garlic over medium heat until fragrant (~30 seconds):
 
 - 5 teaspoons extra virgin olive oil
 - 3 garlic cloves, minced
