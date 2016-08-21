@@ -16,9 +16,9 @@ In a medium bowl, combine:
 
 In a small bowl, combine:
 
-- 1/2 cup mayonnaise
-- 1/2 cup plain yogurt or sour cream
-- 1/2 cup half-and-half
+- 115 grams (~1/2 cup) mayonnaise
+- 115 grams (~1/2 cup) plain yogurt or sour cream
+- 115 grams (~1/2 cup) half-and-half
 - Small handful of fresh dill, minced
 - 1 tablespoon brown sugar
 - 1 lemon, juiced
