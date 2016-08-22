@@ -12,7 +12,7 @@ In a medium bowl, combine:
 
 - 3 stalks celery, chopped
 - 3 whole green onions, chopped
-- 2 cups grapes, halved
+- 2 cups grapes, quartered
 
 In a small bowl, combine:
 
