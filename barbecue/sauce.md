@@ -11,7 +11,6 @@ Combine, bring to a boil, and simmer for 15 minutes:
   - 60 grams (~4 tablespoons) for pork and poultry
 - 25 grams (~1 tablespoon) molasses
   - 50 grams (~2 tablespoons) for pork and poultry
-- 8 grams (~1.5 teaspoons) liquid smoke
 - 2 grams (~1 teaspoon) ground black pepper
 - 1 teaspoon mustard powder
 - 1.5 teaspoon ancho chile powder
