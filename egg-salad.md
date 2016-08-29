@@ -1,19 +1,21 @@
 Egg salad
 =========
 
+> Serves 2.
+
 Combine:
 
-- 6 eggs, hard boiled, chopped
-- 60 grams mayonnaise
-- 1 teaspoon Colman's mustard powder
+- 4 eggs, hard boiled, chopped
+- 40 grams mayonnaise
+- 1/2 teaspoon Colman's mustard powder
 - Salt and pepper, to taste
 
 Choose an acid to add:
 
 - 1 pickle, diced
 - Pickle relish
-- 1 lemon, juiced
-- 1 tablespoon apple cider, white wine or sherry vinegar
+- 1/2 lemon, juiced
+- 1 teaspon apple cider, white wine or sherry vinegar
 
 Optional seasoning additions:
 
