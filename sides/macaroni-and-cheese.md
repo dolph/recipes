@@ -16,7 +16,7 @@ Adjust oven rack to lower middle position. Turn on broiler.
 
 Brint 2 quarts water to a boil in a pot. Cook until tender, drain, and set aside:
 
-- 2 teaspoons table salt
+- 1.5 teaspoons table salt
 - 225 grams elbow macaroni
 
 In the empty pot, melt over medium high heat:
@@ -28,6 +28,7 @@ Whisk well to combine until fragrant and a roux forms (about 1 minute):
 - 3 tablespoons unbleached all-purpose flour
 - 2 teaspoons dry mustard
 - 1/8 teaspoon cayenne
+- 1/2 teaspoon salt
 
 Whisking constantly, gradually add:
 
