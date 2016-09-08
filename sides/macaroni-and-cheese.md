@@ -1,17 +1,6 @@
 Macaroni & cheese
 =================
 
-Bread crumbs
-------------
-
-Pulse in a food processor until coarsely ground, and set aside:
-
-- 3 slices high-quality white sandwich bread, torn into quarters
-- 1.5 tablespoons cold unsalted butter, cut into 3 pieces
-
-Macaroni & cheese
------------------
-
 Adjust oven rack to lower middle position. Turn on broiler.
 
 Brint 2 quarts water to a boil in a pot. Cook until tender, drain, and set aside:
@@ -28,7 +17,7 @@ Whisk well to combine until fragrant and a roux forms (about 1 minute):
 - 3 tablespoons unbleached all-purpose flour
 - 2 teaspoons dry mustard
 - 1/8 teaspoon cayenne
-- 1/2 teaspoon salt
+- 1 teaspoon salt
 
 Whisking constantly, gradually add:
 
@@ -49,7 +38,7 @@ Add and cook over medium-low heat, stirring constantly, until steaming and heate
 
 Transfer the mixture to a broiler-safe 8 inch by 8 inch baking dish or a 9 inch cast iron skillet. Sprinkle with:
 
-- Bread crumbs
+- 1/3 cup Panko bread crumbs
 
 Broil until deep golden brown (3-5 minutes).
 
