@@ -1,6 +1,8 @@
 Macaroni & cheese
 =================
 
+> Serves 6-8
+
 Adjust oven rack to lower middle position. Turn on broiler.
 
 Brint 2 quarts water to a boil in a pot. Cook until tender, drain, and set aside:
