@@ -3,7 +3,7 @@ Tuna salad
 
 Drain over the sink and transfer to a mixing bowl:
 
-- 5-ounce cans water-packed tuna fish
+- 5 oz can water-packed tuna fish
 
 Combine with:
 
