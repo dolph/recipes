@@ -1,6 +1,8 @@
 Greek salad
 ===========
 
+![Greek salad](http://i.imgur.com/IAdzNYP.jpg)
+
 > [Source](http://www.foodnetwork.com/recipes/ina-garten/greek-salad-recipe.html)
 
 Vinaigrette
