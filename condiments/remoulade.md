@@ -1,4 +1,4 @@
-Remoulade sauce
+Rémoulade sauce
 ===============
 
 Whisk together:
