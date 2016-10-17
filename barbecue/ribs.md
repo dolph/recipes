@@ -11,10 +11,17 @@ Ribs
 * Wood: oak
 * Spritz: Apple cider vinegar
 
-1. Cook meat side up until desired color is reach (~3 hours), spritzing occassionally.
+Directions
+----------
 
-2. Spritz one last time, brush both sides with barbecue sauce, and tightly wrap in alluminum foil (which has also been spritzed) meat side down.
+Total cook time: 7 hours
 
-3. Cook until tender (about 2 hours).
+1. Apply slather and rub. Allow the meat to warm up at room temperature (~1 hour).
 
-4. Rest to 140 F (about 1 hour).
+2. Cook meat side up until desired color is reach (~3 hours), spritzing occassionally.
+
+3. Spritz one last time, brush both sides with barbecue sauce, and tightly wrap in alluminum foil (which has also been spritzed) meat side down.
+
+4. Cook until tender (~2 hours).
+
+5. Rest to 140 F (~1 hour).
