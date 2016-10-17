@@ -6,7 +6,6 @@ Ribs
 * Rub:
   * 2 parts pepper
   * 1 part salt
-* Warm up: 1 hour
 * Smoker temperature: 275 F
 * Wood: oak
 * Spritz: Apple cider vinegar
@@ -14,7 +13,7 @@ Ribs
 Directions
 ----------
 
-Total cook time: 7 hours
+Total time: 7 hours
 
 1. Apply slather and rub. Allow the meat to warm up at room temperature (~1 hour).
 
