@@ -1,7 +1,7 @@
 Ribs
 ====
 
-* Cut: St. Louis Style
+* Cut: St. Louis style
 * Slather: olive oil
 * Rub:
   * 2 parts pepper
