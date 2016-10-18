@@ -15,7 +15,7 @@ Directions
 
 Total time: 7 hours
 
-1. Apply slather and rub. Allow the meat to warm up at room temperature (~1 hour).
+1. Lightly apply slather. Generously apply rub. Allow the meat to warm up at room temperature (~1 hour).
 
 2. Cook meat side up until desired color is reach (~3 hours), spritzing occassionally.
 
