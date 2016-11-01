@@ -27,9 +27,9 @@ Add meat and cook over high heat until browned.
 
 When meat is cooked through, season to taste:
 
-- 1/2 teaspoon dried parsley flakes
-- 1/2 teaspoon dried thyme leaves
-- 1/2 teaspoon dried basil leaves
+- 1/2 teaspoon dried parsley
+- 1/2 teaspoon dried thyme
+- 1/2 teaspoon dried basil
 - Salt & pepper
 
 Drain off excess fat, if necessary.
