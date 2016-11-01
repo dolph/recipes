@@ -16,7 +16,7 @@ Meat sauce
 In a pot over medium heat, saute until the onions soften:
 
 - 2 tablespoons olive oil
-- 3 cloves garlic, minced
+- 6 cloves garlic, minced
 - 1 whole large onion, diced
 
 Add meat and cook over high heat until browned.
