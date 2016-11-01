@@ -19,30 +19,39 @@ In a pot over medium heat, saute until the onions soften:
 - 3 cloves garlic, minced
 - 1 whole large onion, diced
 
-Add meat and cook until browned.
+Add meat and cook over high heat until browned.
 
 - 1 pound Italian sausage
 - 1 pound ground beef
+- 1/2 teaspoon red pepper flakes
 
-Drain off fat, leaving a bit behind for flavor and moisture.
+When meat is cooked through, season to taste:
 
-Simmer for 25 to 30 minutes:
+- 1/2 teaspoon dried parsley flakes
+- 1/2 teaspoon dried thyme leaves
+- 1/2 teaspoon dried basil leaves
+- Salt & pepper
+
+Drain off excess fat, if necessary.
+
+Simmer for 30 minutes:
 
 - 28 ounce can whole tomatoes with juice
 - 2 cans tomato sauce (or marinara sauce)
-- 2 teaspoons Italian seasoning
-- 1/2 teaspoon red pepper flakes
-- Salt & pepper, to taste
 
-Set aside 3-4 cups of sauce.
+Season to taste.
+
+- Salt & pepper
+
+Set aside meat sauce.
 
 Cheese sauce
 ------------
 
 In a separate bowl, gently mix together (leave clumps):
 
-- 15 ounces whole milk ricotta
-- 8 ounces mozzarella, grated (*another 8 ounces is required later*)
+- 16 ounces whole milk ricotta
+- 8 ounces fresh mozzarella (*another 8 ounces is required later*)
 - 1/2 cup parmesan, grated
 - 1 egg
 - Salt & pepper
@@ -63,7 +72,7 @@ In a large casserole dish, layer together (from bottom to top):
 
 - Half the pasta
 - Half the meat sauce
-- 8 ounces mozzarella, grated
+- 8 ounces fresh mozzarella, sliced thinly
 - Half the pasta
 - Half the meat sauce
 
@@ -72,3 +81,4 @@ Bake until bubbling (about 20 minutes).
 Garnish:
 
 - Parsley, minced
+- Parmeasean
