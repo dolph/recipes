@@ -81,4 +81,4 @@ Bake until internal temperature reads 130 F (about 20 minutes).
 Garnish:
 
 - Parsley, minced
-- Parmeasean
+- Parmesan
