@@ -1,7 +1,7 @@
 Baked ziti
 ==========
 
-Preheat oven to 375 degrees.
+Preheat oven to 375 F.
 
 Pasta
 -----
@@ -76,7 +76,7 @@ In a large casserole dish, layer together (from bottom to top):
 - Half the pasta
 - Half the meat sauce
 
-Bake until bubbling (about 20 minutes).
+Bake until internal temperature reads 130 F (about 20 minutes).
 
 Garnish:
 
