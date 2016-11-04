@@ -3,7 +3,7 @@ Feta smashed potatoes
 
 In a 4-quart saucepan, cover with cold salted water:
 
-- 2 pound red potatoes, quartered
+- 2 pound red or Russet potatoes, quartered
 
 Bring to a boil then simmer until the tines of a fork slide easily into the
 potatoes (about 15 minutes). Drain.
@@ -18,7 +18,7 @@ Remove the saucepan from the heat.
 Add the potatoes, and roughly smash them into the hot cream mixture. Fold in:
 
 - 6 oz feta cheese
-- 4 chives, finely chopped
+- 10 chives, finely chopped
 
 Season to taste:
 
