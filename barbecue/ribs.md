@@ -17,7 +17,7 @@ Total time: 7 hours
 
 1. Lightly apply slather. Generously apply rub. Allow the meat to warm up at room temperature (~1 hour).
 
-2. Cook meat side up until desired color is reach (~3 hours), spritzing occassionally.
+2. Cook meat side up until the desired final color is reached (~3 hours), spritzing occassionally.
 
 3. Spritz one last time, brush both sides with barbecue sauce, and tightly wrap in alluminum foil (which has also been spritzed) meat side down.
 
