@@ -1,6 +1,8 @@
 Baked ziti
 ==========
 
+> Makes 8-10 servings.
+
 Preheat oven to 375 F.
 
 Pasta
