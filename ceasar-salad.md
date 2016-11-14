@@ -19,6 +19,8 @@ Whisk in:
 
 Adding drop by drop to start, gradually whisk in olive oil, then vegetable oil; whisk until dressing is thick and glossy.
 
+> Maybe cut the amount of vegetable oil down? The dressing has a pretty intense flavor without it, and it seems to be diluted the more veggie oil you add. Taste at about 1/4 cup?
+
 - 2 tablespoons olive oil
 - 1/2 cup vegetable oil
 
