@@ -1,12 +1,12 @@
 Turkey
 =======
 
-Smoke for 2.5 - 3 hours skin side up until golden, and wrap for an additional hour skin side down.
+Smoke for 2.5 - 3 hours.
 
-- Brine:
+- Brine (12-72 hours):
   - 1 part salt
   - 20 parts water
-- Meat: turkey pieces
+- Meat: turkey thighs
 - Slather: olive oil
 - Rub:
   - 1 part salt
