@@ -15,4 +15,4 @@ Smoke for 2.5 - 3 hours.
 - Wood: apple, hickory, or oak
 - Smoker temperature: 265 F
 - Internal temperature: 165 F
-- Rested temperatur: 140 F
+- Rested temperature: 140 F
