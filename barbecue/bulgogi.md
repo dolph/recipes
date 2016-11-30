@@ -8,7 +8,7 @@ Sauté over a medium flame for 20 minutes, stirring occasionally:
 
 - 4 tablespoons red pepper paste ("hot pepper" or "chile pepper paste," available jarred in Asian markets)
 - 1 tablespoons water
-- 1 tablespoons vegetable oil
+- 1 tablespoons canola oil
 - 1 teaspoon garlic, minced
 
 Store leftovers in refrigerator for up to one week.
