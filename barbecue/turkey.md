@@ -1,12 +1,10 @@
 Turkey
 =======
 
-Smoke for 2.5 - 3 hours.
-
 - Brine (12-72 hours):
   - 1 part salt
   - 20 parts water
-- Meat: turkey thighs
+- Meat: turkey
 - Slather: olive oil
 - Rub:
   - 1 part salt
@@ -16,3 +14,8 @@ Smoke for 2.5 - 3 hours.
 - Smoker temperature: 265 F
 - Internal temperature: 165 F
 - Rested temperature: 140 F
+
+Approximate cook times:
+
+- Thighs: 1.5 hours
+- Breasts: 1.5 hours
