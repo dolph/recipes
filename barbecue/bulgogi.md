@@ -29,7 +29,7 @@ Beef
 
 Distribute the sugar evenly on the beef by sprinkling it on each piece. Allow beef to sit for 10 minutes.
 
-- 20 ounces rib eye beef, trimmed, thinly sliced
+- 20 ounces ribeye beef, trimmed, thinly sliced
 - 1 tablespoon brown sugar
 
 In a small bowl, mix together the marinade:
