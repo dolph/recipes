@@ -21,7 +21,7 @@ Cook over low heat for 15 minutes, and set aside:
 - 1 tablespoon soybean paste
 - 2 teaspoons crushed garlic
 - 2 teaspoons red pepper sauce
-- 1 teaspoon salad oil
+- 1 teaspoon canola oil
 - 2 tablespoons water
 
 Beef
