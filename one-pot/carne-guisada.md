@@ -3,7 +3,7 @@ Carne guisada
 
 Season beef with salt & pepper:
 
-- 2 pounds beef shoulder / blade (or round steak, or stew meat), cubed
+- 2 pounds **beef shoulder / blade** (or round steak, or stew meat), cubed
 - Kosher salt
 - Freshly ground black pepper
 
@@ -19,10 +19,10 @@ Remove the beef and set aside. Make a blonde roux:
 
 Saute until vegetables are softened:
 
-- 2 poblanos, seeded and chopped
-- 1 onion, chopped
-- 2 large tomatoes, chopped
-- 6 cloves garlic, chopped
+- 2 **poblanos**, seeded and chopped
+- 1 **onion**, chopped
+- 2 large **tomatoes**, chopped
+- 6 cloves **garlic**, chopped
 - 1 teaspoon dried oregano
 - 1 teaspoon ground cumin
 - 1 teaspoon chili powder
@@ -38,11 +38,11 @@ Bring everything to a boil:
 Reduce heat to low, and cook until thickened.
 
 Season to taste:
- 
+
 - Salt
 
 Serve with:
 
-- Flour tortillas
-- Sharp cheddar
-- Cilantro, chopped
+- **Flour tortillas**
+- **Sharp cheddar**
+- **Cilantro**, chopped
