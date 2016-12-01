@@ -23,7 +23,7 @@ Saute until vegetables are softened:
 - 1 **onion**, chopped
 - 2 large **tomatoes**, chopped
 - 6 cloves **garlic**, chopped
-- 1 teaspoon dried oregano
+- 1 teaspoon dried mexican oregano
 - 1 teaspoon ground cumin
 - 1 teaspoon chili powder
 - 1 teaspoon paprika
@@ -35,7 +35,7 @@ Bring everything to a boil:
 - Beef
 - 1 quart beef stock
 
-Reduce heat to low, and cook until thickened.
+Reduce heat to low, and simmer very gently until thickened (~3 hours), stirring occassionally.
 
 Season to taste:
 
