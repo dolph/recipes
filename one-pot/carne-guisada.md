@@ -3,7 +3,11 @@
 Carne guisada
 =============
 
+> Total time: 4 hours
+
 Season beef with salt & pepper:
+
+> Choice blade steaks were too lean. Choose something fattier or higher grade?
 
 - 2 pounds **beef shoulder / blade** (or round steak, or stew meat), cubed
 - Kosher salt
