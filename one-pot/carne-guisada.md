@@ -14,7 +14,7 @@ In a large saute pan over high heat, brown on all sides, working in batches if n
 - Beef
 - 1 tablespoon canola oil
 
-Remove the beef and set aside. Make a blonde roux:
+Remove the beef and set aside. Make a medium roux:
 
 - 1/4 cup (4 tablespoons) flour
 - 4 tablespoons (1/4 cup) butter
