@@ -1,3 +1,5 @@
+![Carne guisada](http://i.imgur.com/P46dSy0.jpg)
+
 Carne guisada
 =============
 
