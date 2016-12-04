@@ -10,7 +10,7 @@ Pasta
 
 Cook pasta until not quite al dente, drain, and cool:
 
-- 16 ounces (by weight) **Penne** (Ziti, Mostaccioli), cooked until not quite al dente
+- 16 ounces (by weight) **Ziti** (or Penne, or Mostaccioli), cooked until not quite al dente
 
 Meat sauce
 ----------
