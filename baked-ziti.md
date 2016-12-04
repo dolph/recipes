@@ -18,7 +18,7 @@ Meat sauce
 In a pot over medium heat, saute until the onions soften:
 
 - 2 tablespoons olive oil
-- 6 cloves garlic, minced
+- 6 cloves **garlic**, minced
 - 1 whole **large onion**, diced
 
 Add meat and cook over high heat until browned.
@@ -29,9 +29,8 @@ Add meat and cook over high heat until browned.
 
 When meat is cooked through, season to taste:
 
-- 1/2 teaspoon dried parsley
-- 1/2 teaspoon dried thyme
-- 1/2 teaspoon dried basil
+- 1 teaspoon dried basil (only if not using fresh basil later)
+- 1/2 teaspoon **thyme** (or 1.5 teaspoons fresh thyme)
 - Salt & pepper
 
 Drain off excess fat, if necessary.
@@ -43,6 +42,8 @@ Simmer for 30 minutes:
 
 Season to taste.
 
+- 1 tablespoon **parsley**
+- 1 tablespoon **basil** (or 1 teaspoon dried basil)
 - Salt & pepper
 
 Set aside meat sauce.
@@ -55,7 +56,7 @@ In a separate bowl, gently mix together (leave clumps):
 - 16 ounces **whole milk ricotta**
 - 8 ounces **fresh mozzarella** (*another 8 ounces is required later*)
 - 1/2 cup **parmesan**, grated
-- 1 egg
+- 1 **egg**
 - Salt & pepper
 
 Composition
