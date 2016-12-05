@@ -79,7 +79,7 @@ In a large casserole dish, layer together (from bottom to top):
 - Half the pasta
 - Half the meat sauce
 
-Bake until internal temperature reads 130 F (about 20 minutes).
+Bake until internal temperature reads 140 F (about 30 minutes).
 
 Garnish:
 
