@@ -20,7 +20,7 @@ Transfer the ribs to an oven-proof sauté pan with a tight fitting lid. Braise u
 - 3 tablespoons ginger powder
 - 8 green onions, chopped
 
-Remove the meat and set aside to rest. Transfer the saute pan to the stove, and reduce to a sauce.
+Remove the meat and set aside to rest. Transfer the sauté pan to the stove, and reduce to a sauce.
 
 Serve ribs over:
 
