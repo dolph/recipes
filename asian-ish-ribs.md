@@ -32,3 +32,4 @@ Garnish with:
 
 - Sauce, reduced
 - Cilantro, chopped
+- Lime, sliced into wedges
