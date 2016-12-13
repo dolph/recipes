@@ -16,7 +16,7 @@ Transfer the ribs to an oven-proof sauté pan with a tight fitting lid. Bake for
 - 1 cup light brown sugar
 - 1/3 cup rice wine vinegar
 - 1/2 cup lime juice
-- 1/4 cup sambal
+- 2 tablespoons sambal
 - 2 tablespoons garlic powder
 - 3 tablespoons ginger powder
 - 8 green onions, chopped
