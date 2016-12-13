@@ -7,7 +7,7 @@ Smoke for 2 hours at 275 F over oak:
 
 Preheat the oven to 250 F.
 
-Transfer the ribs to an oven-proof sauté pan with a tight fitting lid. Cook until the ribs reach 190 F.
+Transfer the ribs to an oven-proof sauté pan with a tight fitting lid. Braise until the ribs reach 190 F.
 
 - 2 cups orange juice
 - 1 cup soy sauce
