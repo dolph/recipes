@@ -1,9 +1,11 @@
 Asian-ish ribs
 ==============
 
-Smoke for 2 hours at 275 F over oak:
+> Smoking the ribs is optional, but then you should start the braise at 200 F for two hours before raising the temperature to 250 F, include a tablespoon of liquid smoke in the braising liquid, and finish them under the broiler to char them a bit.
 
-- 1 rack country style pork ribs, separated into 3 sections
+Smoke the ribs for 2 hours at 275 F.
+
+- 1 rack country style pork ribs, trimmed, separated into 3 sections
 
 Preheat the oven to 250 F.
 
