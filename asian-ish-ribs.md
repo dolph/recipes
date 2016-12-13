@@ -22,10 +22,13 @@ Transfer the ribs to an oven-proof sauté pan with a tight fitting lid. Bake for
 
 Turn the oven up to 250 F, and continue cooking until the ribs reach 190 F.
 
-Remove the meat and vegetables and set aside to rest. Transfer the saute pan to the stove, and simmer to reduce to a sauce.
+Remove the meat and set aside to rest. Transfer the saute pan to the stove, and reduce to a sauce.
 
-Serve ribs and vegetables over:
+Serve ribs over:
 
-- White rice, cooked
+- White rice, cooked with chicken broth
+
+Garnish with:
+
 - Sauce, reduced
 - Cilantro, chopped
