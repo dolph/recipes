@@ -20,13 +20,7 @@ Transfer the ribs to an oven-proof sauté pan with a tight fitting lid. Bake for
 - 3 tablespoons ginger powder
 - 8 green onions, chopped
 
-Turn the oven up to 250 F for the last hour.
-
-During the last 20-30 minutes of cook time, add hearty vegetables such as:
-
-- Broccoli
-- Bok choy
-- Baby bok choy
+Turn the oven up to 250 F, and continue cooking until the ribs reach 190 F.
 
 Remove the meat and vegetables and set aside to rest. Transfer the saute pan to the stove, and simmer to reduce to a sauce.
 
