@@ -1,7 +1,28 @@
 Barbecue sauce
 ==============
 
-Combine, bring to a boil, and simmer for 15 minutes:
+Ketchup
+-------
+
+Simmer until thickened (~20 minutes):
+
+- 2 pints ripe grape tomatoes, cut in half
+- 1 cup red wine vinegar
+- 1/3 cup sugar
+- 1 tablespoon molasses
+- 2 teaspoons kosher salt
+- 1 teaspoons black pepper
+
+Purée.
+
+Stir in:
+
+- 1/2 teaspoon Worcestershire sauce
+
+Barbecue sauce
+--------------
+
+Bring to a boil, and simmer for 15 minutes:
 
 - 240 grams (~1 cups) ketchup
 - 60 grams (~1/4 cup) Worcestershire sauce
