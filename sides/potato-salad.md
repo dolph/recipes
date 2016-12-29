@@ -1,6 +1,9 @@
 Potato salad
 ============
 
+Fancy version
+-------------
+
 Place the potatoes and salt in a large pot of water. Bring the water to a boil, then lower the heat and simmer for 10 to 15 minutes, until the potatoes are barely tender when pierced with a knife.
 
 - 1 pound small white potatoes
@@ -20,3 +23,23 @@ Meanwhile, in a medium bowl, combine:
 - 1 teaspoon Kosher salt
 
 When the potatoes are cool enough to handle, cut them down to bite size and add them to the bowl. Toss well, cover, and refrigerate for a few hours to allow the flavors to blend.
+
+Simple version
+--------------
+
+Boil until tender:
+
+- 1 pound russet potatoes, peeled and cut into 1/2 dice
+
+Drain, transfer to a bowl, and let cool.
+
+In a small bowl, combine:
+
+- 1 cup mayo
+- 1/2 cup yellow mustard
+- 3/4 cup chopped dill pickles
+- 1 tablespoon pickle juice
+- 1 tablespoon coarse black pepper
+- 1 teaspoon kosher salt
+
+Combine potatoes with dressing. Cover and refrigerate for up to 4 days. Serve cold.
