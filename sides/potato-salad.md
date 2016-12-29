@@ -35,11 +35,11 @@ Drain, transfer to a bowl, and let cool.
 
 In a small bowl, combine:
 
-- 1 cup mayo
-- 1/2 cup yellow mustard
-- 3/4 cup chopped dill pickles
-- 1 tablespoon pickle juice
-- 1 tablespoon coarse black pepper
-- 1 teaspoon kosher salt
+- 1/3 cup mayo
+- 3 tablespoons yellow mustard
+- 1/4 cup chopped dill pickles
+- 1 teaspoon pickle juice
+- 1 teaspoon coarse black pepper
+- 1/3 teaspoon kosher salt
 
 Combine potatoes with dressing. Cover and refrigerate for up to 4 days. Serve cold.
