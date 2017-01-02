@@ -1,3 +1,5 @@
+![Pork butt](http://i.imgur.com/IjwBlwa.jpg)
+
 Boston pork butt
 ================
 
