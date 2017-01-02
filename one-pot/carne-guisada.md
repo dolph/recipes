@@ -7,9 +7,7 @@ Carne guisada
 
 Season beef with salt & pepper:
 
-> Choice blade steaks were too lean. Choose something fattier or higher grade?
-
-- 2 pounds **beef shoulder / blade** (or round steak, or stew meat), cubed
+- 2 pounds **sirloin**, 1/2" cubed
 - Kosher salt
 - Freshly ground black pepper
 
@@ -27,7 +25,7 @@ Saute until vegetables are softened:
 
 - 2 **poblanos**, seeded and chopped
 - 1 **onion**, chopped
-- 2 large **tomatoes**, chopped
+- 5 **Roma tomatoes**, chopped
 - 6 cloves **garlic**, chopped
 - 1 teaspoon dried mexican oregano
 - 1 teaspoon ground cumin
