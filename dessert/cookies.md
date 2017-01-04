@@ -10,11 +10,16 @@ Combine flour, baking soda and salt in small bowl:
 - 1/8 teaspoon baking powder
 - 1/2 teaspoon salt
 
-Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy.
+In a large mixer bowl, thoroughly beat together:
+
+> Untested. This used to be 75 grams granulated sugar + 75 grams brown sugar.
+
+- 100 grams granulated sugar
+- 5 grams molasses
+
+Add, and beat until creamy:
 
 - 4 tablespoons butter, softened
-- 75 grams granulated sugar
-- 75 grams brown sugar
 - 1/2 teaspoon vanilla extract
 
 Add egg and beat well.
