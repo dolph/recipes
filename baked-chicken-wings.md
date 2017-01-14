@@ -19,7 +19,7 @@ Sauté until fragrant:
 
 Add slowly, whisking constantly, and simmer until thickened (5 minutes):
 
-- 4 tablespoons picante sauce (or Louisiana hot sauce)
+- 4 tablespoons hot sauce
 - 2 teaspoons Worcestershire
 - 1 teaspoon onion powder
 - Kosher salt
