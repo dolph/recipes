@@ -2,10 +2,10 @@
 
 ### Moscow Mule
 
-- 4 ounces ginger beer
-- 2 ounces vodka
-- 1/2 ounce lime juice
-- 1/4 ounce simple syrup, optional
+- 150 mL (~5 ounces) ginger beer
+- 60 mL (~2 ounces) vodka
+- 15 mL (~1/2 ounce) lime juice
+- 5 mL (~1/4 ounce) simple syrup, optional
 - Fresh mint, muddled
 
 ### Mojito
