@@ -3,7 +3,7 @@ Chocolate sauce
 
 In a small saucepan, bring to a boil:
 
-- 1/2 cup water
+- 1/4 cup water
 - 1/4 cup sugar
 
 Add, and return to a simmer:
@@ -17,6 +17,6 @@ Remove from heat, pour the liquid over the chocolate, and allow to sit for 3 to 
 Whisk in:
 
 - 1/4 teaspoon salt
-- 1 teaspoon vanilla
+- 1 teaspoon vanilla extract
 
 Store, tightly sealed, in the refrigerator for up to 2 weeks.
