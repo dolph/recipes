@@ -3,6 +3,9 @@ Caesar Salad
 
 > Makes 6 servings.
 
+Dressing
+--------
+
 Chop together:
 
 - 6 anchovy fillets packed in oil, drained
@@ -36,7 +39,10 @@ Season with:
 
 Set dressing aside (refridgerate up to one day ahead).
 
-For breadcrumbs, preheat oven to 375 F. Toss bread with olive oil on a baking sheet; season with salt and pepper.
+Breadcrumbs
+-----------
+
+Preheat oven to 375 F. Toss bread with olive oil on a baking sheet; season with salt and pepper.
 
 - 3 cups torn 1" pieces country bread, with crusts
 - 3 tablespoons olive oil
@@ -47,6 +53,9 @@ Season with:
 - Freshly ground black pepper
 
 Bake, tossing occasionally, until golden (~15 minutes).
+
+Composition
+-----------
 
 Use your hands to gently toss together:
 
