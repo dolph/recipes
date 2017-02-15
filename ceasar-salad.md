@@ -39,8 +39,8 @@ Season with:
 
 Set dressing aside (refridgerate up to one day ahead).
 
-Breadcrumbs
------------
+Croutons
+--------
 
 Preheat oven to 375 F. Toss bread with olive oil on a baking sheet; season with salt and pepper.
 
