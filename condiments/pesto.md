@@ -7,12 +7,9 @@ Combine in a food processor until coarsely chopped:
 - 2 tablespoons pine nuts, toasted
 - 1 clove garlic
 
-Add and pulse to combine:
+Transfer to bowl. Manually fold in:
 
 - 1/4 cup olive oil
-
-Manually fold in:
-
 - 1/4 cup parmesean
 
 Season with:
