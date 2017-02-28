@@ -22,6 +22,11 @@
 - 1.5 ounces lime juice
 - 1.5 ounces simple syrup
 
+### Gin & tonic
+
+- 2 ounces gin
+- 4 ounces tonic
+
 ### Margarita
 
 - 3 ounces 100% agave reposado tequila (or blanco/silver)
