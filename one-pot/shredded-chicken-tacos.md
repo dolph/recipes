@@ -12,7 +12,7 @@ Add, and bring to a boil:
 - 1 large white onion, peeled and quartered
 - 5 cloves garlic, crushed
 - 2 bay leaves
-- 1/2 teaspoon dried thyme
+- 2 sprigs fresh thyme (or 1 teaspoon dried thyme)
 - 1 tablespoon ground cumin
 - 1 teaspoon chili powder
 - 1 cup chicken stock
