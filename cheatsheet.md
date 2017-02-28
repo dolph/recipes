@@ -2,8 +2,9 @@ Ratios
 ======
 
 * **Roux**: 2 parts fat + 3 parts AP flour
-* **Light brown sugar**: 1 cup sugar + 1 tablespoon molasses
-* **Dark brown sugar**: 1 cup sugar + 3 tablespoons molasses
+* **Brown sugar**
+  * **Light**: 16 parts sugar + 1 part molasses
+  * **Dark**: 16 parts sugar + 3 parts molasses
 
 Conversions
 ===========
