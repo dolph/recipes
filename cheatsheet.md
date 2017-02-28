@@ -8,4 +8,5 @@ Ratios
 Conversions
 ===========
 
-* **Herbs**: dry : fresh :: 1 : 3
+* **Herbs**: 1 unit dry = 3 units fresh
+  2 sprigs fresh thyme = 1 teaspoon dried thyme
