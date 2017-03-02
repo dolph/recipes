@@ -3,6 +3,8 @@ Paella
 
 Heat the oven to 400°F and arrange a rack in the middle.
 
+> Grating the tomatoes is a pain. Would love an easier way to get the same result without resorting to canned tomatoes?
+
 Core and halve the tomatoes. Grate the flesh side of each half on the large
 holes of a box grater set over a medium bowl, stopping when you get to the
 skin. Discard the skins. You should have about 3/4 cup of tomato pulp and
