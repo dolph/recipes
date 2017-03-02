@@ -1,6 +1,8 @@
 Shimp Pasta
 ===========
 
+> You can basically use any seafood, but Gulf shrimp are cheap.
+
 Pasta
 -----
 
