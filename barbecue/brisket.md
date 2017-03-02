@@ -13,8 +13,8 @@ Brisket
 - Warm up: 1 hour
 - Smoker temperature: 275 F
 - Wood: oak
-- Internal temperature: 203 F
-- Wrap: naked, or butcher paper if necessary
+- Final internal temperature: 203 F
+- Wrap: naked, or butcher paper if necessary @ 180 F
 - Rested temperature: 140 F
 
 Cook log
