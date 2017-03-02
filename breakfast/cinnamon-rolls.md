@@ -1,6 +1,8 @@
 Cinnamon Rolls
 ==============
 
+> This is a ton of work.
+
 Dough
 -----
 
