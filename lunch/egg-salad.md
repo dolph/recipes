@@ -1,7 +1,7 @@
 Egg salad
 =========
 
-> Serves 2.
+> Choose your own adventure. Serves 2.
 
 Combine:
 
