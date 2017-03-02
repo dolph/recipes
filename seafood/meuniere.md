@@ -1,6 +1,8 @@
 Meunière
 ========
 
+> This was just okay. Needs more research.
+
 Season on both sides:
 
 - 1 pound firm seafood (sole, trout, redfish, shrimp, softshell crab)
