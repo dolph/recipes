@@ -40,7 +40,7 @@ Bring to a boil, then reduce heat to low and simmer until the chicken reaches 16
 
 Discard cilantro sprigs, oregano sprigs, and garlic cloves.
 
-When chicken reaches 165 F, set aside, alowing broth to simmer for an additional 15 minutes. When the chicken is cool enough to handle, shred it, discarding skin and bones.
+When chicken reaches 165 F, set aside, alowing broth to simmer for an additional 45 minutes. When the chicken is cool enough to handle, shred it, discarding skin and bones.
 
 The soup can be optionally held here.
 
