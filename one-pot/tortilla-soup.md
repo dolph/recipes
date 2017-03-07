@@ -24,7 +24,7 @@ In a soup pot, brown on both sides, skin side first:
 
 Set chicken aside.
 
-Saute, stirring frequently, until darkened (~10-15 minutes):
+Sauté, stirring frequently, scraping the bottom of the pot, until slightly darkened (~10-15 minutes):
 
 - Vegetable puree
 
