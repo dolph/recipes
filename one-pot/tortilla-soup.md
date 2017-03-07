@@ -3,48 +3,44 @@ Tortilla soup
 
 > Serves 6.
 
-Bring to a boil in a large saucepan, then reduce heat to low, cover, and simmer until the chicken reaches 165 F (~20 minutes):
-
-- **2 bone-in, skin-on chicken breasts** (~1.5 pounds), or **4 bone-in, skin-on chicken thighs** (~1.25 pounds), skin removed and trimmed
-- **1/2 large white onion** (~1 pound), peeled & quartered
-- **2 medium garlic cloves**, peeled & crushed
-- 2 prepared onion quarters
-- 2 prepared garlic cloves
-- **8 cups low sodium chicken broth**
-- **8 sprigs fresh cilantro**
-- **1 sprig fresh oregeno**
-- 1/2 teaspoon kosher salt
-
-Transfer the chicken to a large plate.
-
-Strain the broth, discarding solids.
-
-When cool enough to handle, shred the chicken, discarding bones.
+Vegetable puree
+---------------
 
 Puree:
 
 - **1/2 large white onion** (~1 pound), peeled & quartered
 - **2 medium garlic cloves**, peeled
 - **2 medium tomatoes**, cored and quartered
-- **1/2 medium jalapeño**
-- **1 chipotle chile in adobo**, plus 1 teaspoon additional adobe sauce
-
-Heat in a dutch oven over medium high heat until shimmering:
-
+- **1 chipotle chile**, plus 1 tablespoon additional adobe sauce
+- 1/2 teaspoon kosher salt
 - 1 tablespoon canola oil
 
-Add and cook, stirring frequently until the mixture darkens:
+For the soup
+------------
+
+In a soup pot, brown on both sides, skin side first:
+
+- **4 bone-in, skin-on chicken thighs**, seasoned heavily with salt & pepper
+
+Set chicken aside.
+
+Saute, stirring frequently, until darkened (~10-15 minutes):
 
 - Vegetable puree
-- 1/8 teaspoon salt
 
-Add, bring to a boil and reduce to a simmer for 15 minutes:
+Bring to a boil, then reduce heat to low and simmer until the chicken reaches 165 F (~20 minutes):
 
-- Strained broth
+- Chicken thighs
+- **8 cups low sodium chicken broth**
+- **1/2 large white onion** (~1 pound), peeled & quartered
+- **2 medium garlic cloves**, peeled & crushed
+- **8 sprigs fresh cilantro**
+- **1 sprig fresh oregeno**
+- 1/2 teaspoon kosher salt
 
-Taste, and optionally add up to:
+Discard cilantro sprigs, oregano sprigs, and garlic cloves.
 
-- 2 teaspoons adobe sauce
+When chicken reaches 165 F, set aside, alowing broth to simmer for an additional 15 minutes. When the chicken is cool enough to handle, shred it, discarding skin and bones.
 
 The soup can be optionally held here.
 
