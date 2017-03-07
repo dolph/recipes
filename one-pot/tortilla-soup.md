@@ -3,14 +3,11 @@ Tortilla soup
 
 > Serves 6.
 
-Prep:
-
-- **1 very large white onion** (~1 pound), peeled & quartered
-- **4 medium garlic cloves**, peeled
-
 Bring to a boil in a large saucepan, then reduce heat to low, cover, and simmer until the chicken reaches 165 F (~20 minutes):
 
 - **2 bone-in, skin-on chicken breasts** (~1.5 pounds), or **4 bone-in, skin-on chicken thighs** (~1.25 pounds), skin removed and trimmed
+- **1/2 large white onion** (~1 pound), peeled & quartered
+- **2 medium garlic cloves**, peeled & crushed
 - 2 prepared onion quarters
 - 2 prepared garlic cloves
 - **8 cups low sodium chicken broth**
@@ -26,8 +23,8 @@ When cool enough to handle, shred the chicken, discarding bones.
 
 Puree:
 
-- 2 prepared onion quarters
-- 2 prepared garlic cloves
+- **1/2 large white onion** (~1 pound), peeled & quartered
+- **2 medium garlic cloves**, peeled
 - **2 medium tomatoes**, cored and quartered
 - **1/2 medium jalapeño**
 - **1 chipotle chile in adobo**, plus 1 teaspoon additional adobe sauce
