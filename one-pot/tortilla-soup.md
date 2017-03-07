@@ -3,7 +3,7 @@ Tortilla soup
 
 > Serves 6.
 
-Vegetable puree
+Vegetable purée
 ---------------
 
 Puree:
