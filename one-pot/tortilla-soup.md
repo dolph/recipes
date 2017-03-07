@@ -3,22 +3,6 @@ Tortilla soup
 
 > Serves 6.
 
-For the tortilla strips
------------------------
-
-Adjust oven rack to middle position and preheat to 425 F.
-
-Spread tortilla strips on a rimmed baking sheet, drizzle with oil, and toss until evenly coated.
-
-- **8 corn tortillas**, cut into 1/2" wide strips
-- 1 tablespoon canola oil
-
-Rotate the pan and shake the pan to redistribute halfway through baking. Bake until the strips are golden brown (~14 minutes).
-
-Lightly season with salt and transfer strips to a paper-towel lined plate.
-
-- Table salt
-
 For the soup
 ------------
 
@@ -76,6 +60,7 @@ Add and gently simmer until heated through:
 
 To serve, line the bottom of bowls with tortilla strips, ladle soup on top, and pass garnishes separately:
 
+- Tortilla chips, crumbled (or homemade strips)
 - **Limes**, cut into wedges
 - **Avacado**, diced
 - **Cotija cheese**, crumbled, or **Monterey Jack cheese**, diced fine
