@@ -3,9 +3,6 @@ Tortilla soup
 
 > Serves 6.
 
-For the soup
-------------
-
 Prep:
 
 - **1 very large white onion** (~1 pound), peeled & quartered
