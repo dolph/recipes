@@ -19,7 +19,7 @@ Chicken
 
 Combine in a large bowl:
 
-- 12 ounces (about 4 to 5) **skinless, boneless chicken thighs**, sinew removed, crosshatched, cut into 1/4 inch slices
+- 12 ounces (about 4 to 5) **skinless, boneless chicken thighs**, sinew removed, crosshatched, cut into bite-sized pieces
 - 1/2 teaspoon **dark soy sauce**
 - 2 teaspoons **light soy sauce**
 - 1 egg yolk
