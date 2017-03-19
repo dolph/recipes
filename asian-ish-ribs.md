@@ -11,16 +11,16 @@ Preheat the oven to 250 F.
 
 Transfer the ribs to an oven-proof sauté pan with a tight fitting lid. Braise until the ribs reach 190 F.
 
-- 2 cups orange juice
-- 1 cup soy sauce
-- 1 cup light brown sugar
-- 1/3 cup rice wine vinegar
-- 1/2 cup lime juice
-- 1 tablespoon fish sauce
-- 2 tablespoons sambal
-- 2 tablespoons garlic powder
-- 3 tablespoons ginger powder
-- 8 green onions, chopped
+- 2 cups **orange juice**
+- 1 cup **soy sauce**
+- 1 cup **light brown sugar**
+- 1/3 cup **rice wine vinegar**
+- 1/2 cup **lime juice**
+- 1 tablespoon **fish sauce**
+- 2 tablespoons **sambal**
+- 2 tablespoons **garlic powder**
+- 3 tablespoons **ginger powder**
+- 8 **green onions**, chopped
 
 Remove the meat and set aside to rest. Transfer the sauté pan to the stove, and reduce to a sauce.
 
@@ -31,5 +31,5 @@ Serve ribs over:
 Garnish with:
 
 - Sauce, reduced
-- Cilantro, chopped
-- Lime, sliced into wedges
+- **Cilantro**, chopped
+- **Lime**, sliced into wedges
