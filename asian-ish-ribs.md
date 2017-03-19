@@ -5,7 +5,7 @@ Asian-ish ribs
 
 Smoke the ribs for 2 hours at 275 F.
 
-- 1 rack country style pork ribs, trimmed, separated into 3 sections
+- 1 rack **country style pork ribs**, trimmed, separated into 3 sections
 
 Preheat the oven to 250 F.
 
