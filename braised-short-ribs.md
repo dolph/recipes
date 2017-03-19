@@ -7,7 +7,7 @@ Adjust oven rack to lower middle position and preheat to 275 F.
 
 Season liberally:
 
-- 3.5 pounds boneless beef short ribs, at least 4 inches long and 1 inch thick, trimmed of excess fat
+- 3.5 pounds boneless **beef short ribs**, at least 4 inches long and 1 inch thick, trimmed of excess fat
 - Kosher salt
 - Freshly ground black pepper
 
@@ -20,26 +20,26 @@ Set beef aside.
 
 Reduce heat to medium and soften until beginning to brown:
 
-- 2 large onions, thinly sliced
+- 2 **large onions**, thinly sliced
 
 Add and cook, stirring constantly, until it begins to brown:
 
-- 1 tablespoon tomato paste
+- 1 tablespoon **tomato paste**
 
 Add and cook until aromatic:
 
-- 6 medium garlic cloves, peeled
+- 6 medium **garlic cloves**, peeled
 
 Add, bring to a simmer, deglaze, and reduce by half:
 
-- 2 cups red wine, such as Cabernet Sauvignon or Côtes du Rhône
+- 2 cups **red wine**, such as Cabernet Sauvignon or Côtes du Rhône
 
 Add, and return to a simmer:
 
-- 1 cup beef broth
-- 4 large carrots, peeled and cut crosswise into 2­inch pieces
-- 4 sprigs fresh thyme (or 2 teaspoons dried)
-- 1 bay leaf
+- 1 cup **beef broth**
+- 4 large **carrots**, peeled and cut crosswise into 2­inch pieces
+- 4 sprigs fresh **thyme** (or 2 teaspoons dried)
+- 1 **bay leaf**
 - Beef, and any accumulated juices
 
 Cover, and transfer to the oven, turning meat each hour, until a fork slips easily through the meat (~2.5 hours):.
