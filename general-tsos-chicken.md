@@ -1,3 +1,5 @@
+![General Tso's chicken](https://pbs.twimg.com/media/C7EgpQ_VsAAyvuA.jpg)
+
 General Tso's chicken
 =====================
 
