@@ -38,7 +38,7 @@ Transfer fish to a plate to avoid overcooking it.
 
 Stir into the broth and season to taste
 
-- 1⁄4 cup chopped fresh parsley
+- 1⁄4 cup chopped **parsley**
 - Kosher salt
 - Freshly ground black pepper
 
