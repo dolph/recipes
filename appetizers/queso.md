@@ -14,7 +14,7 @@ Soften:
 - 2 cloves **garlic**, minced
 - 1 medium **onion**, chopped
 - 1 large **poblano**, chopped
-- 1/2 **green bell pepper**, chopped
+- 1 **green bell pepper**, chopped
 - 3 **jalapeños**, finely chopped
 
 Season:
