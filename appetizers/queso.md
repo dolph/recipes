@@ -1,5 +1,5 @@
-Hot cheese
-==========
+Hot cheese dip
+==============
 
 Saute:
 
