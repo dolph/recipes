@@ -3,19 +3,19 @@ Hot cheese
 
 Saute:
 
-- 4 ounces fresh chorizo, casings removed, crumbled
+- 4 ounces **fresh chorizo**, casings removed, crumbled
 
 Blonde roux:
 
-- 1 tablespoon all-purpose flour
+- 1 tablespoon AP flour
 
 Soften:
 
-- 2 garlic cloves, minced
-- 1 medium onion, chopped
-- 1 large poblano chile, chopped
-- 1/2 green bell pepper, chopped
-- 3 jalapeños, finely chopped
+- 2 cloves **garlic**, minced
+- 1 medium **onion**, chopped
+- 1 large **poblano**, chopped
+- 1/2 **green bell pepper**, chopped
+- 3 **jalapeños**, finely chopped
 
 Season:
 
@@ -26,6 +26,6 @@ Season:
 
 Melt:
 
-- 8 ounces Monterey Jack or white American cheese, grated
-- 8 ounces sharp cheddar cheese, grated
-- 1/4 cup half & half [maybe up to a cup?]
+- 8 ounces **Monterey Jack** or white American, grated
+- 8 ounces **sharp cheddar**, grated
+- 1/4 cup **half & half** [maybe up to a cup?]
