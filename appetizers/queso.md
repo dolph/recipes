@@ -29,3 +29,9 @@ Melt:
 - 8 ounces **Monterey Jack** or white American, grated
 - 8 ounces **sharp cheddar**, grated
 - 1/4 cup **half & half** [maybe up to a cup?]
+
+Serve with:
+
+- Tortilla chips
+- Margaritas
+- Beer
