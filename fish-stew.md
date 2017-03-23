@@ -14,7 +14,7 @@ Saute in a Dutch oven over medium-high heat until onions begin to brown:
 
 Add, and cook until onions are soft:
 
-- 4 garlic cloves, minced
+- 4 **garlic cloves**, minced
 - 1⁄4 teaspoon red pepper flakes
 
 Bring to a simmer, cover, and simmer for 5 minutes:
