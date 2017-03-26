@@ -7,7 +7,7 @@ Saute:
 
 Blonde roux:
 
-- 1 tablespoon AP flour
+- 1 teaspoon AP flour
 
 Soften:
 
