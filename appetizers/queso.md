@@ -28,7 +28,8 @@ Melt:
 
 - 8 ounces **Monterey Jack** or white American, grated
 - 8 ounces **sharp cheddar**, grated
-- 1/4 cup **half & half** [maybe up to a cup?]
+- 1 cup **half & half**
+- 1/2 cup **whole milk**
 
 Serve with:
 
