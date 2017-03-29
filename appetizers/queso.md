@@ -7,9 +7,11 @@ Saute:
 
 Blonde roux:
 
-- 1 teaspoon AP flour
+- 1/2 teaspoon AP flour
 
 Soften:
+
+> You could probably skip onions & peppers here for a smoother final texture.
 
 - 2 cloves **garlic**, minced
 - 1 medium **onion**, chopped
