@@ -10,5 +10,6 @@ Whisk together:
 - 1/2 teaspoon Dijon mustard
 - 1 teaspoon Cajun seasoning
 - 1 tablespoon Cajun hot sauce
+- 1 teaspoon salt
 
 Refridgerate, and store for up to three days.
