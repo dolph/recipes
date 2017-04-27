@@ -19,3 +19,5 @@ In a small bowl, combine with the liquids, season, and mix thoroughly:
 - 3 tablespoons fresh lime juice or red wine vinegar
 - 1/2 teaspoon kosher salt
 - 1/4 teaspoon red pepper flakes
+
+> Maybe needs more oil and more salt.
