@@ -1,7 +1,9 @@
 Chimichurri
 ===========
 
-Makes 1 cup. Combine in a food processor, and pulse until finely minced:
+> Makes 1 cup.
+
+Combine in a food processor, and pulse until finely minced:
 
 - 26 grams (~2/3 cup) fresh parsley leaves
 - 13 grams (~1/3 cup) fresh cilantro leaves
