@@ -1,6 +1,8 @@
 Skillet roasted chicken
 =======================
 
+> Crispy skin, and intense citrus and herb flavors. Recipe scales well with equipment.
+
 Preheat oven to 450 F, and place a skillet in the oven.
 
 > The chicken needs to be salted heavier than normal in order to stand up to
