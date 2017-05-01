@@ -6,13 +6,18 @@ Preheat oven to 450 F, and place a skillet in the oven.
 > The chicken needs to be salted heavier than normal in order to stand up to
   the acid introduced later.
 
+Season:
+
+- Chicken pieces (4 thighs, or 2 split breasts), bone-in, skin-on, trimmed
+- Kosher salt
+- Freshly ground black pepper
+
 When the oven is preheated, reduce the oven to 400 F, transfer the skillet to
 the stove over medium-high heat, and sear, skin-side down, until the skins are
 browned:
 
 - 1 tablespoon olive oil
-- Chicken pieces (4 thighs, or two split breasts), bone-in, skin-on, heavily
-  seasoned with kosher salt and freshly ground black pepper
+- Chicken pieces
 
 Flip chicken over, and transfer skillet to oven. Bake until chicken is cooked.
 
