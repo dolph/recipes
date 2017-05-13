@@ -1,6 +1,8 @@
 Hash brown cups
 ===============
 
+> Makes 12 servings.
+
 Preheat the oven to 350 F.
 
 In a large bowl, mix together:
