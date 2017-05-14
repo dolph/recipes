@@ -42,5 +42,5 @@ Serve with:
 - Protein (grilled ham, crispy bacon, etc)
 - Mixed fruit w/ lime juice & lime zest for extra tartness
 - Herbaceous, salty hash browns
-- Maple syrup
+- **Maple syrup**
 - Powdered sugar
