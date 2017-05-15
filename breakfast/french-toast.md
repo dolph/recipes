@@ -1,11 +1,13 @@
 French toast
 ============
 
+> Serves 3.
+
 Preheat the oven to 300 F with an oven rack in the middle position.
 
 Bake on a wire reck over a rimmed baking sheet, until almost dry (~16 minutes), flipping halfway:
 
-- 8 pieces **Challah** or **Brioche** (or any hearty white sandwich bread), sliced 3/4" thick
+- 6 pieces **Challah** or **Brioche** (or any hearty white sandwich bread), sliced 3/4" thick
 
 Cool bread for 5 minutes.
 
