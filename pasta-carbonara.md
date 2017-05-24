@@ -12,7 +12,7 @@ Whisk in a small bowl:
 In a pan over medium-low heat, gently saute until slightly crispy:
 
 - 1/2 tablespoon olive oil
-- 50 grams slab guanciale (or pancetta), sliced into 1/4" cubes
+- 50 grams pancetta, sliced into 1/4" cubes
 
 Toss to coat and remove from the heat:
 
