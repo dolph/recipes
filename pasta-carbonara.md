@@ -1,4 +1,5 @@
 ![Pasta carbonara](https://i.imgur.com/K1G6Gao.jpg)
+![Plain pasta carbonara](https://i.imgur.com/j4WpFM0.jpg)
 
 Pasta carbonara
 ===============
@@ -29,8 +30,8 @@ When it has cooled enough to not scramble the eggs, toss to coat with:
 
 Garnish and serve immediately:
 
-- Parmesan
 - Black pepper
+- Parmesan, optional
 - Parsley, optional
 - Lemon zest, optional
 - Nutmeg, freshly grated, optional
