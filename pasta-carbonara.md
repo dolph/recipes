@@ -14,7 +14,7 @@ In a pan over medium-low heat, gently saute until slightly crispy:
 - 1/2 tablespoon olive oil
 - 50 grams pancetta, sliced into 1/4" cubes
 
-Toss to coat and remove from the heat:
+Toss to coat, form a sauce, and remove from the heat:
 
 - 170 grams spaghetti (or fettucini, or linguine), cooked al dente
 - 1/4 cup pasta water
