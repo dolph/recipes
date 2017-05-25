@@ -4,6 +4,8 @@
 Pasta carbonara
 ===============
 
+> Serves 2.
+
 Whisk in a small bowl:
 
 - 2 large egg yolks, room temperature
