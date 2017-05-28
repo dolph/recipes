@@ -1,6 +1,9 @@
 Jambalaya
 =========
 
+Chicken
+-------
+
 Dry chicken and season.
 
 - 4 bone-in, skin-on chicken thighs, trimmed
@@ -8,14 +11,30 @@ Dry chicken and season.
 - Freshly ground black pepper
 - Cajun seasoning
 
-Peel, devein, and season shrimp. Keep refridgerated.
+Shrimp & shrimp stock
+---------------------
 
-- 1 pound large shrimp (10-25 per pound), peeled and deveined
+Peel, devein, and season shrimp, reserving shrimp shells in a 3 quart pot.
+
+- 1.5 pounds large shrimp (10-25 per pound), peeled and deveined, shells reserved
+- Kosher salt
 - Cajun seasoning
 
-Heat 15 inch cast iron skillet or dutch oven until smoking:
+Keep shrimp refridgerated.
 
-- 2 teaspoons canola oil
+Bring to a simmer, and reduce for at least 20 minutes:
+
+- Shrimp shells
+- Water, to cover
+
+Strain shrimp stock from shrimp shells and set aside.
+
+Composition
+-----------
+
+Heat a dutch oven until smoking:
+
+- 1 teaspoons canola oil
 
 Cook chicken, skin-side down first, until both sides are golden.
 
@@ -23,7 +42,7 @@ Transfer chicken to a plate, and discard skin (no need to keep warm).
 
 Leave 2 teaspoons of fat in skillet. Brown over medium-high heat:
 
-- 1 pound Andouille sausage, halved lengthwise, cut into 1/4 inch pieces
+- 1.5 pounds Andouille sausage, halved lengthwise, cut into 1/4 inch pieces
 
 Transfer the sausage to a small bowl, and set aside (no need to keep warm).
 
@@ -37,15 +56,13 @@ Add oil and return to medium heat until shimmering. Cook until the onion is soft
 
 Add the rice and cook until translucent:
 
-> Without rinsing the rice, the jambalaya ends up a bit mushy, but it's not necessarily bad. Try rinsing starches?
-
-- 2 cups long grain white rice
+- 2 cups long grain white rice, rinsed
 
 Add the liquids, and bring to a simmer, and leave uncovered.
 
 - 14.5 ounce can diced tomatoes, drained
 - 8 ounce bottle clam juice
-- 3.5 cups low sodium chicken broth
+- 3.5 cups liquid, shrimp stock and chicken broth combined
 
 Return the chicken to the pot, nestling it into the water. Cook until the chicken is cooked through (about 30 minutes).
 
@@ -53,7 +70,9 @@ Return the chicken to the pot, nestling it into the water. Cook until the chicke
 
 Transfer chicken to a plate, and keep warm. Shred into bite size pieces when convenient.
 
-Stir the shrimp and sausage into the rice, cover, and cook over low heat for 3 minutes.
+If the rice is not yet cooked through, cover and hold over low heat.
+
+Stir the shrimp and sausage into the rice, cover, and cook over low heat until cooked through (~3-10 minutes).
 
 - Raw shrimp
 - Sausage
@@ -64,3 +83,7 @@ Remove the skillet from the heat and let stand until the shrimp are fully cooked
 - Shredded chicken
 - Kosher salt, to taste
 - Freshly ground black pepper, to taste
+
+Serve with:
+
+- Louisiana-style hot sauce
