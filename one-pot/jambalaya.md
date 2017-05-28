@@ -1,6 +1,19 @@
 Jambalaya
 =========
 
+Cajun seasoning
+---------------
+
+Combine and set aside:
+
+- 2 1/2 tablespoons paprika
+- 2 tablespoons garlic powder
+- 1 tablespoon black pepper
+- 1 tablespoon onion powder
+- 1 tablespoon cayenne pepper
+- 1 tablespoon dried oregano
+- 1 tablespoon dried thyme
+
 Chicken
 -------
 
@@ -8,8 +21,9 @@ Dry chicken and season.
 
 - 4 bone-in, skin-on chicken thighs, trimmed
 - Kosher salt
-- Freshly ground black pepper
 - Cajun seasoning
+
+Set aside.
 
 Shrimp & shrimp stock
 ---------------------
