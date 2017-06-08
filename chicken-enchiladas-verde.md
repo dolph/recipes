@@ -55,7 +55,7 @@ Broil until sauce bubbles and cheese is melted (~5 minutes).
 
 Garnish:
 
-- Cilantro
+- Cilantro, chopped
 
 Serve with:
 
