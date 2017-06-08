@@ -48,7 +48,7 @@ In a 9x13 inch baking pan, layer from bottom to top:
 
 - 1/2 cup salsa verda
 - Rolled tortillas, filled with shredded chicken and a teaspoon of salsa verde, seam-side down
-- 1 cup monterrey jack cheese
+- 8 ounces Monterrey Jack cheese, shredded
 - Remaining salsa verde
 
 Broil until sauce bubbles and cheese is melted (~5 minutes).
