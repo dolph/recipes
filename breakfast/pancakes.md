@@ -8,7 +8,7 @@ Mix wet ingredients:
 - 1 large egg, gently beaten
 - 1/2 cup whole milk
 - 2 tablespoons butter, melted
-- 1/2 teaspoon vanilla extract (optional)
+- 1/2 teaspoon vanilla extract
 
 Mix dry ingredients:
 
