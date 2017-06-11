@@ -11,7 +11,7 @@ Mix dry ingredients:
 - 3/4 teaspoons baking soda
 - 3/4 teaspoons kosher salt
 
-Make a well in the center. Add the wet ingredentients:
+In a separate bowl, mix wet ingredentients:
 
 - 1 large egg, gently beaten (do not introduce air)
 - 1 cup whole milk
@@ -19,4 +19,16 @@ Make a well in the center. Add the wet ingredentients:
 - 1 tablespoon lemon juice (or white vinegar)
 - 1 teaspoon vanilla extract
 
-Mix together until just combined (lumps are desirable).
+Add any additional ingredients to the wet, such as:
+
+- Fruit (blueberries, strawberries, apples, etc)
+- Chocolate chips
+- Nuts (pecans)
+
+Make a well in the center of the dry ingredients. Pour in the wet ingredentients and slowly incorporate together until just combined (lumps are desirable).
+
+Serve with:
+
+- Maple syrup
+- Melted butter
+- A salty protein
