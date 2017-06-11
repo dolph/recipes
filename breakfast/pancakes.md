@@ -19,7 +19,7 @@ In a separate bowl, mix wet ingredentients:
 - 1 tablespoon **lemon** juice (or white vinegar)
 - 1 teaspoon **vanilla extract**
 
-Add any additional, optional ingredients to the wet, such as:
+Optionally, add any additional ingredients to the wet, such as:
 
 - Fruit (blueberries, strawberries, apples, etc)
 - Chocolate chips
