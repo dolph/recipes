@@ -17,7 +17,7 @@ Drain chicken, reserving stock for another use, allow to cool, and shred, discar
 Salsa verde
 -----------
 
-Combine in a food processor or blender, and purée until smooth:
+Combine in a blender, and purée at low speed until smooth:
 
 - 1 pound fresh **tomatillos**, husked and rinsed
 - 1 small **white onion**, quartered
