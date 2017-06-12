@@ -14,21 +14,6 @@ In a large saucepan, bring to a boil over high heat, reduce to a simmer until ch
 
 Drain chicken, reserving stock for another use, allow to cool, and shred, discarding skin and bones.
 
-Salsa verde
------------
-
-Combine in a blender at low speed until smooth:
-
-- 1 pound fresh **tomatillos**, husked and rinsed
-- 1 small **white onion**, quartered
-- 1 clove of **garlic**
-- 2 **serrano chiles**, seeded
-- 1/4 cup **cilantro** leaves
-- 1/4 cup **lime juice**
-- 1 teaspoon kosher salt
-
-If necessary, add water until fluid.
-
 Tortillas
 ---------
 
@@ -46,16 +31,16 @@ Preheat broiler on high.
 
 In a 9x13 inch baking pan, layer from bottom to top:
 
-- 1/2 cup salsa verde
+- 1/2 cup **[salsa verde](https://github.com/dolph/recipes/blob/master/condiments/salsa.md)**
 - Rolled tortillas, filled with shredded chicken and a teaspoon of salsa verde, seam-side down
 - 8 ounces **Monterrey Jack** cheese, shredded
-- Remaining salsa verde
+- Remaining **salsa verde**
 
 Broil until sauce bubbles and cheese is melted (~5 minutes).
 
 Garnish:
 
-- Cilantro, chopped
+- **Cilantro**, chopped
 
 Serve with:
 
