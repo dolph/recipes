@@ -19,11 +19,11 @@ Salsa verde
 
 Combine in a food processor or blender, and purée until smooth:
 
-- 1 pound fresh **tomatillos**, husked, rinsed, and quartered
-- 1 small **white onion**, chopped
-- 1 clove of **garlic**, chopped
-- 2 **serrano chiles**, chopped
-- 1/4 cup **cilantro**, chopped
+- 1 pound fresh **tomatillos**, husked and rinsed
+- 1 small **white onion**, quartered
+- 1 clove of **garlic**
+- 2 **serrano chiles**, seeded
+- 1/4 cup **cilantro** leaves
 - 1/4 cup **lime juice**
 - 1 teaspoon kosher salt
 
@@ -46,7 +46,7 @@ Preheat broiler on high.
 
 In a 9x13 inch baking pan, layer from bottom to top:
 
-- 1/2 cup salsa verda
+- 1/2 cup salsa verde
 - Rolled tortillas, filled with shredded chicken and a teaspoon of salsa verde, seam-side down
 - 8 ounces **Monterrey Jack** cheese, shredded
 - Remaining salsa verde
