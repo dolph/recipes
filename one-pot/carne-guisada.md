@@ -21,12 +21,18 @@ Remove the beef and set aside. Make a medium roux:
 - 1/4 cup (4 tablespoons) flour
 - 4 tablespoons (1/4 cup) butter
 
-Saute until vegetables are softened:
+Saute until softened:
 
 - 2 **poblanos**, seeded and chopped
 - 1 **onion**, chopped
+
+Saute until fragrant:
+
+- 6 cloves **garlic**, minced
+
+Add, and heat through:
+
 - 5 **Roma tomatoes**, chopped
-- 6 cloves **garlic**, chopped
 - 1 teaspoon dried mexican oregano
 - 1 teaspoon ground cumin
 - 1 teaspoon chili powder
@@ -34,7 +40,7 @@ Saute until vegetables are softened:
 - 1 teaspoon freshly ground black pepper
 - 2 bay leaves
 
-Bring everything to a boil:
+Add, and bring everything to a boil:
 
 - Beef
 - 1 quart beef stock
