@@ -16,9 +16,11 @@ In a stock pot over high heat, brown on all sides:
 - Beef
 - 1 tablespoon canola oil
 
-Remove the beef and set aside. Make a medium roux:
+Remove the beef and allow to rest for at least 10 minutes. When rested, remove the layer of fat, and then cut into 3/4" cubes.
 
-- 6 tablespoons flour
+Meanwhile, make a medium roux:
+
+- 1/2 cup flour
 - 6 tablespoons butter
 
 Saute until softened:
@@ -44,7 +46,7 @@ Add, and heat through:
 
 Add, and bring everything to a boil:
 
-- Beef
+- Cubed beef
 - 1 quart beef stock, plus an additional 1/2 quart set aside
 
 Reduce over low heat, simmering very gently until thickened (~3-4 hours). Skim fat from surface and stir every 15-20 minutes.
