@@ -42,6 +42,7 @@ Add, and heat through:
 - 2 teaspoons paprika
 - 2 teaspoons freshly ground black pepper
 - 2 teaspoons kosher salt
+- 1/2 teaspoon cayenne pepper
 - 3 bay leaves
 
 Add, and bring everything to a boil:
