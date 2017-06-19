@@ -49,7 +49,7 @@ Add, and bring everything to a boil:
 - Cubed beef
 - 1 quart beef stock, plus an additional 1/2 quart set aside
 
-Reduce over low heat, simmering very gently until thickened (~3-4 hours). Skim fat from surface and stir every 15-20 minutes.
+Reduce over low heat, simmering very gently until thickened (~3-4 hours) and beef is tender. Skim fat from surface and stir every 15-20 minutes. If necessary, add additional stock (or water) to prevent the gravy from thickening until the beef is tender.
 
 Season to taste:
 
