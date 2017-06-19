@@ -33,7 +33,7 @@ In a large bowl, combine and toss lightly:
 - 1/2 red onion, sliced in half-rounds
 - 1/2 pound feta cheese block, 1/2-inch diced
 - 1/2 pound feta cheese, crumbled
-- 1/2 cup calamata olives, pitted
+- 1/2 cup kalamata olives, pitted
 - Vinaigrette
 
 Set aside for 30 minutes to allow the flavors to blend. Serve at room temperature.
