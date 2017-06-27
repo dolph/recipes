@@ -12,10 +12,8 @@ Combine flour, baking soda and salt in small bowl:
 
 In a large mixer bowl, thoroughly beat together:
 
-> Untested. This used to be 75 grams granulated sugar + 75 grams brown sugar.
-
-- 100 grams granulated sugar
-- 5 grams molasses
+- 75 grams brown sugar
+- 75 grams granulated sugar
 
 Add, and beat until creamy:
 
