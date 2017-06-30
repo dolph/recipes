@@ -5,7 +5,7 @@ Ribs
 * Slather: olive oil
 * [Rub](https://github.com/dolph/recipes/blob/master/barbecue/pork-rub.md)
 * Smoker temperature: 275 F
-* Wood: oak
+* Wood: oak (for example, mesquite charcoal + soaked oak chips)
 * Spritz: Apple cider vinegar
 
 Directions
