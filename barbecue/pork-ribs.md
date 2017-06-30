@@ -18,7 +18,7 @@ Total time: 4-6 hours
 
 2. Setup water pan. Cook meat side up until the desired final color is reached (~2-3 hours), spritzing occassionally, and refilling water pan as necessary, to maintain moisture.
 
-3. Spritz one last time, brush both sides with barbecue sauce, and tightly wrap in alluminum foil (which has also been spritzed) meat side down.
+3. Spritz one last time, brush both sides with barbecue sauce, and tightly wrap in alluminum foil (which has also been spritzed) meat side down. Optionally, transfer to an oven, because there's no reason to consume additional wood or smoke.
 
 4. Cook to 195 F and tender (~1-2 hours).
 
