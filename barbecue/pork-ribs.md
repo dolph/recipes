@@ -3,7 +3,6 @@ Ribs
 
 * Cut: St. Louis style
 * Slather: olive oil
-* 1 part salt
 * [Rub](https://github.com/dolph/recipes/blob/master/barbecue/pork-rub.md)
 * Smoker temperature: 275 F
 * Wood: oak
