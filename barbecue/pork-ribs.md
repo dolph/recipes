@@ -3,9 +3,8 @@ Ribs
 
 * Cut: St. Louis style
 * Slather: olive oil
-* Rub:
-  * 2 parts pepper
-  * 1 part salt
+* 1 part salt
+* [Rub](https://github.com/dolph/recipes/blob/master/barbecue/pork-rub.md)
 * Smoker temperature: 275 F
 * Wood: oak
 * Spritz: Apple cider vinegar
@@ -13,14 +12,14 @@ Ribs
 Directions
 ----------
 
-Total time: 7 hours
+Total time: 4-6 hours
 
-1. Lightly apply slather. Generously apply rub. Allow the meat to warm up at room temperature (~1 hour).
+1. Lightly apply slather. Generously apply rub. Allow the meat to warm up at room temperature (~30 minutes).
 
-2. Cook meat side up until the desired final color is reached (~3 hours), spritzing occassionally.
+2. Setup water pan. Cook meat side up until the desired final color is reached (~2-3 hours), spritzing occassionally, and refilling water pan as necessary, to maintain moisture.
 
 3. Spritz one last time, brush both sides with barbecue sauce, and tightly wrap in alluminum foil (which has also been spritzed) meat side down.
 
-4. Cook until tender (~2 hours).
+4. Cook to 195 F and tender (~1-2 hours).
 
-5. Rest to 140 F (~1 hour).
+5. Rest to 160 F (~30 minutes).
