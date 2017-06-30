@@ -14,7 +14,9 @@ Directions
 
 Total time: 4-6 hours
 
-1. Lightly apply slather. Generously apply rub. Allow the meat to warm up at room temperature (~30 minutes).
+1. Lightly apply slather. Season pretty heavily with kosher salt. Generously apply rub (as much as will stick). Wrap with foil and refridgerate 2-24 hours.
+
+2. Allow the meat to warm up at room temperature (~30 minutes) while the smoker comes to temperature.
 
 2. Setup water pan. Cook meat side up until the desired final color is reached (~2-3 hours), spritzing occassionally, and refilling water pan as necessary, to maintain moisture.
 
