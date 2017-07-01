@@ -13,7 +13,7 @@ Directions
 
 > Total time: 6-30 hours
 
-1. [Remove silverskin](http://www.finecooking.com/article/how-to-remove-silverskin-from-ribs). Lightly apply slather. Season pretty heavily with kosher salt. Generously apply rub (as much as will stick). Wrap with foil and refridgerate 2-24 hours.
+1. Dry with paper towels. [Remove silverskin](http://www.finecooking.com/article/how-to-remove-silverskin-from-ribs). Lightly apply slather. Season pretty heavily with kosher salt. Generously apply rub (as much as will stick). Wrap with foil and refridgerate 2-24 hours.
 
 2. Allow the meat to warm up at room temperature (~30 minutes) while the smoker comes to temperature.
 
