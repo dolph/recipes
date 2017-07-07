@@ -8,7 +8,7 @@ Dry ingredients
 
 In a small bowl, stir dry ingredients together and set aside:
 
-- 2 cups all-purpose flour
+- 255 grams (~2 cups) all-purpose flour
 - 1 teaspoon baking soda
 - 1/4 teaspoon salt
 
