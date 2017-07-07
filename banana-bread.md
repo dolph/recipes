@@ -33,7 +33,7 @@ Using electric mixer, cream until smooth and fluffy:
 
 Add and cream together 2 minutes more:
 
-- 3/4 cup dark brown sugar
+- 165 grams (~3/4 cup) dark brown sugar
 
 One at a time, mix in eggs. Do not over beat.
 
@@ -41,7 +41,7 @@ One at a time, mix in eggs. Do not over beat.
 
 Mix in bananas until only small lumps remain.
 
-- 2.5 cups (about 5) very ripe bananas
+- 600 grams (~2.5 cups, about 5) very ripe bananas
 
 Add and mix until just combined:
 
