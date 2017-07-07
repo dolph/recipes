@@ -6,7 +6,7 @@ Preheat oven to 350 F.
 Dry ingredients
 ---------------
 
-In a small bowl, stir dry ingredients together and set aside:
+In a medium bowl, stir dry ingredients together and set aside:
 
 - 255 grams (~2 cups) **AP flour**
 - 1 teaspoon **baking soda**
