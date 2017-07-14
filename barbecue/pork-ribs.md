@@ -21,6 +21,6 @@ Directions
 
 3. Spritz one last time, brush both sides with barbecue sauce, and tightly wrap in alluminum foil (which has also been spritzed) meat side down. Optionally, transfer to an oven, because there's no reason to consume additional wood or smoke.
 
-4. Cook to 195 F and tender (~1-2 hours).
+4. Cook to 195-200 F and tender (~1-2 hours).
 
 5. Rest to 160 F (~30 minutes).
