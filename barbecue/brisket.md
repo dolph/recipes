@@ -7,7 +7,7 @@ Brisket
 
 - Grade: high choice or prime
 - Slather: olive oil
-- Rub:
+- Rub (2-24 hours in advance):
   - 1 part salt
   - 1 part pepper
 - Warm up: 1 hour
