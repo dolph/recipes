@@ -3,80 +3,72 @@ Cuban sandwiches
 
 > Original recipe is from the movie [Chef](http://www.imdb.com/title/tt2883512/) by Jon Favrau, [as posted to Reddit](https://www.reddit.com/r/food/comments/44t67p/im_jon_favreau_and_these_are_cuban_sandwiches_i/czsrjx1/).
 
-Brine:
+Pork shoulder
+-------------
 
-- 4 cups orange juice
-- 3.5 cups water
+> Can be made ahead and refridgerated.
+
+Brine 12-24 hours:
+
+- 6 pound pork shoulder, tied
+- 4 cups fresh orange juice
 - 1/2 cup rice vinegar
 - 1/2 cup spiced rum
 - 1/2 cup salt
 - 1/4 cup sugar
-- lots of minced garlic
-- 1 tbs fresh thyme
-- 1 tbs fresh rosemary
-- 1 tbs fresh oregano
-- 1 tbs fresh sage
-- peppercorns
+- 10 cloves garlic, minced
+- 1 tablespoon fresh thyme
+- 1 tablespoon fresh rosemary
+- 1 tablespoon fresh oregano
+- 1 tablespoon fresh sage
+- 1 tablespoon peppercorns
 - 3 bay leaves
-
-Mojo Marinade:
-
-- 6 lb pork shoulder
-- 2/3 cups olive oil
-- 2/3 cups cilantro
-- 4 tbs mint leaves
-- 1/2 cups orange juice
-- 1/2 cups fresh squeezed lime juice
-- 7 garlic cloves, minced
-- 1 ½ tbs grated orange peel
-- 2 tsp fresh oregano, chopped
-- 1 tsp ground cumin
-- 2/3 tsps. black pepper, ground
-- 2/3 tsps. fine sea salt
-
-- Loaves of baguette
-- American Yellow mustard
-- Swiss cheese
-- Pickles (sliced lengthwise)
-- Butter
-- Sliced ham
-
-Method
-------
-
-Brine pork shoulder for 12 hours.
-
-Prepare Mojo Marinade.
+- Enough water to cover
 
 Remove pork from brine and pat dry.
 
-Marinate pork shoulder in Mojo Marinade for at least 2 hours.
+Marinate 2-8 hours:
 
-Slow roast pork shoulder til 170 internal temp (should still be a light pink on inside).
+- Brined pork shoulder
+- 2/3 cups olive oil
+- 2/3 cups cilantro
+- 4 tablespoons mint leaves
+- 1/2 cups orange juice
+- 1/2 cups fresh squeezed lime juice
+- 7 garlic cloves, minced
+- 1.5 tablespoons grated orange peel
+- 2 teaspoons fresh oregano, chopped
+- 1 teaspoon ground cumin
+- 2/3 teaspoons black pepper, ground
+- 2/3 teaspoons fine sea salt
 
-Baste pork with marinade throughout roasting.
+On a sheet pan fitted with a wire rack, roast at 275 F until the internal temp hits 170 F. Periodically baste pork with marinade throughout roasting.
 
-Let pork rest until cool enough to handle.
+- Pork shoulder
 
-If time allows, refrigerate to make it easier to slice.
+Rest to 140 F.
 
-Thinly slice, then grill.
+Refridgerate if time allows.
 
-Cut baguettes approximately 9" long.
+Sandwiches
+----------
 
-Butter inside of baguette or roll and then toast until golden brown.
+Butter inside of baguette and toast until golden brown:
+
+- Butter
+- Pan cubano bread (9" long)
 
 From bottom up, layer:
 
-- grilled sliced pork
-- grilled ham slices
-- swiss cheese
-- pickles sliced thinly lengthwise
+- Pork shoulder, thinly sliced, grilled
+- Smoked ham, sliced, grilled
+- Swiss cheese
+- Dill pickles, sliced thinly lengthwise
 
-Slather mustard from edge to edge on top bun.
+Slather from edge to edge on top bun.
 
-Close sandwich.
+- American yellow mustard
 
-Generously brush melted butter on top of bread.
+Close sandwich, and generously brush melted butter on top of bread.
 
 Butter heated plancha and press until golden brown.
