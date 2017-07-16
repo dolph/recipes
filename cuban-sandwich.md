@@ -42,6 +42,8 @@ Marinate 2-8 hours:
 - 2/3 teaspoons black pepper, ground
 - 2/3 teaspoons fine sea salt
 
+> Final temperature seems far too low. 190-195 F would still be sliceable, but would make it past the stall.
+
 On a sheet pan fitted with a wire rack, roast at 275 F until the internal temp hits 170 F. Periodically baste pork with marinade throughout roasting.
 
 - Pork shoulder
