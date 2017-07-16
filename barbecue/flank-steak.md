@@ -52,7 +52,7 @@ After marinating, remove as much marinade from the steak as possible by scraping
 - 1/2 teaspoon sugar
 - 1/2 teaspoon freshly ground black pepper
 
-In a hot cast iron pan, on a grill, or under a broiler, cook on both sides, flipping once, until the internal temp reaches 120 F using:
+In a hot cast iron pan, on a grill, or under a broiler, cook on both sides, flipping once, until the internal temp reaches 130-135 F using:
 
 - 2 tablespoons vegetable oil
 
