@@ -8,21 +8,21 @@ Bread crumbs
 
 Mince in a food processor:
 
-- 6 garlic cloves
+- 6 **garlic** cloves
 
 Add, and mince as small as possible:
 
-- 4 ounces sourdough bread, crust removed, 1/2" pieces
+- 4 ounces **sourdough bread**, crust removed, 1/2" pieces
 
 Brown in a dutch oven over medium heat until crispy:
 
-- 2 tablespoon olive oil
+- 2 tablespoon **olive oil**
 - Breadcrumb mixture
 
 Season with:
 
 - Kosher salt
-- Lemon zest
+- **Lemon** zest
 
 Stir well and set aside.
 
@@ -31,21 +31,21 @@ Sauce
 
 In a dutch oven over medium heat, begin to brown:
 
-- 3 tablespoons olive oil
-- 6 garlic cloves, thinly sliced
+- 3 tablespoons **olive oil**
+- 6 **garlic** cloves, thinly sliced
 
 Dissolve:
 
-- 2 anchovy fillets
-- 1/2 teaspoon crushed red pepper
+- 2 **anchovy** fillets
+- 1/2 teaspoon **crushed red pepper**
 
 Stop the browning:
 
-- 1/3 cup white wine
+- 1/3 cup **white wine**
 
 Return to a simmer and steam, covered, until clams open (~5 minutes)
 
-- 2 pounds (16-20) little neck clams, scrubbed
+- 2 pounds (16-20) **little neck clams**, scrubbed
 
 Set aside clams as they open (cover with foil), leaving sauce in dutch oven.
 
@@ -54,7 +54,7 @@ Pasta
 
 Cook halfway, reserving 1 cup of cooking liquid:
 
-- 340 grams linguini
+- 340 grams **linguini**
 
 Composition
 -----------
@@ -68,8 +68,8 @@ Toss over medium-low heat until the sauce is thickened and glossy, and the pasta
 
 Remove from heat. Add, and toss well to combine:
 
-- 2 tablespoons butter
-- 1 cup finely chopped parsley
+- 2 tablespoons **butter**
+- 1 cup **parsley**, finely chopped
 - Half the bread crumb mixture
 
 Add and heat through:
