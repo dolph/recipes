@@ -64,7 +64,7 @@ In the dutch oven with the pasta sauce, add:
 - 1 cup pasta cooking liquid
 - Half-cooked pasta
 
-Toss over medium-low heat until the sauce is thickened and glossy, and the pasta is al dente.
+Toss over medium heat until the sauce is thickened and glossy, and the pasta is al dente.
 
 Remove from heat. Add, and toss well to combine:
 
