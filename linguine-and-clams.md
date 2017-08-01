@@ -12,7 +12,7 @@ Mince in a food processor:
 
 Add, and mince as small as possible:
 
-- 4 ounces **sourdough bread**, crust removed, 1/2" pieces
+- 2 ounces **sourdough bread**, crust removed, 1/2" pieces
 
 Brown in a dutch oven over medium heat until crispy:
 
@@ -22,7 +22,7 @@ Brown in a dutch oven over medium heat until crispy:
 Season with:
 
 - Kosher salt
-- **Lemon** zest
+- 1/2 **lemon**, zested
 
 Stir well and set aside.
 
