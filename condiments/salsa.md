@@ -29,11 +29,11 @@ Verde
 Combine in a blender at low speed until smooth:
 
 - 1 pound fresh **tomatillos**, husked and rinsed
-- 1 small **white onion**, quartered
+- 1 small (200 grams) **white onion**, quartered
 - 1 clove of **garlic**
-- 2 **serrano chiles**, seeded
-- 1/4 cup **cilantro** leaves
-- 1/4 cup **lime juice**
+- 3 **serrano chiles**, seeded
+- 1/4 cup (10 grams) **cilantro** leaves
+- 1/4 cup (60 grams) **lime juice**
 - 1 teaspoon kosher salt
 
 If necessary, add water until fluid.
