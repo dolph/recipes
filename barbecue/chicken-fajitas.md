@@ -6,8 +6,8 @@ Chicken fajitas
 Season:
 
 - 1.5 pounds **chicken thighs**
-- Kosher salt
-- Black pepper
+- **Kosher salt**
+- **Black pepper**
 
 Marinate 1-12 hours:
 
@@ -16,7 +16,7 @@ Marinate 1-12 hours:
 - 1 **lime**, zest only
 - 2 teaspoons **cumin seeds**, toasted and ground (or 1/2 teaspoon **ground cumin**)
 - 1 **chipotle chile in adobo**, minced (or 1 tablespoon **chili powder**)
-- 1/2 teaspoon kosher salt
+- 1/2 teaspoon **kosher salt**
 
 Grill or broil to 175 F.
 
