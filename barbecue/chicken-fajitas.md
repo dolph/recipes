@@ -5,7 +5,7 @@ Chicken fajitas
 
 Season:
 
-- 1.5 pounds chicken thighs
+- 1.5 pounds **chicken thighs**
 - Kosher salt
 - Black pepper
 
