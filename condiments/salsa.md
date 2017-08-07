@@ -8,7 +8,7 @@ Blacken:
 
 - 2.5 pounds **roma tomatoes**
 
-Combine in a blender at low speed until smooth:
+Combine in a blender at medium-high speed until smooth:
 
 - 1 cup **beef stock**
 - 3 tablespoons **olive oil**
@@ -26,7 +26,7 @@ Verde
 
 > Makes about 1 quart.
 
-Combine in a blender at low speed until smooth:
+Combine in a blender at medium-high speed until smooth:
 
 - 1 pound fresh **tomatillos**, husked and rinsed
 - 1 small (200 grams) **white onion**, quartered
