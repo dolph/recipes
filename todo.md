@@ -1,4 +1,4 @@
-> Scratch pad to attempt to organize foods, or categories of foods, that I'd like to try making.
+> Scratch pad attempting to organize foods, or categories of foods, that I'd like to organize recipes around.
 
 Snacks & Candy
 --------------
