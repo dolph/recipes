@@ -27,10 +27,11 @@ Buffalo sauce
 Whisking constantly, simmer until thickened (5 minutes):
 
 - 2 tablespoons butter
-- 90 milliliters (6 tablespoons) hot sauce
-- 10 milliliters (2 teaspoons) Worcestershire
+- 60 milliliters (4 tablespoons) hot sauce
+- 5 milliliters (1 teaspoon) Worcestershire
 - 1 teaspoon garlic powder
 - 1 teaspoon onion powder
+- 1/2 teaspoon cayenne pepper
 - 1/2 teaspoon kosher salt
 
 Lemon pepper sauce
