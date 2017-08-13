@@ -57,8 +57,6 @@ Working with 1 piece at a time:
 4. Dredge in flour mixture
 5. Place on a baking sheet
 
-- 2 teaspoons kosher salt
-
 Working in two batches and returning oil to 325° between batches, fry chicken, turning occasionally, until skin is deep golden brown and crisp and an instant-read thermometer inserted into thickest part of pieces registers 160° for white meat and 165° for dark, 15–18 minutes.
 
 Transfer to a clean wire rack set inside a baking sheet. Let oil cool slightly.
