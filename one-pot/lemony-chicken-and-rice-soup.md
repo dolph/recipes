@@ -27,9 +27,9 @@ Add, and cook until fragrant (~30 seconds):
 
 - 1 teaspoon minced **fresh thyme** (or 1/4 teaspoon dried)
 
-Stir in, and scrap up brown bits:
+Stir in, and scrape up brown bits:
 
-- 6 cups low-sodium chicken broth
+- 6 cups low-sodium **chicken broth**
 - 6 (3-inch) strips **lemon zest**
 
 Add, cover, and simmer until chicken registers 160 F:
