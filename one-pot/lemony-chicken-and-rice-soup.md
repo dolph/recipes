@@ -3,7 +3,7 @@ Lemony chicken and rice soup
 
 Dry and season:
 
-- 1-2 pounds **chicken breasts** (about 3), boneless, skinless, trimmed
+- 1-2 pounds **chicken breasts** (or tenders), boneless, skinless, trimmed
 - Salt and pepper
 
 Heat in a dutch oven over medium-high heat until smoking:
@@ -36,7 +36,7 @@ Add, cover, and simmer until chicken registers 160 F:
 
 - Chicken
 
-Transfer chicken to cutting board and shred.
+Transfer chicken to cutting board, split into tenders, and shred.
 
 Remove lemon zest.
 
