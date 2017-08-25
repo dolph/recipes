@@ -3,12 +3,12 @@ Lemony chicken and rice soup
 
 Dry and season:
 
-- 1-1.5 pounds **chicken breasts**, boneless, skinless, trimmed
+- 1-2 pounds **chicken breasts** (about 3), boneless, skinless, trimmed
 - Salt and pepper
 
 Heat in a dutch oven over medium-high heat until smoking:
 
-- 1 tablespoon canola oil
+- 1 tablespoon olive oil
 
 Brown on both sides (~5 minutes):
 
@@ -18,7 +18,7 @@ Set chicken aside.
 
 Reduce heat to medium and cook until softened (~5 minutes):
 
-- 1 tablespoon canola oil
+- 1 tablespoon olive oil
 - 3 **carrots**, peeled, sliced 1/4" thick
 - 1 **fennel bulb**, stalks discarded, bulb halved, cored, sliced 1/4" thick
 - 1 **onion**, chopped fine
@@ -45,7 +45,7 @@ Return to simmer.
 Stir in, and cook until heated through (~1 minute):
 
 - Chicken
-- 2 cups **rice**, cooked
+- 1 cup **rice**, cooked
 
 Whisk together in a medium bowl, and temper with hot broth before combining with soup:
 
