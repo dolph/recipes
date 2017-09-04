@@ -6,20 +6,20 @@ Cajun seasoning
 
 Combine and set aside:
 
-- 2 1/2 tablespoons paprika
-- 2 tablespoons garlic powder
-- 1 tablespoon black pepper
-- 1 tablespoon onion powder
-- 1 tablespoon cayenne pepper
-- 1 tablespoon dried oregano
-- 1 tablespoon dried thyme
+- 2 1/2 tablespoons **paprika**
+- 2 tablespoons **garlic powder**
+- 1 tablespoon freshly ground **black pepper**
+- 1 tablespoon **onion powder**
+- 1 tablespoon **cayenne pepper**
+- 1 tablespoon **dried oregano**
+- 1 tablespoon **dried thyme**
 
 Chicken
 -------
 
 Dry chicken and season.
 
-- 4 bone-in, skin-on chicken thighs, trimmed
+- 4 bone-in, skin-on **chicken thighs**, trimmed
 - Kosher salt
 - Cajun seasoning
 
@@ -30,7 +30,7 @@ Shrimp & shrimp stock
 
 Peel, devein, and season shrimp, reserving shrimp shells in a 3 quart pot.
 
-- 1.5 pounds large shrimp (10-25 per pound), peeled and deveined, shells reserved
+- 1.5 pounds large **shrimp** (10-25 per pound), peeled and deveined, shells reserved
 - Kosher salt
 - Cajun seasoning
 
@@ -63,19 +63,19 @@ Transfer the sausage to a small bowl, and set aside (no need to keep warm).
 Add oil and return to medium heat until shimmering. Cook until the onion is softened:
 
 - 3 teaspoons canola oil
-- 1 medium onion, chopped medium
-- 1 medium red bell pepper, stemmed, seeded, chopped medium
-- 5 medium garlic cloves, pressed
+- 1 **onion**, chopped medium
+- 1 **red bell pepper**, stemmed, seeded, chopped medium
+- 5 cloves **garlic**, pressed
 - 1/2 teaspoon kosher salt
 
 Add the rice and cook until translucent:
 
-- 2 cups long grain white rice, rinsed
+- 2 cups long grain **white rice**, rinsed
 
 Add the liquids, and bring to a simmer, and leave uncovered.
 
-- 14.5 ounce can diced tomatoes, drained
-- 8 ounce bottle clam juice
+- 14.5 ounce can **diced tomatoes**, drained
+- 8 ounce bottle **clam juice**
 - 3.5 cups liquid, shrimp stock and chicken broth combined
 
 Return the chicken to the pot, nestling it into the water. Cook until the chicken is cooked through (about 30 minutes).
@@ -93,7 +93,7 @@ Stir the shrimp and sausage into the rice, cover, and cook over low heat until c
 
 Remove the skillet from the heat and let stand until the shrimp are fully cooked and the rice is tender.
 
-- 2 tablespoons freshly chopped parsley
+- 2 tablespoons freshly chopped **parsley**
 - Shredded chicken
 - Kosher salt, to taste
 - Freshly ground black pepper, to taste
