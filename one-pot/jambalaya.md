@@ -76,7 +76,7 @@ If the rice is not yet cooked through, cover and hold over low heat.
 
 Stir the shrimp and sausage into the rice, cover, and cook over low heat until cooked through (~3-10 minutes).
 
-- Raw shrimp
+- Seasoned shrimp
 - Sausage
 
 Remove the skillet from the heat and let stand until the shrimp are fully cooked and the rice is tender.
