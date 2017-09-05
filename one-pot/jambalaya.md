@@ -1,19 +1,6 @@
 Jambalaya
 =========
 
-Cajun seasoning
----------------
-
-Combine and set aside:
-
-- 2 1/2 tablespoons **paprika**
-- 2 tablespoons **garlic powder**
-- 1 tablespoon freshly ground **black pepper**
-- 1 tablespoon **onion powder**
-- 1 tablespoon **cayenne pepper**
-- 1 tablespoon **dried oregano**
-- 1 tablespoon **dried thyme**
-
 Chicken
 -------
 
@@ -67,6 +54,16 @@ Add oil and return to medium heat until shimmering. Cook until the onion is soft
 - 1 **red bell pepper**, stemmed, seeded, chopped medium
 - 5 cloves **garlic**, pressed
 - 1/2 teaspoon kosher salt
+
+Season with:
+
+- 2 teaspoons **paprika**
+- 2 teaspoons **garlic powder**
+- 2 teaspoon freshly ground **black pepper**
+- 1 teaspoon **cayenne pepper**
+- 1 teaspoon **onion powder**
+- 1 teaspoon **dried oregano**
+- 1 teaspoon **dried thyme**
 
 Add the rice and cook until translucent:
 
