@@ -60,6 +60,6 @@ Remove bay leaves.
 
 Serve with:
 
-- 2 dozen **Flour tortillas** 
+- 2 dozen **Flour tortillas**
 - 1 pound **Sharp cheddar**
 - [Big Red](http://www.bigred.com/)

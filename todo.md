@@ -90,7 +90,7 @@ Miscellaneous
 - Marshmallows
 - Gravy mixes
 - Sauce mixes
-- Whipped cream 
+- Whipped cream
 
 Dips
 ----

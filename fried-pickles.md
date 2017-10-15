@@ -7,7 +7,7 @@ Prepare dipping sauce and set aside:
 - 1 teaspoon Cajun seasoning
 - 1 teaspoon Cajun hot sauce
 
-Cover a plate with parchment paper or wax paper. 
+Cover a plate with parchment paper or wax paper.
 
 Combine and marinate pickles:
 

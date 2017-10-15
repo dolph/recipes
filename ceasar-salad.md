@@ -32,7 +32,7 @@ Whisk in:
 - 3 tablespoons finely grated Parmesan
 
 Season with:
- 
+
 - Kosher salt, to taste
 - Freshly ground black pepper, to taste
 - Lemon juice, to taste
