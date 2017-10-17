@@ -3,6 +3,8 @@
 General Tso's chicken
 =====================
 
+> Needs to be spicier, and could use more depth of flavor.
+
 Sauce
 -----
 
