@@ -6,6 +6,8 @@ Cuban sandwiches
 Pork shoulder
 -------------
 
+> This is WAY too long for meat to sit in acid. Either shorten the marinade to just a couple hours, or cut the acids.
+
 > Can be made ahead and refridgerated.
 
 Brine 12-24 hours:
