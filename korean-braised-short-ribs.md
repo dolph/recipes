@@ -3,6 +3,8 @@ Korean braised short ribs
 
 > Adapted from [Bon Apétit](https://www.bonappetit.com/test-kitchen/inside-our-kitchen/article/korean-braised-short-ribs)
 
+Adjust oven rack to lower middle position and preheat to 275 F.
+
 Purée in a food processor and set aside:
 
 - 1 **kiwi**
