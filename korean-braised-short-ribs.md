@@ -64,5 +64,5 @@ Season:
 
 Pour the sauce over the meat and vegetables and serve with:
 
-- Steamed rice
-- Kimchi
+- **Steamed rice**
+- **Kimchi**
