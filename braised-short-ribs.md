@@ -57,4 +57,6 @@ Season:
 - Kosher salt
 - Freshly ground black pepper
 
-Pour the sauce over the meat and carrots and serve.
+Pour the sauce over the meat and carrots and serve with:
+
+- **Mashed potatoes**
