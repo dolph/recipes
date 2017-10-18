@@ -39,7 +39,7 @@ Add, bring to a simmer, deglaze, and reduce by half:
 - 1 cup **water**
 - 1 cup **soy sauce**
 - 1 cup **beef broth**
-- 1/2 cup **brown sugar**
+- 1/4 cup **brown sugar**
 
 Add, and return to a simmer:
 
