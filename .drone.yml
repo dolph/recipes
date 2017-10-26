@@ -1,6 +1,0 @@
-pipeline:
-  lint:
-    image: ubuntu
-    commands:
-      - |
-        ! find . -type f -exec egrep -l " +$" {} \; | grep -v '^\./\.git/'
