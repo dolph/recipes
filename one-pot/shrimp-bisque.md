@@ -1,60 +1,58 @@
-Shrimp bisque
-=============
+Seafood bisque
+==============
 
-Shrimp stock
-------------
+Shellfish stock
+---------------
 
-Peel and devein, reserving shells:
+Saute 15 minutes:
 
-- 1 pound large shrimp, peeled and deveined, shells reserved
+- 2 tablespoons olive oil
+- Reserved shells of 2 pounds seafood (shrimp, crab, crawfish, etc), cleaned
+- 1 onion, quartered
+- 2 carrots, quartered
+- 1 stalk celery, quartered
 
-Set shrimp aside in the refridgerator.
-
-Bring to a boil, reduce to a simmer, and reduce by half (~1 hour):
+Bring to a boil, reduce heat to a simmer, and reduce by half (~1 hour):
 
 - 2 quarts water
-- Shrimp shells
-- 1 teaspoon peppercorns
-- 2 cloves garlic
 - 1 bay leaf
+- 1 teaspoon peppercorns
+- 2 cloves garlic, crushed
+- 5 sprigs thyme
 
 Strain, discarding solids.
 
 Bisque
 ------
 
-In a 4 quart soup pot, cook until tender but not browned:
+In a 4 quart soup pot, make a blonde roux:
 
-- 3 tablespoons good olive oil
+- 4 tablespoons unsalted butter
+- 1/4 cup all-purpose flour
+
+Add, and cook until tender but not browned:
+
 - 3 leeks, white and light green parts only, chopped
 
 Add, and cook until fragrant:
 
-- 3 cloves garlic, chopped
+- 3 cloves garlic, crushed
 
-Add, and cook shrimp through:
-
-- 4 tablespoons unsalted butter
-- Deveined shrimp
-- Pinch cayenne pepper
-
-Set cooked shrimp aside.
-
-Make a blonde roux:
-
-- 1/4 cup all-purpose flour
-
-Deglaze, and simmer 15 minutes:
+Deglaze, and evaporate:
 
 - 1/4 cup Cognac or brandy
 - 1/4 cup dry sherry
 
-Add:
+Add, and cook seafood through:
 
-- Cooked shrimp
+- Seafood meat
+
+Add, and bring to a simmer:
+
 - Shrimp stock
-- 2 cups half-and-half
 - 1/3 cup tomato paste
+- 1/2 teaspoon cayenne pepper
+- 2 cups half-and-half, tempered
 
 Coarsely purée with an immersion blender.
 
