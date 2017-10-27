@@ -8,17 +8,17 @@ Saute 15 minutes:
 
 - 2 tablespoons olive oil
 - Reserved shells of 2 pounds seafood (shrimp, crab, crawfish, etc), cleaned
-- 1 onion, quartered
-- 2 carrots, quartered
-- 1 stalk celery, quartered
+- 1 **onion**, quartered
+- 2 **carrots**, quartered
+- 1 stalk **celery**, quartered
 
 Bring to a boil, reduce heat to a simmer, and reduce by half (~1 hour):
 
 - 2 quarts water
 - 1 bay leaf
-- 1 teaspoon peppercorns
-- 2 cloves garlic, crushed
-- 5 sprigs thyme
+- 1 teaspoon black peppercorns
+- 2 cloves **garlic**, crushed
+- 5 sprigs **thyme**
 
 Strain, discarding solids.
 
@@ -27,33 +27,33 @@ Bisque
 
 In a 4 quart soup pot, make a blonde roux:
 
-- 4 tablespoons unsalted butter
-- 1/4 cup all-purpose flour
+- 4 tablespoons **unsalted butter**
+- 1/4 cup **AP flour**
 
 Add, and cook until tender but not browned:
 
-- 3 leeks, white and light green parts only, chopped
-- 1 shallot, chopped
+- 3 **leeks**, white and light green parts only, chopped
+- 1 **shallot**, chopped
 
 Add, and cook until fragrant:
 
-- 3 cloves garlic, crushed
+- 3 cloves **garlic**, crushed
 
 Deglaze, and evaporate:
 
-- 1/4 cup Cognac or brandy
-- 1/4 cup dry sherry
+- 1/4 cup **Cognac** (or **brandy**)
+- 1/4 cup **dry sherry**
 
 Add, and cook seafood through:
 
-- Seafood meat
+- Shellfish meat
 
 Add, and bring to a simmer:
 
 - Shrimp stock
-- 1/3 cup tomato paste
+- 1/3 cup **tomato paste**
 - 1/2 teaspoon cayenne pepper
-- 2 cups half-and-half, tempered
+- 2 cups **half & half**, tempered
 
 Coarsely purée with an immersion blender.
 
@@ -68,4 +68,4 @@ Garnish with:
 
 Serve with:
 
-- Crusty French bread
+- Crusty **French bread**
