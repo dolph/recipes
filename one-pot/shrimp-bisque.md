@@ -33,6 +33,7 @@ In a 4 quart soup pot, make a blonde roux:
 Add, and cook until tender but not browned:
 
 - 3 leeks, white and light green parts only, chopped
+- 1 shallot, chopped
 
 Add, and cook until fragrant:
 
