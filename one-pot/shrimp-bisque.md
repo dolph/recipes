@@ -61,3 +61,11 @@ Season to taste:
 
 - Kosher salt
 - Freshly ground black pepper
+
+Garnish with:
+
+- Cayenne pepper
+
+Serve with:
+
+- Crusty French bread
