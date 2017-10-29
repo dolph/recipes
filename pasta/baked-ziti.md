@@ -1,9 +1,9 @@
-Baked ziti
-==========
+Baked penne
+===========
 
 > Makes 8-10 servings.
 
-Preheat oven to 375 F.
+> Total time: 2 hours
 
 Pasta
 -----
