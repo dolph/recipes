@@ -31,6 +31,8 @@ Add meat and cook over high heat until browned.
 
 When meat is cooked through, season to taste:
 
+> Try **oregano** instead of thyme here next time.
+
 - 1 teaspoon dried basil (only if not using fresh basil later)
 - 1/2 teaspoon **thyme** (or 1.5 teaspoons fresh thyme)
 - Salt & pepper
