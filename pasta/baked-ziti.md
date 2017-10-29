@@ -27,7 +27,7 @@ Add meat and cook over high heat until browned.
 
 - 1 pound **Italian sausage**
 - 1 pound **ground beef**
-- 1/2 teaspoon red pepper flakes
+- 1 teaspoon red pepper flakes
 
 When meat is cooked through, season to taste:
 
@@ -48,8 +48,8 @@ Simmer for 30 minutes:
 
 Season to taste.
 
-- 1 tablespoon **parsley**
-- 1 tablespoon **basil** (or 1 teaspoon dried basil)
+- 1/4 cup (~8 grams) fresh **parsley**, chopped
+- 1/4 cup (~8 grams) fresh **basil**, chopped (~8 grams)
 - Salt & pepper
 
 Set aside meat sauce.
