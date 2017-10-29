@@ -8,9 +8,11 @@ Baked penne
 Pasta
 -----
 
-Cook pasta until not quite al dente, drain, and cool:
+Cook pasta until not quite al dente and drain:
 
 - 16 ounces (by weight) **Ziti** (or Penne, or Mostaccioli), cooked until not quite al dente
+
+Transfer to a large mixing bowl.
 
 Meat sauce
 ----------
@@ -53,33 +55,28 @@ Set aside meat sauce.
 Cheese sauce
 ------------
 
-In a separate bowl, gently mix together (leave clumps):
+In the large mixing bowl with the pasta, gently mix together (leave clumps):
 
+- Cooked pasta
 - 16 ounces **whole milk ricotta**
 - 8 ounces **fresh mozzarella** (*another 8 ounces is required later*)
 - 1/2 cup **parmesan**, grated
 - 1 **egg**
 - Salt & pepper
 
+Set aside in the refrigerator. 
+
 Composition
 -----------
 
-In a separate bowl, toss to slightly combine:
-
-- Cooked pasta
-- Cheese sauce
-
-Add and toss to combine:
-
-- Meat sauce
-
 In a large casserole dish, layer together (from bottom to top):
 
-- Half the pasta
+- Half the pasta & cheese sauce
 - Half the meat sauce
-- 8 ounces fresh mozzarella, sliced thinly
-- Half the pasta
+- 4 ounces fresh mozzarella, sliced 1/4" thick
+- Half the pasta & cheese sauce
 - Half the meat sauce
+- 4 ounces fresh mozzarella, sliced 1/4" thick
 
 Bake until internal temperature reads 140 F (about 30 minutes).
 
