@@ -78,7 +78,7 @@ In a large casserole dish, layer together (from bottom to top):
 - Half the meat sauce
 - 4 ounces fresh mozzarella, sliced 1/4" thick
 
-Bake until internal temperature reads 140 F (about 30 minutes).
+Bake until internal temperature reads 160 F (about 30 minutes).
 
 Garnish:
 
