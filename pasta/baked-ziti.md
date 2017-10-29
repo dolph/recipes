@@ -35,6 +35,8 @@ When meat is cooked through, season to taste:
 
 Drain off excess fat, if necessary.
 
+Preheat oven to 375 F.
+
 Simmer for 30 minutes:
 
 - 28 ounce **can whole tomatoes** with juice
