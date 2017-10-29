@@ -1,5 +1,5 @@
-Baked penne
-===========
+Baked ziti
+==========
 
 > Makes 8-10 servings.
 
