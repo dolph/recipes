@@ -24,7 +24,8 @@ browned:
 Flip chicken over, and transfer skillet to oven. Bake until chicken is cooked.
 
 > Now is a good time to add hearty, seasoned vegetables to roast with the
-  chicken, such as Brussels sprouts, carrots, or potatoes.
+  chicken, such as Brussels sprouts, fennel, carrots, potatoes, asparagus, pearl
+  onions, garlic, shallots, etc.
 
 When the chicken is done, transfer the skillet back to the stove, set the
 chicken aside to rest, and discard all but 1 tablespoon of the remaining fat in
@@ -38,5 +39,10 @@ When the garlic begins to brown, add:
 
 - 2 tablespoons lemon juice
 - 1/2 teaspoon kosher salt
+- Black pepper
 
 Pour the pan sauce over the chicken and serve immediately.
+
+Serve with:
+
+- White rice, cooked in chicken stock with bay leaves
