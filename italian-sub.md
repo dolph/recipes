@@ -8,6 +8,9 @@ In a squirt bottle, shake to combine:
 
 - 3 parts **olive oil**
 - 1 parts **white wine vinegar**
+
+Season:
+
 - **Dried oregano**
 - Black pepper
 - Kosher salt
