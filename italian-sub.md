@@ -29,6 +29,7 @@ Layer crunchy, to fatty, to spicy, from bottom to top:
 - **Boar's Head Capocollo Hot**, draped
 - **Iceberg lettuce**, shredded
 - **Red onion**, thinly sliced
+- Dressing
 - **Boar's Head Sharp Picante Provolone Cheese**, folded
 - **Calabrian chile spread**
 - Soft **French bread**, split
