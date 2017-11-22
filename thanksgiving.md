@@ -1,7 +1,7 @@
 Thanksgiving
 ============
 
-- [Turkey stock](https://cooking.nytimes.com/recipes/1015731-roasted-turkey-stock)
+- [Roasted turkey stock](https://cooking.nytimes.com/recipes/1015731-roasted-turkey-stock)
 - ATK Braised turkey
 - ATK Mushroom-leek bread stuffing with herbs
 - ATK Creamy mashed potatoes
