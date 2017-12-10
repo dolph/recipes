@@ -10,13 +10,10 @@ Combine flour, baking soda and salt in small bowl:
 - 1/8 teaspoon baking powder
 - 1/2 teaspoon salt
 
-In a large mixer bowl, thoroughly beat together:
+In a large mixer bowl, beat together until creamy:
 
 - 75 grams brown sugar
 - 75 grams granulated sugar
-
-Add, and beat until creamy:
-
 - 4 tablespoons butter, softened
 - 1/2 teaspoon vanilla extract
 
