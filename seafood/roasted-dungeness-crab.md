@@ -28,7 +28,7 @@ Season, and stir to combine:
 
 Add:
 
-- 3 **Dungeness crab clusters**
+- 3 clusters **Dungeness crab**
 
 Season again:
 
