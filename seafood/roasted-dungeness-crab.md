@@ -1,4 +1,4 @@
-Roasted Dungeness Crab
+Roasted Dungeness crab
 ======================
 
 Preheat oven to 500 F.
