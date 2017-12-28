@@ -38,7 +38,6 @@ Season again:
 Sprinkle:
 
 - 1 tablespoon chopped **thyme**
-- 1 tablespoon chopped **parsley**
 
 Place skillet in oven and roast until heated through, tossing vegetables and turning crabs once, about 12 minutes.
 
@@ -50,7 +49,6 @@ Add to skillet, and bring to a boil:
 
 Add to sauce:
 
-- 1 tablespoon chopped **thyme**
 - 1 tablespoon chopped **parsley**
 
 Garnish crab and vegetables with sauce.
