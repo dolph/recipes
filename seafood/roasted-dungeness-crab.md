@@ -5,8 +5,8 @@ Preheat oven to 500 F.
 
 Melt in a large ovenproof skillet:
 
-- 1/4 cup **butter**
-- 1/4 cup **olive oil**
+- 3 tablespoons **butter**
+- 3 tablespoons **olive oil**
 
 Saute until fragrant (~30 seconds):
 
@@ -16,7 +16,7 @@ Saute until fragrant (~30 seconds):
 
 Add, and toss to coat:
 
-- 2 **red potatoes**, sliced 1/3"
+- 1 large **red potato**, sliced 1/3"
 - 1/4 pound **green beans**, trimmed
 - 1 cob **corn**, halved
 - 6 cloves **garlic**
@@ -28,7 +28,7 @@ Season, and stir to combine:
 
 Add:
 
-- 3 clusters **Dungeness crab**
+- 3 clusters (~1.5 pounds) **Dungeness crab**
 
 Season again:
 
@@ -46,7 +46,7 @@ Transfer everything but the sauce to a platter, and cover with foil.
 
 Add to skillet, and bring to a boil:
 
-- 1 **lemon**, juiced
+- Juice of 2 **lemons**
 
 Add to sauce:
 
