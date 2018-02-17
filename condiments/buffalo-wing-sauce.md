@@ -1,1 +1,1 @@
-See [chicken wings](https://github.com/dolph/recipes/blob/master/chicken-wings.md).
+See [chicken wings](../appetizers/chicken-wings.md#buffalo-sauce).
