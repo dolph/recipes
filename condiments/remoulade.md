@@ -1,5 +1,5 @@
-Rémoulade sauce
-===============
+Rémoulade
+=========
 
 Whisk together:
 
