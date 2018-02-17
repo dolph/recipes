@@ -8,3 +8,7 @@
 - [Guacamole](appetizers/guacamole.md)
 - [Herb coeur à la crème](appetizers/herb-coeur-a-la-creme.md)
 - [Queso](appetizers/queso.md)
+
+## Barbecue
+
+- [Boston pork butt](barbecue/boston-pork-butt.md)
