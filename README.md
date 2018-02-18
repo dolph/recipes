@@ -2,7 +2,7 @@
 
 ## Breakfast
 
-- ★ [Carne guisada](one-pot/carne-guisada.md)
+- [Carne guisada](one-pot/carne-guisada.md) ★
 - [Chilaquiles](breakfast/chilaquiles.md)
 - [French toast](breakfast/french-toast.md)
 - [Pancakes](breakfast/pancakes.md)
@@ -22,7 +22,7 @@
 
 ## Appetizers
 
-- ★ [Brussels sprouts](appetizers/brussels-sprouts.md)
+- [Brussels sprouts](appetizers/brussels-sprouts.md) ★
 - [Caesar salad](appetizers/ceasar-salad.md)
 - [Chicken wings](appetizers/chicken-wings.md) (and buffalo sauce and lemon pepper sauce)
 - [Guacamole](appetizers/guacamole.md)
@@ -40,19 +40,19 @@
 ## Dinner
 
 - [Chicken and dumplings](one-pot/chicken-and-dumplings.md)
-- ★ [Chili](one-pot/chili.md)
-- ★ [Jambalaya](one-pot/jambalaya.md)
-- ★ [Lemony chicken and rice soup](one-pot/lemony-chicken-and-rice-soup.md)
+- [Chili](one-pot/chili.md) ★
+- [Jambalaya](one-pot/jambalaya.md) ★
+- [Lemony chicken and rice soup](one-pot/lemony-chicken-and-rice-soup.md) ★
 - [Paella](one-pot/paella.md)
 - [Pot roast](one-pot/pot-roast.md)
 - [Roasted chicken](one-pot/roasted-chicken.md)
 - [Shrimp bisque](one-pot/shrimp-bisque.md)
 - [Singapore noodles](one-pot/singapore-noodles.md)
 - [Tortilla soup](one-pot/tortilla-soup.md)
-- ★ [Baked ziti](pasta/baked-ziti.md)
+- [Baked ziti](pasta/baked-ziti.md) ★
 - [Pasta Bolognese](pasta/bolognese.md)
 - [Herbed orzo with feta](pasta/herbed-orzo-with-feta.md)
-- ★ [Linguine and clams](pasta/linguine-and-clams.md)
+- [Linguine and clams](pasta/linguine-and-clams.md) ★
 - [Pasta carbonara](pasta/pasta-carbonara.md)
 - [Spaghetti with fried eggs](pasta/spaghetti-with-fried-eggs.md)
 - [Croatian mussels](seafood/croatian-mussels.md)
@@ -62,7 +62,7 @@
 - [Gumbo](seafood/gumbo.md)
 - [Meunière](seafood/meuniere.md)
 - [Clam & scallop stew](seafood/mussel-and-scallop-stew.md) (mussels?)
-- ★ [Mussels with pan sauce](seafood/mussels-with-pan-sauce.md)
+- [Mussels with pan sauce](seafood/mussels-with-pan-sauce.md) ★
 - [Roasted Dungeness crab](seafood/roasted-dungeness-crab.md)
 - [Salt & pepper mussels](seafood/salt-and-pepper-mussels.md)
 - [Shrimp pasta](seafood/shimp-pasta.md)
@@ -71,16 +71,16 @@
 
 ## Smoked
 
-- ★ [Boston pork butt](barbecue/boston-pork-butt.md)
-- ★ [Brisket](barbecue/brisket.md)
-- ★ [St. Louis pork ribs](barbecue/pork-ribs.md)
+- [Boston pork butt](barbecue/boston-pork-butt.md) ★
+- [Brisket](barbecue/brisket.md) ★
+- [St. Louis pork ribs](barbecue/pork-ribs.md) ★
 - [Turkey](barbecue/turkey.md)
 
 ## Barbecue
 
 - [Beef bulgogi](barbecue/bulgogi.md)
-- ★ [Chicken fajitas](barbecue/chicken-fajitas.md)
-- ★ [Marinated flank steak](barbecue/flank-steak.md)
+- [Chicken fajitas](barbecue/chicken-fajitas.md) ★
+- [Marinated flank steak](barbecue/flank-steak.md) ★
 - [Pollo asado al carbón](barbecue/pollo-asado-al-carbon.md)
 - [Corn](sides/grilled-corn.md)
 
@@ -92,11 +92,11 @@
 - [Cinnamon apples](sides/cinnamon-apples.md)
 - [Coleslaw](sides/coleslaw.md)
 - [Creamed corn](sides/creamed-corn.md)
-- ★ [Feta smashed potatoes](sides/feta-smashed-potatoes.md)
-- ★ [Greek salad](sides/greek-salad.md)
+- [Feta smashed potatoes](sides/feta-smashed-potatoes.md) ★
+- [Greek salad](sides/greek-salad.md) ★
 - [Grilled corn](sides/grilled-corn.md)
 - [Macaroni & cheese](sides/macaroni-and-cheese.md)
-- ★ [Potato salad](sides/potato-salad.md)
+- [Potato salad](sides/potato-salad.md) ★
 - [Rice pilaf](sides/rice-pilaf.rst)
 - [Risotto](sides/risotto.md)
 - [Shredded Brussels sprouts](sides/shredded-brussels-sprouts.md)
@@ -105,7 +105,7 @@
 ## Dessert
 
 - [Banana pudding](dessert/banana-pudding.md)
-- ★ [Cookies](dessert/cookies.md)
+- [Cookies](dessert/cookies.md) ★
 
 ### Dessert condiments
 
