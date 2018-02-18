@@ -40,7 +40,8 @@
 
 ## Sauces and condiments
 
-- [Barbecue](barbecue/sauce.md) (and ketchup)
+- [Barbecue](barbecue/sauce.md)
+- [Ketchup](barbecue/sauce.md#ketchup)
 - [Buffalo](appetizers/chicken-wings.md#buffalo-sauce)
 - [Lemon pepper](appetizers/chicken-wings.md#lemon-pepper-sauce)
 - [Chimichurri](condiments/chimichurri.md)
