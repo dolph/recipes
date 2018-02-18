@@ -37,14 +37,14 @@ Fold in:
 
 Pour batter into prepared loaf pan.
 
-Bake until internal temperature reaches 210 F (about 1 hour).
+Bake until internal temperature reaches 210 F (~45-60 minutes).
 
 Meanwhile, in a small bowl, combine to make a glaze:
 
 - 20 grams (~4 teaspoons) **lemon juice**
 - 64 grams (~1/2 cup) **powdered sugar**
 
-When the loaf is done, let cool in pan until warm to the touch, then turn out onto a baking rack set over a rimmed baking sheet. Turn cake right side up.
+When the loaf is done, let cool in pan until warm to the touch (~10-15 minutes), then turn out onto a baking rack set over a rimmed baking sheet. Turn cake right side up.
 
 Use a pastry brush to apply glaze evenly over top and sides of cake.
 
