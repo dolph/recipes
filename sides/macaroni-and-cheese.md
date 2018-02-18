@@ -3,6 +3,8 @@ Macaroni & cheese
 
 > Serves 6-8
 
+> Ashley does not approve.
+
 Adjust oven rack to lower middle position. Turn on broiler.
 
 Bring 2 quarts water to a boil in a pot. Cook until tender, drain, and set aside:
