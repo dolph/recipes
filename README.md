@@ -8,6 +8,7 @@
 - [French toast](breakfast/french-toast.md)
 - [Pancakes](breakfast/pancakes.md)
 - [Carne guisada](one-pot/carne-guisada.md)
+- [Lemon poppy seed pound cake](breakfast/lemon-poppy-pound-cake.md)
 
 ## Lunch
 
