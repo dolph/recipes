@@ -8,7 +8,7 @@ Whisk together:
 - 1.5 teaspoon sweet pickle relish
 - 1 teaspoon capers, rinsed and minced
 - 1/2 teaspoon Dijon mustard
-- 1 teaspoon [Cajun seasoning](seasoning/blackening.md)
+- 1 teaspoon [Cajun seasoning](../seasoning/blackening.md)
 - 1 tablespoon Cajun hot sauce
 - 1 teaspoon salt
 
