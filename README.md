@@ -2,13 +2,16 @@
 
 ## Breakfast
 
-- [Banana bread](breakfast/banana-bread.md)
+- [Carne guisada](one-pot/carne-guisada.md)
 - [Chilaquiles](breakfast/chilaquiles.md)
-- [Cinnamon rolls](breakfast/cinnamon-rolls.md)
 - [French toast](breakfast/french-toast.md)
 - [Pancakes](breakfast/pancakes.md)
-- [Carne guisada](one-pot/carne-guisada.md)
+
+### Baked
+
 - [Lemon poppy seed pound cake](breakfast/lemon-poppy-pound-cake.md)
+- [Banana bread](breakfast/banana-bread.md)
+- [Cinnamon rolls](breakfast/cinnamon-rolls.md)
 
 ## Lunch
 
