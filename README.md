@@ -11,7 +11,7 @@
 - [Roasted salsa](condiments/salsa.md#roasted)
 - [Salsa verde](condiments/salsa.md#verde)
 
-## Smoker
+## Smoked
 
 - [Boston pork butt](barbecue/boston-pork-butt.md)
 - [Brisket](barbecue/brisket.md)
