@@ -46,7 +46,7 @@
 - [Singapore noodles](one-pot/singapore-noodles.md)
 - [Tortilla soup](one-pot/tortilla-soup.md)
 - [Baked ziti](pasta/baked-ziti.md)
-- [Pasta Bolognese](pasta/bolognese.md]
+- [Pasta Bolognese](pasta/bolognese.md)
 - [Herbed orzo with feta](pasta/herbed-orzo-with-feta.md)
 - [Linguine and clams](pasta/linguine-and-clams.md)
 - [Pasta carbonara](pasta/pasta-carbonara.md)
