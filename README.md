@@ -127,6 +127,7 @@
 - [Buffalo](appetizers/chicken-wings.md#buffalo-sauce)
 - [Lemon pepper](appetizers/chicken-wings.md#lemon-pepper-sauce)
 - [Chimichurri](condiments/chimichurri.md)
+- [Gremolata](condiments/gremolata.md)
 - [Pesto](condiments/pesto.md)
 - [Rémoulade](condiments/remoulade.md)
 - [Salsa](condiments/salsa.md)
