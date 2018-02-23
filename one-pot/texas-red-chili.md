@@ -45,7 +45,7 @@ Deglaze, and bring to a simmer:
 - 4-6 cups **chicken stock**
 - 1 **28-oz can San Marzano** tomatoes, drained
 - 3.5 oz can **Chipotle** peppers in Adobo sauce, minced
-- 1 oz **92% dark chocolate**
+- 1 oz **92% dark chocolate**, chopped
 - 1 tablespoon dried **Mexican oregano**
 - 1 teaspoon **masa harina**
 - 2 whole dried **ancho chiles**
@@ -57,6 +57,7 @@ Season to taste with salt & pepper.
 
 Serve with:
 
-- **Corn bread**
 - **Fritos**
 - **Sour cream**
+- **Onion**, chopped
+- **Cilantro**, chopped
