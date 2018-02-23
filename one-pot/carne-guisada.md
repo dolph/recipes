@@ -7,7 +7,7 @@ Carne guisada
 
 Season beef with salt & pepper:
 
-- 3 pounds **tri tip**
+- 3 pounds **beef chuck**
 - Kosher salt
 - Freshly ground black pepper
 
