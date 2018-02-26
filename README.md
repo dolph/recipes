@@ -39,6 +39,7 @@
 
 ## Dinner
 
+- [Brisket chili](one-pot/brisket-chili.md)
 - [Chicken and dumplings](one-pot/chicken-and-dumplings.md)
 - [Chili](one-pot/chili.md) ★
 - [Jambalaya](one-pot/jambalaya.md) ★
