@@ -107,6 +107,7 @@
 
 - [Banana pudding](dessert/banana-pudding.md)
 - [Cookies](dessert/cookies.md) ★
+- [Lemon bars](dessert/lemon-bars.md)
 
 ### Dessert condiments
 
