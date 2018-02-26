@@ -1,5 +1,5 @@
-Texas red chili
-===============
+Brisket chili
+=============
 
 Preheat the oven to 250 F.
 
@@ -8,8 +8,8 @@ Chili powder
 
 In a dutch oven over medium heat, toast:
 
-- 3 whole dried **ancho chiles**
-- 3 whole dried **pasilla peppers**
+- 2 whole dried **ancho chiles**
+- 2 whole dried **pasilla peppers**
 - 2 teaspoons **cumin seeds**
 - 1 teaspoon **coriander seeds**
 
@@ -28,35 +28,37 @@ Discard solids.
 
 Season with salt and pepper, and brown on all sides:
 
-- 2.5 pounds **beef chuck roast** (or brisket), cut into 2-inch cubes
+- 2.5 pounds **brisket flat**, trimmed, cut into 2-inch cubes
 
 Set beef aside.
 
 Cook until softened (~10 minutes):
 
 - 1 **onion**, chopped
-- 5 **Poblano** peppers, minced
-- 5 **jalapeño** peppers, thinly sliced
+- 3 **Poblano** peppers, minced
+- 3 **jalapeño** peppers, thinly sliced
 - 5 cloves **garlic**, minced
-- 2 tablespoons chili powder
+- Chili powder
 
 Deglaze, and bring to a simmer:
 
 - 4 cups **chicken stock**
-- 1 **28-oz can San Marzano** tomatoes, drained
-- 3.5 oz can **Chipotle** peppers in Adobo sauce, minced
-- 1 oz **92% dark chocolate**, chopped
+- 1 **Chipotle** pepper in Adobo sauce, minced
 - 1 tablespoon dried **Mexican oregano**
 - 1 teaspoon **masa harina**
-- 2 whole dried **ancho chiles**
-- 2 whole dried **pasilla peppers**
+- 2 whole dried **ancho or pasilla chiles** (optional)
 
 Cover with a lid slightly ajar, and place into the oven until meat is tender (~1.5-4 hours).
 
-Season to taste with salt & pepper.
+Season to taste with:
+
+- Kosher salt
+- Freshly ground black pepper
+- Lime juice
 
 Serve with:
 
+- **Lime** wedges
 - **Fritos**
 - **Sour cream**
 - **Onion**, chopped
