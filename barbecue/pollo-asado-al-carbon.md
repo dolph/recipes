@@ -8,18 +8,18 @@ Marinade
 
 Combine marinade ingredients:
 
-- 1/2 cup fresh orange juice
-- 2 tablespoons lime juice
-- 4 teaspoons Maggi seasoning
-- 4 teaspoons Worcestershire sauce
-- 1 ounce achiote paste
-- 1 tablespoon of chicken bullion powder
+- 1/2 cup **orange juice**
+- 2 tablespoons **lime juice**
+- 4 teaspoons **Maggi seasoning**
+- 4 teaspoons **Worcestershire sauce**
+- 1 ounce **achiote paste**
+- 1 tablespoon of **chicken bullion powder**
 - 1 teaspoon salt
 - 1/2 teaspoon black pepper
 
 Reserve 1/4 cup of marinade for basting. Marinate the chicken for 2-4 hours.
 
-- 3-4 pound chicken, spatchcocked
+- 3-4 pound **chicken**, spatchcocked and halved
 - Marinade
 
 Grilling
@@ -35,9 +35,9 @@ Continue turning every 15 minutes, basting with marinade each time, until the ch
 
 Serve with:
 
-- Corn tortillas
-- Avacado, sliced
-- Lime, cut into wedges
-- Salsa
-- Spanish rice
-- Charro beans
+- **Corn tortillas**
+- **Avacado**, sliced
+- **Lime**, cut into wedges
+- **Salsa**
+- **Spanish rice**
+- **Charro beans**
