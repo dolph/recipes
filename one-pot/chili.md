@@ -9,7 +9,8 @@ In a dutch oven over medium-high heat, cook until nearly crispy:
 
 Set aside bacon and all but 1 tablespoon of bacon fat. Brown:
 
-- 1 pound pork, cubed
+- 1 pound pork, cubed and seasoned. Any fatty pork will work, especially: 
+boneless ribs, stew chunks, or country-style ribs
 
 Set pork aside. Return bacon and bacon fat to pan. Sauté until translucent:
 
@@ -19,7 +20,7 @@ Add, and sauté until fragrant:
 
 - 3 cloves garlic, minced
 
-Add, and brown thoroughly:
+Season, add, and brown thoroughly:
 
 - 1 pound ground beef
 
@@ -32,6 +33,7 @@ Combine, bring to quick boil, cover and reduce heat to low for an hour:
 - 1 teaspoon ground cumin
 - 1 teaspoon ground oregano
 - Kosher salt, to taste
+- the pork, previously cooked and reserved
 
 Combine a separate bowl, and then add to chili:
 
