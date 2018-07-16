@@ -27,7 +27,7 @@ Lightly grease a 9-by-5-inch loaf pan with butter.
 
 - Unsalted butter
 
-Using electric mixer, cream until smooth and fluffy:
+In a large bowl, use an electric mixer to cream until smooth and fluffy:
 
 - 8 tablespoons **unsalted butter**, softened
 
