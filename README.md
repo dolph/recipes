@@ -69,6 +69,7 @@
 - [Shrimp pasta](seafood/shimp-pasta.md)
 - [Shrimp etouffee](seafood/shrimp-etouffee.md)
 - [Sushi rice](seafood/sushi.md)
+- [Korean fried chicken wings](korean-fried-chicken-wings.md)
 
 ## Smoked
 
