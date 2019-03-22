@@ -1,6 +1,8 @@
 Chicken wings
 =============
 
+> Related: [Korean fried chicken wings](korean-fried-chicken-wings.md)
+
 Baked
 -----
 
