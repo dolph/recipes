@@ -139,3 +139,16 @@
 ## Stocks
 
 - [Shrimp stock](seafood/shrimp-stock.md)
+
+## Holiday menus
+
+### Easter
+
+- [Bunny rabbit ears](appetizers/bunny-rabbit-ears.md)
+- [Cream of mushroom soup](soups/creamy-mushroom.md)
+- [Glazed ham](glazed-ham.md)
+- [Loaded smashed potatoes](sides/loaded-smashed-potatoes.md)
+- [Green bean casserole](sides/green-bean-casserole.md)
+- [Honey glazed carrots](sides/honey-glazed-carrots.md)
+- [Brussels sprouts](sides/roasted-brussels-sprouts.md)
+- Hawaiian rolls
