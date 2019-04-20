@@ -31,7 +31,7 @@ Bring to a boil over high heat.
 
 Add and boil until tender but still bright green, about 5 minutes:
 
-- 2 pounds (900g) green beans, ends trimmed, cut into 2-inch segments
+- 2 pounds green beans, ends trimmed, cut into 2-inch segments
 
 Drain through a colander and transfer to ice water until completely cooled. Drain green beans and set aside.
 
