@@ -31,6 +31,11 @@
 - [Roasted salsa](condiments/salsa.md#roasted)
 - [Salsa verde](condiments/salsa.md#verde)
 - [Crab salad](seafood/crab-salad.md)
+- [Bunny rabbit ears](appetizers/bunny-rabbit-ears.md)
+
+## Soups
+
+- [Creamy mushroom soup](soups/creamy-mushroom.md)
 
 ## Salads
 
@@ -70,6 +75,7 @@
 - [Shrimp etouffee](seafood/shrimp-etouffee.md)
 - [Sushi rice](seafood/sushi.md)
 - [Korean fried chicken wings](korean-fried-chicken-wings.md)
+- [Glazed ham](glazed-ham.md)
 
 ## Smoked
 
@@ -103,6 +109,10 @@
 - [Risotto](sides/risotto.md)
 - [Shredded Brussels sprouts](sides/shredded-brussels-sprouts.md)
 - [Vegetable seasoning](sides/vegetable-seasoning.md)
+- [Loaded smashed potatoes](sides/loaded-smashed-potatoes.md)
+- [Green bean casserole](sides/green-bean-casserole.md)
+- [Braised carrots](sides/honey-glazed-carrots.md)
+- [Brussels sprouts](sides/roasted-brussels-sprouts.md)
 
 ## Dessert
 
@@ -142,15 +152,4 @@
 
 ## Holiday menus
 
-### Easter
-
-[Prep checklist](holidays/easter.md)
-
-- [Bunny rabbit ears](appetizers/bunny-rabbit-ears.md)
-- [Creamy mushroom soup](soups/creamy-mushroom.md)
-- [Glazed ham](glazed-ham.md)
-- [Loaded smashed potatoes](sides/loaded-smashed-potatoes.md)
-- [Green bean casserole](sides/green-bean-casserole.md)
-- [Braised carrots](sides/honey-glazed-carrots.md)
-- [Brussels sprouts](sides/roasted-brussels-sprouts.md)
-- Hawaiian rolls
+- [Easter](holidays/easter.md)
