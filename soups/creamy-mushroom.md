@@ -16,7 +16,8 @@ Reduce heat to medium. Add, and cook, stirring frequently, until vegetables are 
 
 - 4 tablespoons butter
 - 2 pounds mushrooms, sliced
-- 2 whole onions, diced
+- 4 medium shallots
+- 2 leeks, light-green and white parts, thinly sliced
 - 4 stalks celery, sliced thin
 - 4 sprigs thyme leaves
 - 8 cloves garlic, minced
