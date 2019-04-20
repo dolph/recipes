@@ -35,6 +35,8 @@ Add slowly, stirring constantly, and bring it to a gentle simmer.
 Again, add slowly, stirring constantly, and bring it to a gentle simmer. Cook for 20 minutes, stirring occassionally.
 
 - 2 quarts chicken stock
+- 1 tablespoon soy sauce
+- 1 tablespoon lemon juice
 
 Blend with a stick blender until smooth.
 
