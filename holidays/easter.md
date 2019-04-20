@@ -2,13 +2,13 @@
 
 ## Menu
 
-- [Bunny rabbit ears](appetizers/bunny-rabbit-ears.md)
-- [Creamy mushroom soup](soups/creamy-mushroom.md)
-- [Glazed ham](glazed-ham.md)
-- [Loaded mashed potatoes](sides/loaded-mashed-potato-casserole.md)
-- [Green bean casserole](sides/green-bean-casserole.md)
-- [Braised carrots](sides/honey-glazed-carrots.md)
-- [Brussels sprouts](sides/roasted-brussels-sprouts.md)
+- [Bunny rabbit ears](../appetizers/bunny-rabbit-ears.md)
+- [Creamy mushroom soup](../soups/creamy-mushroom.md)
+- [Glazed ham](../glazed-ham.md)
+- [Loaded mashed potatoes](../sides/loaded-mashed-potato-casserole.md)
+- [Green bean casserole](../sides/green-bean-casserole.md)
+- [Braised carrots](../sides/honey-glazed-carrots.md)
+- [Brussels sprouts](../sides/roasted-brussels-sprouts.md)
 - Hawaiian rolls
 
 ## Week before
