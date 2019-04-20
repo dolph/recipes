@@ -44,6 +44,7 @@ Transfer cooked potatoes to a large mixing bowl, and mash to combine until only 
 
 - 1 stick unsalted **butter**, cubed and slightly softened
 - 1 cup **sour cream**
+- Roasted garlic, husk discarded, smashed
 
 Fold with a rubber spatula until fully incorporated:
 
