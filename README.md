@@ -144,11 +144,13 @@
 
 ### Easter
 
+[Prep checklist](holidays/easter.md)
+
 - [Bunny rabbit ears](appetizers/bunny-rabbit-ears.md)
 - [Creamy mushroom soup](soups/creamy-mushroom.md)
 - [Glazed ham](glazed-ham.md)
 - [Loaded smashed potatoes](sides/loaded-smashed-potatoes.md)
 - [Green bean casserole](sides/green-bean-casserole.md)
-- [Honey glazed carrots](sides/honey-glazed-carrots.md)
+- [Braised carrots](sides/honey-glazed-carrots.md)
 - [Brussels sprouts](sides/roasted-brussels-sprouts.md)
 - Hawaiian rolls
