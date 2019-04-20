@@ -40,7 +40,7 @@ Drain through a colander and transfer to ice water until completely cooled. Drai
 Combine in a 9"x13" baking dish, and bake until hot and bubbly (about 15-20 minutes).
 
 - Green beans
-- 2 cups [mushroom soup](../soups/creamy-mushroom.md)
+- 1 quart [creamy mushroom soup](../soups/creamy-mushroom.md)
 - 1 cup fried shallots
 
 Garnish and serve
