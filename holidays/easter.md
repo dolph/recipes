@@ -2,26 +2,28 @@
 
 ## Menu
 
-- [Bunny rabbit ears](../appetizers/bunny-rabbit-ears.md)
-- [Creamy mushroom soup](../soups/creamy-mushroom.md)
-- [Glazed ham](../glazed-ham.md)
-- [Loaded mashed potatoes](../sides/loaded-mashed-potato-casserole.md)
-- [Green bean casserole](../sides/green-bean-casserole.md)
-- [Braised carrots](../sides/honey-glazed-carrots.md)
-- [Brussels sprouts](../sides/roasted-brussels-sprouts.md)
+- Appetizer: [Bunny rabbit ears](../appetizers/bunny-rabbit-ears.md)
+- Soup: [Creamy mushroom soup](../soups/creamy-mushroom.md)
+- Protein: [Glazed ham](../glazed-ham.md)
+- Side: [Loaded mashed potatoes](../sides/loaded-mashed-potato-casserole.md)
+- Side: [Green bean casserole](../sides/green-bean-casserole.md)
+- Side: [Braised carrots](../sides/honey-glazed-carrots.md)
+- Side: [Brussels sprouts](../sides/roasted-brussels-sprouts.md)
 - Hawaiian rolls
+- [Lemon bars](../dessert/lemon-bars.md)
 
 ## Week before
 
 - [ ] Cook 2.5 quarts chicken stock
+- [ ] Cook [Lemon bars](../dessert/lemon-bars.md)
+- [ ] Cook [Creamy mushroom soup](../soups/creamy-mushroom.md)
 
 ## Day before
 
-- [ ] Peel potatoes
-- [ ] Peel and slice carrots
-- [ ] Cook crispy shallots
-- [ ] Cook soup
-- [ ] Prepare ham glaze
-- [ ] Cook bacon and hold
-- [ ] Roast garlic bulb
-- [ ] Trim green beans
+- [ ] [Peel potatoes](../appetizers/bunny-rabbit-ears.md)
+- [ ] [Peel and slice carrots](../sides/honey-glazed-carrots.md)
+- [ ] [Cook crispy shallots](../sides/green-bean-casserole.md)
+- [ ] [Trim green beans](../sides/green-bean-casserole.md)
+- [ ] [Cook bacon](../sides/loaded-mashed-potato-casserole.md)
+- [ ] [Roast garlic bulb](../sides/loaded-mashed-potato-casserole.md)
+- [ ] [Prepare ham glaze](../glazed-ham.md)
