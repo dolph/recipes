@@ -4,19 +4,19 @@
 
 Heat in a small saucepan over medium heat until golden brown:
 
-- 1/2 cup unsalted butter
+- 4 tablespoons **unsalted butter**
 
 Add, and combine until sugar is dissolved:
 
-- 1 cup brown sugar
-- 1/2 cup honey
-- 2 tablespoons Dijon mustard
-- 1/4 teaspoon ground cinnamon
-- 1/4 teaspoon ground cloves
+- 1 cup **brown sugar**
+- 1/2 cup **honey**
+- 2 tablespoons **Dijon mustard**
+- 1/4 teaspoon **ground cinnamon**
+- 1/4 teaspoon **ground cloves**
 
 Reduce heat to low. Add, and cook until fragrant:
 
-- 4 cloves garlic, smashed
+- 4 cloves **garlic**, smashed
 
 Side aside, and allow to cool.
 
@@ -26,8 +26,8 @@ Preheat oven to 250 degrees.
 
 Add water to a foil-lined roasting pan, and place ham on rack in roasting pan.
 
-- Fully-cooked ham
-- 1/2 cup water
+- **Fully-cooked ham**
+- 1/2 cup **water**
 
 Bake to an internal temperature of 140 F (about 20 minutes per pound).
 
