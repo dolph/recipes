@@ -8,9 +8,9 @@ Heat in a small saucepan over medium heat until golden brown:
 
 Add, and combine until sugar is dissolved:
 
-- 1 cup **brown sugar**
-- 1/2 cup **honey**
-- 2 tablespoons **Dijon mustard**
+- 200 grams (~1 cup) **brown sugar**
+- 170 grams (~1/2 cup) **honey**
+- 30 grams (~2 tablespoons) **Dijon mustard**
 - 1/4 teaspoon **ground cinnamon**
 - 1/4 teaspoon **ground cloves**
 
