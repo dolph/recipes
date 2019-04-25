@@ -19,7 +19,7 @@ Cook, tossing frequently, until the carrots are tender but not browned (~10 minu
 
 Add the chicken stock, bring to a boil and remove from the heat.
 
-- 1 3/4 cups **chicken stock**
+- 1 cup **chicken stock** (or enough to almost cover the carrots)
 
 Cover the carrots with parchment paper and cover the skillet with a lid.
 
