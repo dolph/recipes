@@ -13,7 +13,7 @@ Add and season:
 - 2 **garlic** cloves, thinly sliced
 - 2 **thyme** sprigs
 - Kosher salt
-- freshly ground black pepper
+- Freshly ground black pepper
 
 Cook, tossing frequently, until the carrots are tender but not browned (~10 minutes).
 
