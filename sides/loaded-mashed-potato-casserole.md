@@ -11,18 +11,6 @@ Remove papery outer skin from garlic bulb (do not separate cloves). Cut tops off
 
 Bake until softened (~30 minutes). Allow to cool.
 
-## Bacon
-
-Preheat oven to 425 F.
-
-Line a 13"x18" rimmed baking sheet with aluminum foil and top with a sheet of parchment paper. Arrange bacon strips on tray, overlapping as little as possible. Top with a second sheet of parchment paper; place a second baking sheet on top.
-
-- 20 oz dry cured peppered **bacon**
-
-Bake bacon until crisp (~30 minutes). Remove trays from oven, carefully remove top tray using tongs and an oven mitt, transfer bacon to a paper towel–lined plate to drain.
-
-Reserve rendered bacon fat.
-
 ## Potatoes
 
 Preheat oven to 350 F.
@@ -66,7 +54,7 @@ In a large mixing bowl, combine:
 
 - 1.5 cups **panko bread crumbs**
 - 8 oz **mild cheddar**, grated
-- Rendered **bacon fat**, melted
+- 2 tablespoons rendered **bacon fat**, melted
 - 1/4 cup **scallions**, white and light green parts only, thinly sliced
 - **Chives**, minced
 - Kosher salt
