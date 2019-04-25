@@ -153,3 +153,4 @@
 ## Holiday menus
 
 - [Easter](holidays/easter.md)
+- [Thanksgiving](holidays/thanksgiving.md)
