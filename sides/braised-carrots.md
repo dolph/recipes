@@ -8,7 +8,8 @@ In a large ovenproof skillet (with fitting lid) over medium low heat, melt:
 
 Add and season:
 
-- 1.5 pounds **carrots**, peeled and sliced 1/4 inch thick on the diagonal
+- 2 pounds **carrots**, peeled and sliced 1/4 inch thick on the diagonal
+- 1/4 cup **brown sugar**
 - 2 **garlic** cloves, thinly sliced
 - 2 **thyme** sprigs
 - Kosher salt
