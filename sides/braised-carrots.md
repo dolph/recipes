@@ -1,6 +1,6 @@
 # Braised carrots
 
-Preheat the oven to 375 F.
+Preheat the oven to 350 F.
 
 In a large ovenproof skillet (with fitting lid) over medium low heat, melt:
 
