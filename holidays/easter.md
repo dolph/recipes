@@ -24,6 +24,5 @@
 - [ ] [Peel and slice carrots](../sides/honey-glazed-carrots.md)
 - [ ] [Cook crispy shallots](../sides/green-bean-casserole.md)
 - [ ] [Trim green beans](../sides/green-bean-casserole.md)
-- [ ] [Cook bacon](../sides/loaded-mashed-potato-casserole.md)
 - [ ] [Roast garlic bulb](../sides/loaded-mashed-potato-casserole.md)
 - [ ] [Prepare ham glaze](../glazed-ham.md)
