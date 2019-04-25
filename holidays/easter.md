@@ -7,7 +7,7 @@
 - Protein: [Glazed ham](../glazed-ham.md)
 - Side: [Loaded mashed potatoes](../sides/loaded-mashed-potato-casserole.md)
 - Side: [Green bean casserole](../sides/green-bean-casserole.md)
-- Side: [Braised carrots](../sides/honey-glazed-carrots.md)
+- Side: [Braised carrots](../sides/braised-carrots.md)
 - Side: [Brussels sprouts](../sides/roasted-brussels-sprouts.md)
 - Hawaiian rolls
 - [Lemon bars](../dessert/lemon-bars.md)
