@@ -84,13 +84,14 @@
 - [St. Louis pork ribs](barbecue/pork-ribs.md) ★
 - [Turkey](barbecue/turkey.md)
 
-## Barbecue
+## Grilled
 
 - [Beef bulgogi](barbecue/bulgogi.md)
 - [Chicken fajitas](barbecue/chicken-fajitas.md) ★
 - [Marinated flank steak](barbecue/flank-steak.md) ★
 - [Pollo asado al carbón](barbecue/pollo-asado-al-carbon.md)
 - [Corn](sides/grilled-corn.md)
+- [Grilled shrimp](seafood/grilled-shrimp.md)
 
 ## Sides
 
