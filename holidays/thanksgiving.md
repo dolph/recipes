@@ -2,7 +2,7 @@
 
 ## Menu
 
-- Protein: ATK Braised turkey
+- Protein: Bon Appétit's [Expertly Spiced and Glazed Roast Turkey](../glazed-roast-turkey.md)
 - Side: ATK Mushroom-leek bread stuffing with herbs
 - Side: ATK Creamy mashed potatoes
 - Side: [BA Green beans](https://www.bonappetit.com/recipe/slow-roasted-green-beans-with-sage)
