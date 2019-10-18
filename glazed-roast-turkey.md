@@ -6,7 +6,7 @@
 
 Separate turkey into leg quarters, wings, breasts (do not separate), and backbone.
 
-- 1 12–14 pound **turkey**, neck and giblets removed
+- 12–14 pound **turkey**, neck and giblets removed
 
 ## Dry brine
 
