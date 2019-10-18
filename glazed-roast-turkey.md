@@ -17,7 +17,7 @@ Very finely grind black and pink peppercorns in a spice mill and transfer to a m
 
  Add salt, garlic powder, onion powder, paprika, and brown sugar and mix together.
 
-- 1/4 cup plus 1.5 teaspoons **kosher salt**
+- 4.5 tablespoons **kosher salt**
 - 2 tablespoons **garlic powder**
 - 2 tablespoons **onion powder**
 - 1 tablespoon **smoked paprika**
