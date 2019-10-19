@@ -4,7 +4,7 @@
 
 ## Roast
 
-Preheat oven to 400 F. Place potatoes on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender (about 80–95 minutes).
+Preheat oven to 425 F. Place potatoes on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender (about 80–95 minutes) and internal temperature reaches 210 F.
 
 - 4 pounds **Yukon Gold potatoes**, scrubbed
 
