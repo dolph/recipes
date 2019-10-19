@@ -2,13 +2,11 @@
 
 > Based on Bon Appetit's [Expertly Spiced and Glazed Roast Turkey](https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey)
 
-## Turkey
+## Dry brine
 
 Separate turkey into leg quarters, wings, breasts (do not separate), and backbone.
 
 - 12–14 pound **turkey**, parted
-
-## Dry brine
 
 Combine in a medium bowl:
 
