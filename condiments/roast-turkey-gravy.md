@@ -51,7 +51,7 @@ Strain and discard solids, rinse pot, and return broth back to pot, and bring to
 
 Add and whisk constantly until completely incorporated:
 
-- Beurre manié.
+- Beurre manié
 
 Simmer, whisking often and skimming any foam from surface, until gravy is thick enough to coat a spoon (about 6–8 minutes).
 
