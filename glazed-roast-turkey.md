@@ -35,7 +35,7 @@ Cook in a small saucepan over medium heat, stirring occasionally, until sugar is
 
 Remove glaze from heat.
 
-## Roasting
+## Roast
 
 Rest turkey at room temperature for 2 hours.
 
