@@ -2,47 +2,80 @@
 
 > Based on Bon Appetit's [Mashed Potatoes With Crispety Cruncheties](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
 
-## Potatoes
+## Roast
+
+Preheat oven to 400 F. Place potatoes on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender (about 80–95 minutes).
 
 - 4 pounds **Yukon Gold potatoes**, scrubbed
-- 1 head of **garlic**, divided
+
+## Garlic mixture
+
+Meanwhile, place in a medium saucepan:
+
+- 1 head of **garlic**, halved crosswise
 - 5 sprigs **thyme**
 - 2 teaspoons **black peppercorns**, lightly crushed
 - 2.5 sticks **butter**
-- 4 cups **whole milk**
 - 1 tablespoon **kosher salt**
-- 1 **lemon**
+- 4 cups **whole milk**
+- Zest of 1 **lemon** (in large strips)
 
-Preheat oven to 400°. Place on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender, 80–95 minutes.
+Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediately remove from heat, cover, and let sit at least 30 minutes.
 
-Meanwhile, remove 4 garlic cloves from garlic head and set aside for the topping. Cut remaining head of garlic in half crosswise and place in a medium saucepan with thyme, peppercorns, butter, 4 cups milk, and 1 Tbsp. salt.
+## Mashed potatoes
 
-Using a vegetable peeler, remove wide strips of zest from half of lemon and add to pot; set lemon aside for the topping. Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediately remove from heat, cover, and let sit at least 30 minutes.
+When potatoes are done, remove skins while they are very hot (hold with a kitchen towel), add to a pot, and mash immediately.
 
-When potatoes are done, use a paring knife to remove skins (it’s important to do this while they are very hot; hold them in a kitchen towel to protect your hands), then pass them through a ricer or food mill fitted with the fine disk into a large pot (or simply mash them in the pot with a potato masher).
+Return garlic mixture to a simmer, then strain into pot with potatoes, discarding solids.
 
-Return garlic mixture to a simmer, then pour through a fine-mesh sieve into pot with potatoes; discard solids. Set potato mixture over medium heat and whisk until liquid is incorporated and potatoes are very smooth and bubbling. Taste and season with more salt if needed. Cover and keep warm until ready to serve.
+Set potato mixture over medium heat and whisk until liquid is incorporated and potatoes are very smooth and bubbling. Taste and season with more salt if needed.
 
-Do Ahead: Potatoes can be made 2 days ahead. Transfer to an airtight container and let cool. Cover and chill. Reheat over medium, whisking constantly and loosening with more milk if needed.
+Cover and keep warm until ready to serve.
 
-## Assembly
+> Hold here up to 2 days. Transfer potatoes to an airtight container and let cool. Cover and chill. Reheat over medium, whisking constantly and loosening with more milk if needed.
 
-- 2 1/2"-thick slices country-style bread, torn into 1" pieces
+## Topping
+
+Pulse in a food processor until finely chopped (about 15 seconds):
+
+- 4 cloves of **garlic**
+
+Add and process in long pulses until coarse crumbs form (about 1 minute):
+
+- 2 1/2"-thick slices **country-style bread**, torn into 1" pieces
+
+Add to breadcrumb mixture, and pulse just once or twice to combine:
+
 - 2 cups **kettle-style potato chips** (such as Cape Cod)
-- 4 Tbsp. **butter**
-- **Kosher salt**, freshly ground **pepper**
+
+Heat in a large skillet over medium heat until foaming:
+
+- 4 tablespoons **butter**
+
+Add:
+
+- Breadcrumb mixture
+- **Kosher salt**
+- Freshly ground **black pepper**
+
+Cook, stirring, until mixture is coated in butter and fragrant, about 1 minute.
+
+Transfer skillet to oven and bake, tossing every 5 minutes, until dark golden brown (about 15–20 minutes).
+
+Meanwhile, combine in a small bowl:
+
 - 3 sprigs **thyme**, leaves picked
 - 1 tsp. **hot smoked Spanish paprika**
-- ⅓ cup chopped **parsley**
+- Zest of 1 **lemon**, finely grated
 
-Pulse reserved 4 garlic cloves in a food processor until finely chopped, about 15 seconds. Add bread and potato chips and process in long pulses until coarse crumbs form, about 1 minute.
+Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
 
-Heat butter in a large ovenproof skillet over medium until foaming. Add breadcrumb mixture and season with salt and pepper. Cook, stirring, until mixture is coated in butter and fragrant, about 1 minute. Transfer skillet to oven; bake, tossing every 5 minutes, until crumbs and chips are evenly dark golden brown, 15–20 minutes.
+> Hold here up to 2 days ahead. Store airtight at room temperature.
 
-Meanwhile, finely grate remaining lemon zest from reserved lemon into a small bowl. Add thyme leaves and paprika and toss to combine.
+Add:
 
-Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan, then add parsley.
+- 1/3 cup chopped **parsley**
 
-To serve, transfer mashed potatoes to a large bowl and sprinkle topping over.
+## Serving
 
-Do Ahead: Topping (without parsley) can be made 2 days ahead. Store airtight at room temperature.
+Transfer mashed potatoes to a large bowl and sprinkle topping over.
