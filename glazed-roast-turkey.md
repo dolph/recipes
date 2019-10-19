@@ -6,7 +6,7 @@
 
 Separate turkey into leg quarters, wings, breasts (do not separate), and backbone.
 
-- 12–14 pound **turkey**, parted
+- 12-14 pound **turkey**, parted
 
 Combine in a medium bowl:
 
@@ -22,7 +22,7 @@ Place turkey on a wire rack set in a baking sheet triple lined with aluminum foi
 
 ## Glaze
 
-Cook in a small saucepan over medium heat, stirring occasionally, until sugar is dissolved and glaze thickens slightly (it should just barely coat a spoon, about 10–12 minutes).
+Cook in a small saucepan over medium heat, stirring occasionally, until sugar is dissolved and glaze thickens slightly (it should just barely coat a spoon, about 10-12 minutes).
 
 - Small handful of hardy herbs (such as sage, rosemary, bay leaves, and/or thyme)
 - 4 cloves **garlic**, crushed
@@ -47,8 +47,8 @@ Pour into baking sheet:
 
 - 1 cup **water**
 
-Roast turkey, rotating baking sheet halfway through, until skin is mostly golden brown (about 20–25 minutes).
+Roast turkey, rotating baking sheet halfway through, until skin is mostly golden brown (about 20-25 minutes).
 
-Reduce oven temperature to 300 F and continue to roast turkey, brushing with glaze every 20 minutes and adding more water as needed to maintain liquid in baking sheet, until the breast registers 150 F, and the thighs register 170 F, 50–70 minutes longer.
+Reduce oven temperature to 300 F and continue to roast turkey, brushing with glaze every 20 minutes and adding more water as needed to maintain liquid in baking sheet, until the breast registers 150 F, and the thighs register 170 F, 50-70 minutes longer.
 
 Tent with foil and rest 30-60 minutes before carving.
