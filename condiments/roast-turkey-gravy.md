@@ -13,11 +13,9 @@
 - 1 tablespoon **kosher salt**
 - 1 **lemon**
 
-Preheat oven to 400°. If using German Butterballs, place potatoes on a rimmed baking sheet or in a cast-iron skillet and roast, turning halfway through, until very tender (a paring knife inserted into the center should meet with no resistance), 45–50 minutes.
+Preheat oven to 400°. Place on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender, 80–95 minutes.
 
-If using Yukon Golds, place on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender, 80–95 minutes. 
-
-Meanwhile, remove 4 garlic cloves from garlic head and set aside for the topping. Cut remaining head of garlicin half crosswise and place in a medium saucepan with thyme, peppercorns, butter, 4 cups milk, and 1 Tbsp. salt.
+Meanwhile, remove 4 garlic cloves from garlic head and set aside for the topping. Cut remaining head of garlic in half crosswise and place in a medium saucepan with thyme, peppercorns, butter, 4 cups milk, and 1 Tbsp. salt.
 
 Using a vegetable peeler, remove wide strips of zest from half of lemon and add to pot; set lemon aside for the topping. Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediately remove from heat, cover, and let sit at least 30 minutes.
 
