@@ -70,7 +70,7 @@ Meanwhile, combine in a small bowl:
 
 Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
 
-> Hold here up to 2 days ahead. Store airtight at room temperature.
+> Hold here up to 2 days. Store airtight at room temperature.
 
 Add:
 
