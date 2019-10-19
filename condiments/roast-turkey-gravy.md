@@ -11,7 +11,7 @@ Mash together in a small bowl with your fingers or a fork until homogenous:
 
 Set aside.
 
-# Roast
+## Roast
 
 Preheat oven to 450 F.
 
