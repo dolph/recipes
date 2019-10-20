@@ -27,9 +27,9 @@ Cook in a small saucepan over medium heat, stirring occasionally, until sugar is
 - Small handful of hardy herbs (such as sage, rosemary, bay leaves, and/or thyme)
 - 4 cloves **garlic**, crushed
 - 2 2x1" strips **orange** zest
-- 1/3 cup **soy sauce**
-- 1/3 cup **red wine vinegar**
-- 1/3 cup **brown sugar**
+- 80 grams (~1/3 cup) **soy sauce**
+- 80 grams (~1/3 cup) **red wine vinegar**
+- 70 grams (~1/3 cup) **brown sugar**
 
 Remove glaze from heat.
 
