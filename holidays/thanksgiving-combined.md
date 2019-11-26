@@ -4,7 +4,7 @@
 
 Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Tuesday):
 
-- 12-14 pound **whole turkey**
+- 2 12-14 pound **whole turkeys**
 
 ## Tuesday
 
@@ -12,13 +12,13 @@ Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Tues
 
 Combine in a medium bowl:
 
-- 2 tablespoons whole **black peppercorns**, very finely ground
-- 2 tablespoons whole **pink peppercorns**, very finely ground
-- 4.5 tablespoons **kosher salt**
-- 2 tablespoons **garlic powder**
-- 2 tablespoons **onion powder**
-- 1 tablespoon **smoked paprika**
-- 1 tablespoon **light brown sugar**
+- 140 grams **kosher salt**
+- 48 grams whole **black peppercorns**, very finely ground
+- 48 grams whole **pink peppercorns**, very finely ground
+- 58 grams **garlic powder**
+- 24 grams **light brown sugar**
+- 12 grams **onion powder**
+- 12 grams **smoked paprika**
 
 Set aside.
 
@@ -26,7 +26,7 @@ Set aside.
 
 Separate turkey into leg quarters, wings, breasts (do not separate), and backbone.
 
-- 12-14 pound **turkey**, parted
+- 2 12-14 pound **turkeys**, parted
 
 Place turkey on a wire rack set in a baking sheet triple lined with aluminum foil, apply dry brine mixture, and refrigerate for 24-48 hours.
 
@@ -76,8 +76,8 @@ Strain through a fine mesh strainer, discarding solids. Cool immediately and ref
 
 Mash together in a small bowl with your fingers or a fork until homogenous:
 
-- 6 tablespoons **flour**
-- 4 tablespoons **butter**, room temperature
+- 90 grams **flour**
+- 112 grams (8 tablespoons) **butter**, room temperature
 
 Set aside.
 
@@ -87,32 +87,32 @@ Preheat oven to 450 F.
 
 Toss wings in a large cast-iron skillet with oil until coated.
 
-- 3 pounds **turkey and/or chicken wings**, flats and drumettes separated
-- 2 tablespoons **olive oil**
+- 6 pounds **turkey and/or chicken wings**, flats and drumettes separated
+- 4 tablespoons **olive oil**
 
 Roast, tossing halfway through, until golden brown and starting to crisp (about 25–35 minutes).
 
 Remove wings from oven and add, tossing to coat with oil:
 
-- 2 heads of **garlic**, cut in half crosswise
-- 2 large **shallots**, unpeeled, halved
-- 1 4" piece **ginger**, scrubbed, thickly sliced
-- 4 ounces **crimini, shiitake, or white button mushrooms**, torn into large pieces
-- 2 teaspoons **black peppercorns**, lightly crushed
-- 2 tablespoons **olive oil**
+- 4 heads of **garlic**, cut in half crosswise
+- 4 large **shallots**, unpeeled, halved
+- 2 4" piece **ginger**, scrubbed, thickly sliced
+- 8 ounces **crimini, shiitake, or white button mushrooms**, torn into large pieces
+- 16 grams **black peppercorns**, lightly crushed
+- 120 grams **olive oil**
 
 Return to oven and roast, tossing halfway through, until wings are deeply browned and crisp and vegetables are browned (about 30–40 minutes).
 
 Remove skillet from oven and set on stovetop over medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes).
 
-- 1/2 cup **amontillado sherry**
+- 240 grams (1 cup) **amontillado sherry**
 
 ### Gravy
 
 Transfer everything to a medium pot, add stock and parsley, and bring to a low simmer over medium-high heat:
 
 - Roasted wings and aromatics
-- 6 cups **turkey stock**, warmed
+- 3 quarts **turkey stock**, warmed
 - **Parsley**
 
 Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
@@ -131,19 +131,19 @@ Refrigerate.
 
 Preheat oven to 425 F. Place potatoes on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender (about 80–95 minutes) and internal temperature reaches 210 F.
 
-- 4 pounds **Yukon Gold potatoes**, scrubbed
+- 5 pounds **Yukon Gold potatoes**, scrubbed
 
 ### Garlic mixture
 
 Meanwhile, place in a medium saucepan:
 
 - 1 head of **garlic**, halved crosswise
-- 5 sprigs **thyme**
-- 2 teaspoons **black peppercorns**, lightly crushed
-- 2.5 sticks **butter**
-- 1 tablespoon **kosher salt**
-- 4 cups **whole milk**
-- Zest of 1 **lemon** (in large strips)
+- 6 sprigs **thyme**
+- 10 grams **black peppercorns**, lightly crushed
+- 350 grams (25 tablespoons) **butter**
+- 30 grams **kosher salt**
+- 1050 grams (5 cups) **whole milk**
+- Zest of 1 large **lemon** (in large strips)
 
 Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediately remove from heat, cover, and let sit at least 30 minutes.
 
@@ -161,7 +161,7 @@ Cover and refrigerate.
 
 Pulse in a food processor until finely chopped (about 15 seconds):
 
-- 4 cloves of **garlic**
+- 5 cloves of **garlic**
 
 Add and process in long pulses until coarse crumbs form (about 1 minute):
 
@@ -169,11 +169,11 @@ Add and process in long pulses until coarse crumbs form (about 1 minute):
 
 Add to breadcrumb mixture, and pulse just once or twice to combine:
 
-- 2 cups **kettle-style potato chips** (such as Cape Cod)
+- 2.5 cups **kettle-style potato chips** (such as Cape Cod)
 
 Heat in a large skillet over medium heat until foaming:
 
-- 4 tablespoons **butter**
+- 5 tablespoons **butter**
 
 Add:
 
@@ -187,9 +187,9 @@ Transfer skillet to oven and bake, tossing every 5 minutes, until dark golden br
 
 Meanwhile, combine in a small bowl:
 
-- 3 sprigs **thyme**, leaves picked
-- 1 tsp. **hot smoked Spanish paprika**
-- Zest of 1 **lemon**, finely grated
+- 4 sprigs **thyme**, leaves picked
+- 1.25 teaspoon **hot smoked Spanish paprika**
+- Zest of 1 large **lemon**, finely grated
 
 Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
 
@@ -200,11 +200,11 @@ Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and 
 Cook in a small saucepan over medium heat, stirring occasionally, until sugar is dissolved and glaze thickens slightly (it should just barely coat a spoon, about 10-12 minutes).
 
 - Small handful of hardy herbs (such as sage, rosemary, bay leaves, and/or thyme)
-- 4 cloves **garlic**, crushed
-- 2 2x1" strips **orange** zest
-- 80 grams (~1/3 cup) **soy sauce**
-- 80 grams (~1/3 cup) **red wine vinegar**
-- 70 grams (~1/3 cup) **brown sugar**
+- 8 cloves **garlic**, crushed
+- 4 2x1" strips **orange** zest
+- 160 grams (~1/3 cup) **soy sauce**
+- 160 grams (~1/3 cup) **red wine vinegar**
+- 140 grams (~1/3 cup) **brown sugar**
 
 Remove glaze from heat.
 
@@ -216,9 +216,9 @@ Place a rack in middle of oven; preheat to 425 F.
 
 Rub turkey:
 
-- 6 tablespoons **canola oil**
+- 12 tablespoons **canola oil**
 
-Pour into baking sheet:
+Pour into each baking sheet:
 
 - 1 cup **water**
 
@@ -252,8 +252,8 @@ Return to a gentle simmer:
 
 Remove from heat and whisk in:
 
-- 2 teaspoons **sherry vinegar** or **red wine vinegar**
-- 1 teaspoons **MSG**
+- 2.5 teaspoons **sherry vinegar** or **red wine vinegar**
+- 1.25 teaspoons **MSG**
 
 Season to taste:
 
