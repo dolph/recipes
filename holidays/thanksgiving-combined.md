@@ -193,8 +193,6 @@ Meanwhile, combine in a small bowl:
 
 Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
 
-## Thursday
-
 ### Turkey glaze
 
 Cook in a small saucepan over medium heat, stirring occasionally, until sugar is dissolved and glaze thickens slightly (it should just barely coat a spoon, about 10-12 minutes).
@@ -206,7 +204,9 @@ Cook in a small saucepan over medium heat, stirring occasionally, until sugar is
 - 160 grams (~1/3 cup) **red wine vinegar**
 - 140 grams (~1/3 cup) **brown sugar**
 
-Remove glaze from heat.
+Remove glaze from heat, discard solids, and refrigerate.
+
+## Thursday
 
 ### Roast turkey
 
@@ -225,6 +225,8 @@ Pour into each baking sheet:
 Roast turkey, rotating baking sheet halfway through, until skin is mostly golden brown (about 20-25 minutes).
 
 Reduce oven temperature to 300 F and continue to roast turkey, brushing with glaze every 20 minutes and adding more water as needed to maintain liquid in baking sheet, until the breast registers 150 F, and the thighs register 170 F, 50-70 minutes longer.
+
+- Turkey glaze, warmed
 
 Tent with foil and rest 30-60 minutes before carving.
 
