@@ -1,5 +1,11 @@
 # Thanksgiving
 
+## Saturday
+
+Start defrosting turkey in refrigerator:
+
+- 12-14 pound **whole turkey**
+
 ## Tuesday
 
 ### Dry brine
