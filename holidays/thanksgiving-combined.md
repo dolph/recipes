@@ -87,6 +87,72 @@ Simmer, whisking often and skimming any foam from surface, until gravy is thick 
 
 Refrigerate.
 
+## Roast potatoes
+
+Preheat oven to 425 F. Place potatoes on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender (about 80–95 minutes) and internal temperature reaches 210 F.
+
+- 4 pounds **Yukon Gold potatoes**, scrubbed
+
+### Garlic mixture
+
+Meanwhile, place in a medium saucepan:
+
+- 1 head of **garlic**, halved crosswise
+- 5 sprigs **thyme**
+- 2 teaspoons **black peppercorns**, lightly crushed
+- 2.5 sticks **butter**
+- 1 tablespoon **kosher salt**
+- 4 cups **whole milk**
+- Zest of 1 **lemon** (in large strips)
+
+Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediately remove from heat, cover, and let sit at least 30 minutes.
+
+### Mashed potatoes
+
+When potatoes are done, remove skins while they are very hot (hold with a kitchen towel), add to a pot, and mash immediately.
+
+Return garlic mixture to a simmer, then strain into pot with potatoes, discarding solids.
+
+Set potato mixture over medium heat and whisk until liquid is incorporated and potatoes are very smooth and bubbling. Taste and season with more salt if needed.
+
+Cover and refrigerate.
+
+## Mashed potatoes topping
+
+Pulse in a food processor until finely chopped (about 15 seconds):
+
+- 4 cloves of **garlic**
+
+Add and process in long pulses until coarse crumbs form (about 1 minute):
+
+- 2 1/2"-thick slices **country-style bread**, torn into 1" pieces
+
+Add to breadcrumb mixture, and pulse just once or twice to combine:
+
+- 2 cups **kettle-style potato chips** (such as Cape Cod)
+
+Heat in a large skillet over medium heat until foaming:
+
+- 4 tablespoons **butter**
+
+Add:
+
+- Breadcrumb mixture
+- **Kosher salt**
+- Freshly ground **black pepper**
+
+Cook, stirring, until mixture is coated in butter and fragrant, about 1 minute.
+
+Transfer skillet to oven and bake, tossing every 5 minutes, until dark golden brown (about 15–20 minutes).
+
+Meanwhile, combine in a small bowl:
+
+- 3 sprigs **thyme**, leaves picked
+- 1 tsp. **hot smoked Spanish paprika**
+- Zest of 1 **lemon**, finely grated
+
+Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
+
 ## Thursday
 
 ### Turkey glaze
@@ -122,6 +188,22 @@ Reduce oven temperature to 300 F and continue to roast turkey, brushing with gla
 
 Tent with foil and rest 30-60 minutes before carving.
 
+### Mashed potatoes
+
+Reheat over medium, whisking constantly and loosening with more milk if needed:
+
+- Mashed potatoes
+- **Milk**
+
+Add:
+
+- 1/3 cup chopped **parsley**
+
+Transfer mashed potatoes to a large bowl and sprinkle topping over.
+
+- Mashed potatoes
+- Mashed potatoes topping
+
 ### Gravy
 
 Return to a gentle simmer:
@@ -137,5 +219,3 @@ Season to taste:
 
 - **Kosher salt**
 - **Black pepper**
-
-Drink with turkey and mashed potatoes.
