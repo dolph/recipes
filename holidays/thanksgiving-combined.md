@@ -26,6 +26,12 @@ Place turkey on a wire rack set in a baking sheet triple lined with aluminum foi
 
 - **Dry brine** mixture
 
+### Turkey stock
+
+### Chicken stock
+
+## Wednesday
+
 ### Beurre manié
 
 Mash together in a small bowl with your fingers or a fork until homogenous:
@@ -34,8 +40,6 @@ Mash together in a small bowl with your fingers or a fork until homogenous:
 - 4 tablespoons **butter**, room temperature
 
 Set aside.
-
-## Wednesday
 
 ### Roast gravy parts
 
