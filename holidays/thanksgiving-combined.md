@@ -34,23 +34,39 @@ Place turkey on a wire rack set in a baking sheet triple lined with aluminum foi
 
 ### Turkey stock
 
+Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer uncovered for 6-8 hours.
+
+- 2.5 pounds **turkey scraps**, including necks, backs, and wings
+- 1 **onion**, quartered
+- 2 **carrots**, peeled and cut in 1/2
+- 2 ribs **celery**, cut in 1/2
+- 1 **leek**, white part only, cut in 1/2 lengthwise
+- 6 sprigs **thyme**
+- 6 sprigs **parsley** with stems
+- 1 **bay leaves**
+- 6 **peppercorns**
+- 1 cloves **garlic**, peeled
+- 1 gallon **water**
+
+Strain through a fine mesh strainer, discarding solids. Cool immediately and refrigerate.
+
 ### Chicken stock
 
 > Makes about 5 quarts
 
 Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer uncovered for 6-8 hours.
 
-- 4 pounds chicken scraps, including necks, backs, and wings
-- 1 large onion, quartered
-- 4 carrots, peeled and cut in 1/2
-- 4 ribs celery, cut in 1/2
-- 1 leek, white part only, cut in 1/2 lengthwise
-- 10 sprigs fresh thyme
-- 10 sprigs fresh parsley with stems
-- 2 bay leaves
-- 8 to 10 peppercorns
-- 2 whole cloves garlic, peeled
-- 2 gallons cold water
+- 4 pounds **chicken scraps**, including necks, backs, and wings
+- 1 **onion**, quartered
+- 4 **carrots**, peeled and cut in 1/2
+- 4 ribs **celery**, cut in 1/2
+- 1 **leek**, white part only, cut in 1/2 lengthwise
+- 10 sprigs **thyme**
+- 10 sprigs **parsley** with stems
+- 2 **bay leaves**
+- 8 to 10 **peppercorns**
+- 2 cloves **garlic**, peeled
+- 2 gallons **water**
 
 Strain through a fine mesh strainer, discarding solids. Cool immediately and refrigerate.
 
