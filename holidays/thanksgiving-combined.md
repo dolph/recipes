@@ -1,8 +1,8 @@
 # Thanksgiving
 
-> **Tuesday**
+## Tuesday
 
-## Dry brine
+### Dry brine
 
 Combine in a medium bowl:
 
@@ -16,7 +16,7 @@ Combine in a medium bowl:
 
 Set aside.
 
-## Dry brine turkey
+### Dry brine turkey
 
 Separate turkey into leg quarters, wings, breasts (do not separate), and backbone.
 
@@ -26,7 +26,9 @@ Place turkey on a wire rack set in a baking sheet triple lined with aluminum foi
 
 - **Dry brine** mixture
 
-## Turkey glaze
+## Thursday
+
+### Turkey glaze
 
 Cook in a small saucepan over medium heat, stirring occasionally, until sugar is dissolved and glaze thickens slightly (it should just barely coat a spoon, about 10-12 minutes).
 
@@ -39,7 +41,7 @@ Cook in a small saucepan over medium heat, stirring occasionally, until sugar is
 
 Remove glaze from heat.
 
-## Roast turkey
+### Roast turkey
 
 Rest turkey at room temperature for 2 hours.
 
