@@ -2,7 +2,7 @@
 
 ## Saturday
 
-Start defrosting turkey in refrigerator:
+Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Tuesday):
 
 - 12-14 pound **whole turkey**
 
