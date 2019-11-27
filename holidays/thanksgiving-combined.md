@@ -34,6 +34,8 @@ Place turkey on a wire rack set in a baking sheet triple lined with aluminum foi
 
 ### Turkey stock
 
+> Makes about 3 quarts.
+
 Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer uncovered for 6-8 hours.
 
 - 2.5 pounds **turkey scraps**, including necks, backs, and wings
