@@ -54,7 +54,7 @@ Strain through a fine mesh strainer, discarding solids. Cool immediately and ref
 
 ### Chicken stock
 
-> Makes about 5 quarts
+> Makes about 5 quarts - none of which is used in this combined recipe, yet!
 
 Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer uncovered for 6-8 hours.
 
@@ -87,7 +87,7 @@ Set aside.
 
 Preheat oven to 450 F.
 
-Toss wings in a large cast-iron skillet with oil until coated.
+Toss wings in a large roasting tray with oil until coated.
 
 - 6 pounds **turkey and/or chicken wings**, flats and drumettes separated
 - 4 tablespoons **olive oil**
@@ -111,7 +111,7 @@ Remove skillet from oven and set on stovetop over medium-high heat. Add sherry a
 
 ### Gravy
 
-Transfer everything to a medium pot, add stock and parsley, and bring to a low simmer over medium-high heat:
+Transfer everything to a dutch oven, add stock and parsley, and bring to a low simmer over medium-high heat:
 
 - Roasted wings and aromatics
 - 3 quarts **turkey stock**, warmed
@@ -119,7 +119,7 @@ Transfer everything to a medium pot, add stock and parsley, and bring to a low s
 
 Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
 
-Strain and discard solids, rinse pot, and return broth back to pot, and bring to a simmer.
+Strain through a fat separator, discarding fat and solids, rinse pot, and return broth back to pot, and bring to a simmer.
 
 Add and whisk constantly until completely incorporated:
 
@@ -137,12 +137,12 @@ Preheat oven to 425 F. Place potatoes on a rimmed baking sheet or in a large bak
 
 ### Garlic mixture
 
-Meanwhile, place in a medium saucepan:
+Meanwhile, place in a large saucepan:
 
+- 350 grams (25 tablespoons) **butter**
 - 1 head of **garlic**, halved crosswise
 - 6 sprigs **thyme**
 - 10 grams **black peppercorns**, lightly crushed
-- 350 grams (25 tablespoons) **butter**
 - 30 grams **kosher salt**
 - 1050 grams (5 cups) **whole milk**
 - Zest of 1 large **lemon** (in large strips)
@@ -151,7 +151,7 @@ Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediat
 
 ### Mashed potatoes
 
-When potatoes are done, remove skins while they are very hot (hold with a kitchen towel), add to a pot, and mash immediately.
+When potatoes are done, remove skins while they are very hot (hold with a kitchen towel), add to a 4-quart soup pot, and mash immediately.
 
 Return garlic mixture to a simmer, then strain into pot with potatoes, discarding solids.
 
@@ -160,6 +160,8 @@ Set potato mixture over medium heat and whisk until liquid is incorporated and p
 Cover and refrigerate.
 
 ## Mashed potatoes topping
+
+Preheat oven to 350 F.
 
 Pulse in a food processor until finely chopped (about 15 seconds):
 
@@ -185,7 +187,7 @@ Add:
 
 Cook, stirring, until mixture is coated in butter and fragrant, about 1 minute.
 
-Transfer skillet to oven and bake, tossing every 5 minutes, until dark golden brown (about 15–20 minutes).
+Transfer skillet to 350 F oven and bake, tossing every 5 minutes, until dark golden brown (about 15–20 minutes).
 
 Meanwhile, combine in a small bowl:
 
@@ -201,7 +203,7 @@ Cook in a small saucepan over medium heat, stirring occasionally, until sugar is
 
 - Small handful of hardy herbs (such as sage, rosemary, bay leaves, and/or thyme)
 - 8 cloves **garlic**, crushed
-- 4 2x1" strips **orange** zest
+- Zest of 1 small **orange**, in strips
 - 160 grams (~1/3 cup) **soy sauce**
 - 160 grams (~1/3 cup) **red wine vinegar**
 - 140 grams (~1/3 cup) **brown sugar**
@@ -214,7 +216,7 @@ Remove glaze from heat, discard solids, and refrigerate.
 
 Rest turkey at room temperature for 2 hours.
 
-Place a rack in middle of oven; preheat to 425 F.
+Place two racks distributed in middle of oven, with enough room for the breasts to fit on the bottom rack; preheat to 425 F.
 
 Rub turkey:
 
@@ -224,13 +226,15 @@ Pour into each baking sheet:
 
 - 1 cup **water**
 
-Roast turkey, rotating baking sheet halfway through, until skin is mostly golden brown (about 20-25 minutes).
+Roast turkey with the dark meat on the top rack, and the white meat on the bottom rack, rotating baking sheets halfway through, until skin is mostly golden brown (about 20-25 minutes).
 
 Reduce oven temperature to 300 F and continue to roast turkey, brushing with glaze every 20 minutes and adding more water as needed to maintain liquid in baking sheet, until the breast registers 150 F, and the thighs register 170 F, 50-70 minutes longer.
 
 - Turkey glaze, warmed
 
 Tent with foil and rest 30-60 minutes before carving.
+
+Reserve drippings for gravy.
 
 ### Mashed potatoes
 
@@ -250,9 +254,10 @@ Transfer mashed potatoes to a large bowl and sprinkle topping over.
 
 ### Gravy
 
-Return to a gentle simmer:
+Return to a gentle simmer, and whisk together:
 
 - **Gravy**
+- Turkey drippings
 
 Remove from heat and whisk in:
 
