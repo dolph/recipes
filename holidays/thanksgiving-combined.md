@@ -1,5 +1,7 @@
 # Thanksgiving
 
+> Serves 15-20 people with plenty of leftovers.
+
 ## Saturday
 
 Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Tuesday):
