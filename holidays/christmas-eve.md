@@ -3,10 +3,10 @@
 ## Menu
 
 - Glazed ham
-- [Potatoes](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
+- [Crunchy mashed potatoes](../sides/crunchy-mashed-potatoes.md)
 - [Mac & cheese](https://www.bonappetit.com/recipe/mac-n-cheese)
-- [Carrots](https://www.bonappetit.com/recipe/maple-roasted-carrots)
-- [Cauliflower](https://www.bonappetit.com/recipe/roasted-cauliflower-with-lemon-parsley-dressing)
+- [Maple roasted carrots](https://www.bonappetit.com/recipe/maple-roasted-carrots)
+- [Roasted cauliflower](https://www.bonappetit.com/recipe/roasted-cauliflower-with-lemon-parsley-dressing)
 - [Brussels sprouts](https://www.bonappetit.com/recipe/lemony-brussels-sprouts-with-bacon-and-breadcrumbs)
 - Rolls
-- Cookies
+- [Cookies](../dessert/cookies.md)
