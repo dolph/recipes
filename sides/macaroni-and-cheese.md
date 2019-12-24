@@ -1,5 +1,7 @@
 # Macaroni & cheese
 
+> Based on [BA's Best Macaroni and Cheese](https://www.bonappetit.com/recipe/mac-n-cheese).
+
 Preheat oven to 350 F.
 
 ## Topping
