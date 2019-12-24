@@ -155,3 +155,4 @@
 
 - [Easter](holidays/easter.md)
 - [Thanksgiving](holidays/thanksgiving.md)
+- [Christmas Eve](holidays/christmas-eve.md)
