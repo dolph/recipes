@@ -2,7 +2,7 @@
 
 > Based on Bon Appetit's [Mashed Potatoes With Crispety Cruncheties](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
 
-## 5 pound version
+## Crunchy mashed potatoes (5 pound version)
 
 ### Roast
 
@@ -88,7 +88,7 @@ Transfer mashed potatoes to a large bowl and sprinkle topping over.
 - Mashed potatoes
 - Mashed potatoes topping
 
-## 3 pound version
+## Crunchy mashed potatoes (3 pound version)
 
 ### Roast
 
