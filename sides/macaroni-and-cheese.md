@@ -1,52 +1,67 @@
-Macaroni & cheese
-=================
+# Macaroni & cheese
 
-> Serves 6-8
+Preheat oven to 350 F.
 
-> Ashley does not approve.
+## Topping
 
-Adjust oven rack to lower middle position. Turn on broiler.
+Melt in a medium skillet over medium heat.
 
-Bring 2 quarts water to a boil in a pot. Cook until tender, drain, and set aside:
+- 2 tablespoons **butter**
 
-- 1.5 teaspoons kosher salt
-- 225 grams elbow macaroni
+Add and cook, stirring, until crumbs are golden brown (~6–8 minutes):
 
-In the empty pot, melt over medium high heat:
+- 3/4 cup **panko**
 
-- 2.5 tablespoons unsalted butter
+Transfer to a small bowl and toss with:
 
-Whisk well to combine until fragrant and a roux forms (about 1 minute):
+- 7 grams **Parmesan**, finely grated (~1/4 cup)
+- 2 teaspoons **thyme**
+- 1/4 teaspoon **kosher salt**
 
-- 22 grams (3 tablespoons) unbleached all-purpose flour
-- 5 grams (2 teaspoons) mustard powder (*not* Colman's)
-- 1/8 teaspoon cayenne
-- 1 teaspoon salt
+## Pasta
 
-Whisking constantly, gradually add:
+Cook pasta in a large pot of boiling salted water, stirring occasionally, until al dente.
 
-- 2.5 cups milk
+- 8 ounces **cavatappi**
 
-Whisking constantly, bring to a boil, then reduce heat to medium and simmer.
+Drain and let cool while you make the sauce.
 
-Whisk constantly until thickened to the consistency of heavy cream, about 5 minutes.
+## Sauce
 
-Off heat, whisk in cheeseses until fully melted:
+Bring to a bare simmer in a small saucepan; keep warm:
 
-- 115 grams (~4 ounces) Monterey Jack cheese, shredded
-- 115 grams (~4 ounces) sharp cheddar cheese, shredded
+- 2.5 cups **milk**
 
-Add and cook over medium-low heat, stirring constantly, until steaming and heated through:
+Melt in a medium saucepan over medium-high:
 
-- Cooked pasta
+- 2 tablespoons **butter**
 
-Transfer the mixture to a broiler-safe 8 inch by 8 inch baking dish or a 9 inch cast iron skillet. Sprinkle with:
+Add onion and garlic and cook, stirring, until onions are fragrant and beginning to soften, about 2 minutes.
 
-- 1/3 cup Panko bread crumbs
+- 1/2 small **onion**, grated
+- 1 clove **garlic**, finely grated
 
-Broil until deep golden brown (3-5 minutes).
+Sprinkle flour over and cook, stirring constantly, until mixture starts to stick to bottom of saucepan, about 1 minute.
 
-Cool for 5 minutes and serve with:
+- 2 tablespoons **flour**
 
-- Celery salt
-- Hot sauce
+Add warm milk in a few additions, whisking to combine after each addition.
+
+Bring béchamel sauce to a boil, then reduce heat and simmer, stirring, until sauce is thickened and doesn’t feel grainy when rubbed between your fingers (~6–8 minutes).
+
+Add and stir until cheeses are melted and sauce is smooth:
+
+- 4 ounces **Fontina**, grated
+- 4 ounces **Gruyère**, grated
+- 4 ounces **sharp white cheddar**, grated
+- 1/2 teaspoon **English mustard powder**
+- Pinch of **cayenne**
+- 3/4 teaspoon **kosher salt**
+
+## Composition
+
+Remove from heat and mix in pasta; transfer to a 2 quart baking dish.
+
+Bake 10 minutes. Top with Parmesan breadcrumbs and bake until sauce is bubbling around the edges, 8–10 minutes longer.
+
+Let cool in pan 15 minutes before serving.
