@@ -22,27 +22,29 @@ Strain shrimp stock from shrimp shells and set aside.
 Composition
 -----------
 
-Start, skin-side down, in a cold dutch oven:
+Cook in a dutch oven over medium heat until well browned on each side:
 
-- 4 bone-in, skin-on **chicken thighs**, trimmed
+- 4 boneless, skinless **chicken thighs**
 - Kosher salt
 
-Bring to medium heat until well browned on each side, flipping once when chicken skin releases from the bottom.
-
-Transfer the chicken to a small bowl, and discard skin (no need to keep warm).
+Set chicken aside.
 
 Brown:
 
 - 1.5 pounds **Andouille sausage**, halved lengthwise, cut into 1/4 inch pieces
 
-Transfer the sausage to a small bowl, and set aside (no need to keep warm).
+Set sausage aside.
 
-Cook until the onion is softened:
+Cook until softened:
 
-- 1 **onion**, chopped medium
-- 1 **red bell pepper**, stemmed, seeded, chopped medium
-- 5 cloves **garlic**, pressed
+- 1 **onion**, minced
+- 2 ribs **celery**, minced
+- 1 **red bell pepper**, stemmed, seeded, minced
 - 1/2 teaspoon kosher salt
+
+Add, and cook until fragrant:
+
+- 5 cloves **garlic**, pressed
 
 Optionally, add, and cook out any remaining liquid:
 
