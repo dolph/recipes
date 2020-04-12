@@ -38,9 +38,9 @@ Set sausage aside.
 
 Cook until softened:
 
-- 1 **onion**, minced
+- 2 medium **onions**, minced
 - 2 ribs **celery**, minced
-- 1 **red bell pepper**, stemmed, seeded, minced
+- 1 **bell pepper**, stemmed, seeded, minced
 - 1/2 teaspoon kosher salt
 
 Add, and cook until fragrant:
