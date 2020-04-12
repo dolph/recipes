@@ -25,6 +25,7 @@ Composition
 Cook in a dutch oven over medium heat until well browned on each side:
 
 - 4 boneless, skinless **chicken thighs**
+- 1 tablespoon **olive oil**
 - Kosher salt
 
 Set chicken aside.
