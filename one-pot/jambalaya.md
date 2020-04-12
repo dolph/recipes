@@ -89,6 +89,11 @@ Remove the skillet from the heat and let stand until the shrimp are fully cooked
 - Kosher salt, to taste
 - Freshly ground black pepper, to taste
 
+Garnish:
+
+- **Parsley**, chopped
+- **Green onions**, chopped
+
 Serve with:
 
 - Louisiana-style **hot sauce**
