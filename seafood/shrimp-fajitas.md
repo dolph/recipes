@@ -8,6 +8,8 @@ Melt over low heat in a small saucepan until foaming:
 - Zest of half a **lime**
 - 1 clove **garlic**, minced
 
+Set aside, and keep warm.
+
 ## Shrimp
 
 Toss together to coat, and marinate in the refridgerator for 30 minutes:
