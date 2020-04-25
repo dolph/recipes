@@ -2,6 +2,8 @@
 
 ## Garlic butter
 
+> Untested: white wine would be good in this
+
 Melt over low heat in a small saucepan until foaming:
 
 - 3 tablespoons salted **butter**
@@ -14,9 +16,11 @@ Set aside, and keep warm.
 
 Toss together to coat, and marinate in the refridgerator for 30 minutes:
 
+> Untested: paprika would be good in this
+
 - 1.5 pounds **shrimp**, peeled & deveined
 - 1 tablespoon **adobo sauce**
-- 2 cloves garlic, minced
+- 2 cloves **garlic**, minced
 - Zest of a **lime**
 - Kosher salt
 - Black pepper
