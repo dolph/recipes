@@ -76,6 +76,7 @@
 - [Sushi rice](seafood/sushi.md)
 - [Korean fried chicken wings](korean-fried-chicken-wings.md)
 - [Glazed ham](glazed-ham.md)
+- [Shrimp fajitas](seafood/shrimp-fajitas.md)
 
 ## Smoked
 
