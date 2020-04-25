@@ -2,7 +2,7 @@
 
 ## Garlic butter
 
-> Untested: white wine would be good in this
+> Untested: include white wine
 
 Melt over low heat in a small saucepan until foaming:
 
@@ -16,7 +16,7 @@ Set aside, and keep warm.
 
 Toss together to coat, and marinate in the refridgerator for 30 minutes:
 
-> Untested: paprika would be good in this
+> Untested: include paprika
 
 - 1.5 pounds **shrimp**, peeled & deveined
 - 1 tablespoon **adobo sauce**
@@ -30,7 +30,11 @@ In a large pan over medium heat, cook almost all the way through on the first si
 - Marinated shrimp
 - 2 tablespoons **olive oil**
 
-Flip, and cook through. Serve immediately with:
+Flip, and cook through.
+
+> Untested: garnish with a small amount of parsley
+
+Serve immediately with:
 
 - Garlic butter
 - **Flour tortillas**
