@@ -50,6 +50,6 @@ In a 9x13 baking dish, layer (from bottom up):
 - 2 ounces **colby jack cheese**, shredded
 - 5 **corn tortillas**
 - Chicken mixture
-- 4 ounces **colby jack cheese**
+- 4 ounces **colby jack cheese**, shredded
 
 Bake until bubbling (~40 minutes), and then broil until golden (~2 minutes).
