@@ -29,16 +29,16 @@ In a large skillet over high heat, saute until soft:
 
 In a 9x13 baking dish, layer (from bottom up):
 
-- A quarter of the sauce
+- One quarter of the sauce
 - 1/2 pound chicken, cooked
-- One third of the sauce
+- One quarter of the sauce
 - 2 ounces cheddar cheese
 - 5 corn tortillas
 - 1/2 pound chicken, cooked
-- One third of sauce
+- One quarter of the sauce
 - 2 ounces cheddar cheese
 - 5 corn tortillas
-- One third of sauce
+- One quarter of the sauce
 - 4 ounces cheddar cheese
 
 Bake until bubbling (~40 minutes), and then broil until golden (~2 minutes).
