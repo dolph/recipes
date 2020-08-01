@@ -38,8 +38,6 @@ Remove from heat, and stir in:
 - 1 teaspoon **lime zest**
 - 1 teaspoon **lime juice**
 
-## Layering
-
 In a 9x13 baking dish, layer (from bottom up):
 
 - Chicken mixture
