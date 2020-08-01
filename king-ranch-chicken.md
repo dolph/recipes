@@ -44,12 +44,12 @@ Remove from heat, and stir in:
 In a 9x13 baking dish, layer (from bottom up):
 
 - Chicken mixture
-- 2 ounces **cheddar cheese**, shredded
+- 2 ounces **colby jack cheese**, shredded
 - 5 **corn tortillas**
 - Chicken mixture
-- 2 ounces **cheddar cheese**, shredded
+- 2 ounces **colby jack cheese**, shredded
 - 5 **corn tortillas**
 - Chicken mixture
-- 4 ounces **cheddar cheese**
+- 4 ounces **colby jack cheese**
 
 Bake until bubbling (~40 minutes), and then broil until golden (~2 minutes).
