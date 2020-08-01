@@ -2,22 +2,6 @@
 
 Preheat oven to 375 F.
 
-## Sauce
-
-In a large bowl, combine:
-
-- 10 ounce can cream of mushroom soup
-- 10 ounce can cream of chicken soup
-- 10 ounce can Rotel
-- 1 cup **chicken stock**
-- 2 tablespoons **sour cream**
-- 2 teaspoons **cumin**, ground
-- 2 teaspoons **adobo sauce**
-- 1 teaspoon **chili powder**
-- 1/2 teaspoon **dried oregano**
-
-## Base
-
 Blitz in a food processor until smooth:
 
 - 1 **white onion**
@@ -26,23 +10,46 @@ Blitz in a food processor until smooth:
 
 In a large skillet over high heat, saute until soft:
 
-- 1 tablespoon **canola oil**
+- 3 tablespoons **unsalted butter**
 - **Peppers & onion**
+- Kosher salt
+
+Add, and saute until fragrant:
+
+- 3 cloves **garlic**, minced
+
+Sprinkle, and cook, stirring for one minute:
+
+- 2 tablespoons **flour**
+
+Deglaze, bring to a boil, reduce to simmer, and thicken slightly (about 1 minute):
+
+- 3 cups **chicken stock**
+
+Remove from heat, and stir in:
+
+- 1.5 pounds **chicken**, cooked
+- 15 ounce can **tomato sauce**
+- 1/2 cup **sour cream**
+- 1/2 cup **cilantro**, minced
+- 2 teaspoons **cumin**, ground
+- 2 teaspoons **adobo sauce**
+- 1 teaspoon **chili powder**
+- 1/2 teaspoon **dried oregano**
+- 1 teaspoon **lime zest**
+- 1 teaspoon **lime juice**
 
 ## Layering
 
 In a 9x13 baking dish, layer (from bottom up):
 
-- One quarter of the sauce
-- 1/2 pound **chicken**, cooked
-- One quarter of the sauce
-- 2 ounces **cheddar cheese**
+- Chicken mixture
+- 2 ounces **cheddar cheese**, shredded
 - 5 **corn tortillas**
-- 1/2 pound **chicken**, cooked
-- One quarter of the sauce
-- 2 ounces cheddar cheese
+- Chicken mixture
+- 2 ounces **cheddar cheese**, shredded
 - 5 **corn tortillas**
-- One quarter of the sauce
+- Chicken mixture
 - 4 ounces **cheddar cheese**
 
 Bake until bubbling (~40 minutes), and then broil until golden (~2 minutes).
