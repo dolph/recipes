@@ -34,7 +34,6 @@ Remove from heat, and stir in:
 - 1/2 cup **cilantro**, minced
 - 2 teaspoons **cumin**, ground
 - 2 teaspoons **adobo sauce**
-- 1 teaspoon **chili powder**
 - 1/2 teaspoon **dried oregano**
 - 1 teaspoon **lime zest**
 - 1 teaspoon **lime juice**
