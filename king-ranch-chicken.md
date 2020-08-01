@@ -45,10 +45,10 @@ In a 9x13 baking dish, layer (from bottom up):
 
 - Chicken mixture
 - 2 ounces **colby jack cheese**, shredded
-- 5 **corn tortillas**
+- 5-6 **corn tortillas**
 - Chicken mixture
 - 2 ounces **colby jack cheese**, shredded
-- 5 **corn tortillas**
+- 5-6 **corn tortillas**
 - Chicken mixture
 - 4 ounces **colby jack cheese**, shredded
 
