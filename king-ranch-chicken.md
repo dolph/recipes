@@ -11,7 +11,7 @@ Blitz in a food processor until smooth:
 In a large skillet over high heat, saute until soft:
 
 - 3 tablespoons **unsalted butter**
-- **Peppers & onion**
+- Peppers & onion
 - Kosher salt
 
 Add, and saute until fragrant:
