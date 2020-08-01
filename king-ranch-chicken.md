@@ -28,7 +28,7 @@ Deglaze, bring to a boil, reduce to simmer, and thicken slightly (about 1 minute
 
 Remove from heat, and stir in:
 
-- 1.5 pounds **chicken**, cooked
+- 1.5 pounds **chicken**, boneless, skinless, cooked
 - 15 ounce can **tomato sauce**
 - 1/2 cup **sour cream**
 - 1/2 cup **cilantro**, minced
