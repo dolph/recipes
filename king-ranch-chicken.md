@@ -8,10 +8,18 @@ Blitz in a food processor until smooth:
 - 2 **red, orange, or yellow bell peppers**
 - 1 **chipotle pepper**
 
-In a large skillet over high heat, saute until soft:
+In a large skillet over medium heat, brown both sides:
 
-- 3 tablespoons **unsalted butter**
-- Peppers & onion
+- 1.5 pounds **chicken**, boneless, skinless
+- 2 tablespoons **olive oil** (use less for dark meat chicken)
+- Kosher salt
+
+Set chicken aside.
+
+Add to the skillet, and saute until most of the water has evaporated:
+
+- Blitzed vegetables
+- 2.5 tablespoons **unsalted butter**
 - Kosher salt
 
 Add, and saute until fragrant:
@@ -20,33 +28,35 @@ Add, and saute until fragrant:
 
 Sprinkle, and cook, stirring for one minute:
 
-- 2 tablespoons **flour**
+- 3 tablespoons **flour**
 
-Deglaze, bring to a boil, reduce to simmer, and thicken slightly (about 1 minute):
+Deglaze, bring to a boil, reduce to simmer, and thicken slightly (~15 minutes):
 
-- 3 cups **chicken stock**
+- 2 cups **chicken stock**
+- 15 ounce can **tomato sauce**
+- 1 teaspoon **lime juice**
 
 Remove from heat, and stir in:
 
-- 1.5 pounds **chicken**, boneless, skinless, cooked
-- 15 ounce can **tomato sauce**
+- Chicken
 - 1/2 cup **sour cream**
 - 1/2 cup **cilantro**, minced
 - 2 teaspoons **cumin**, ground
 - 2 teaspoons **adobo sauce**
 - 1/2 teaspoon **dried oregano**
 - 1 teaspoon **lime zest**
-- 1 teaspoon **lime juice**
+- Kosher salt
+- Black pepper
 
 In a 9x13 baking dish, layer (from bottom up):
 
-- Chicken mixture
+- 1/3 chicken mixture
 - 2 ounces **colby jack cheese**, shredded
 - 5-6 **corn tortillas**
-- Chicken mixture
+- 1/3 mixture
 - 2 ounces **colby jack cheese**, shredded
 - 5-6 **corn tortillas**
-- Chicken mixture
+- 1/3 chicken mixture
 - 4 ounces **colby jack cheese**, shredded
 
 Bake until bubbling (~40 minutes), and then broil until golden (~2 minutes).
