@@ -2,7 +2,7 @@
 
 Season, and brown in a large skillet or dutch oven over medium-high heat:
 
-- 1 lb lean beef roast, cubed
+- 1 lb lean beef roast, 1/2" cubed
 - Kosher salt
 - Black pepper
 
@@ -25,11 +25,12 @@ Deglaze:
 
 - 1/4 cup dry white wine
 
-Bring to a boil, and reduce to a simmer:
+Bring to a boil, and reduce to a simmer until egg noodles are tender and beef is cooked through:
 
 - 4 cups beef stock
 - 2 tablespoons Worcestershire sauce
 - 1 tablespoon Dijon mustard
+- Browned beef
 - 8 ounces egg noodles
 
 Stir in and heat through:
