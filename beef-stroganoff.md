@@ -24,6 +24,7 @@ Stir in and make a light roux:
 Deglaze:
 
 - 1/4 cup dry **white wine**
+- 4 sprigs **thyme**, leaves only, minced
 
 Bring to a boil, and reduce to a simmer until egg noodles are tender and beef is cooked through:
 
@@ -34,7 +35,7 @@ Bring to a boil, and reduce to a simmer until egg noodles are tender and beef is
 - Browned beef
 - 8 ounces **egg noodles**
 
-Stir in and heat through:
+Off heat, stir in:
 
-- 2 tablespoons **Sour cream** or **creme fraiche**
+- 2 tablespoons **creme fraiche** (or **sour cream** + 1 tablespoon **lemon juice**)
 - 2 tablespoons **parsley**, minced
