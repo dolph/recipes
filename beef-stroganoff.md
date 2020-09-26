@@ -31,7 +31,7 @@ Bring to a boil, and reduce to a simmer until egg noodles are tender and beef is
 - 4 cups **beef stock**
 - 2 tablespoons **Worcestershire sauce**
 - 1 tablespoon **Dijon mustard**
-- **Mushroom powder** (equivalent of 8 oz fresh)
+- **Mushroom powder** (equivalent of 12 oz fresh)
 - Browned beef
 - 8 ounces **egg noodles**
 
