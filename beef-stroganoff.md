@@ -2,7 +2,8 @@
 
 Season, and brown in a large skillet or dutch oven over medium-high heat:
 
-- 2 lb lean **beef roast**, 1/2" cubed
+- 2 lb lean **beef roast**, 1/2" cubed, patted dry
+- 1 tablespoon **olive oil**
 - Kosher salt
 - Black pepper
 
