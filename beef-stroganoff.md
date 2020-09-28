@@ -9,7 +9,7 @@ Season, and brown in a large skillet or dutch oven over medium-high heat:
 
 Set beef aside.
 
-Add, and cook until beginning to caramalize:
+Reduce heat to low. Add, and cook until beginning to caramalize:
 
 - 1/2 **onion**, minced
 - 2 tablespoons **butter**
@@ -18,7 +18,7 @@ Add, and cook until fragrant:
 
 - 3 cloves **garlic**, minced
 
-Stir in and make a light roux:
+Increase heat to medium. Stir in and make a light roux:
 
 - 3 tablespoons **AP flour**
 
