@@ -10,16 +10,24 @@ Peel, devein, and season shrimp, reserving shrimp shells in a 3 quart pot.
 
 Keep shrimp refridgerated.
 
-Bring to a simmer, and reduce for at least 20 minutes:
+Saute over high heat until opaque, about 2 minutes:
 
 - Shrimp shells
-- Water, to cover
+- 1 tablespoon olive oil
 
-Strain shrimp stock from shrimp shells and set aside.
+Add water to cover, bring to a simmer, and reduce for at least 20 minutes.
+
+Strain shrimp stock from shrimp shells and set aside, discarding shells.
 
 ## Composition
 
-Cook in a dutch oven over medium heat until well browned on each side:
+Brown in a dutch oven over medium heat , in batches if necessary:
+
+- 1.5 pounds **Andouille sausage**, halved lengthwise, cut into 1/4 inch pieces
+
+Set sausage aside.
+
+Cook until well browned on each side:
 
 - 4 boneless, skinless **chicken thighs**
 - 1 tablespoon **olive oil**
@@ -27,26 +35,20 @@ Cook in a dutch oven over medium heat until well browned on each side:
 
 Set chicken aside.
 
-Brown:
-
-- 1.5 pounds **Andouille sausage**, halved lengthwise, cut into 1/4 inch pieces
-
-Set sausage aside.
-
 Cook until softened:
 
-- 2 medium **onions**, minced
-- 2 ribs **celery**, minced
-- 1 **bell pepper**, stemmed, seeded, minced
+- 2 medium **onions**, pureed in a blender
+- 2 ribs **celery**, pureed in a blender
+- 1 **bell pepper**, stemmed, seeded, pureed in a blender
 - 1/2 teaspoon kosher salt
 
 Add, and cook until fragrant:
 
 - 5 cloves **garlic**, pressed
 
-Optionally, add, and cook out any remaining liquid:
+Add, and cook out any remaining liquid:
 
-- 14.5 ounce can **diced tomatoes**, drained
+- 28 ounce can **whole tomatoes**, drained, pureed in a blender
 
 Season with:
 
@@ -64,7 +66,7 @@ Add the rice and cook until translucent:
 
 Add the liquids, and bring to a gentle simmer, and leave uncovered.
 
-- 3.5 cups liquid (use a combination of shrimp stock, bottled **clam juice**, and chicken broth)
+- 4.5 cups liquid (use a combination of shrimp stock, bottled **clam juice**, and chicken broth)
 
 Return the chicken to the pot, nestling it into the water. Cook until the chicken is cooked through (about 30 minutes).
 
