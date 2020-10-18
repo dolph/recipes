@@ -13,7 +13,7 @@ Keep shrimp refridgerated.
 Saute over high heat until opaque, about 2 minutes:
 
 - Shrimp shells
-- 1 tablespoon olive oil
+- 1 tablespoon **olive oil**
 
 Add water to cover, bring to a simmer, and reduce for at least 20 minutes.
 
@@ -30,7 +30,7 @@ Set sausage aside.
 Cook until well browned on each side:
 
 - 4 boneless, skinless **chicken thighs**
-- 1 tablespoon **olive oil**
+- Additional **olive oil**, if necessary, to coat bottom of pot
 - Kosher salt
 
 Set chicken aside.
