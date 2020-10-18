@@ -1,8 +1,6 @@
-Jambalaya
-=========
+# Jambalaya
 
-Shrimp & shrimp stock
----------------------
+## Shrimp & shrimp stock
 
 Peel, devein, and season shrimp, reserving shrimp shells in a 3 quart pot.
 
@@ -19,8 +17,7 @@ Bring to a simmer, and reduce for at least 20 minutes:
 
 Strain shrimp stock from shrimp shells and set aside.
 
-Composition
------------
+## Composition
 
 Cook in a dutch oven over medium heat until well browned on each side:
 
