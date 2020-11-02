@@ -9,29 +9,29 @@
 
 ### Baked
 
-- [Lemon poppy seed pound cake](breakfast/lemon-poppy-pound-cake.md)
 - [Banana bread](breakfast/banana-bread.md)
 - [Cinnamon rolls](breakfast/cinnamon-rolls.md)
+- [Lemon poppy seed pound cake](breakfast/lemon-poppy-pound-cake.md)
 
 ## Lunch
 
 - [Chicken salad](lunch/chicken-salad.md)
+- [Crab salad](seafood/crab-salad.md)
 - [Egg salad](lunch/egg-salad.md)
 - [Tuna salad](lunch/tuna-salad.md)
-- [Crab salad](seafood/crab-salad.md)
 
 ## Appetizers
 
 - [Brussels sprouts](appetizers/brussels-sprouts.md) ★
+- [Bunny rabbit ears](appetizers/bunny-rabbit-ears.md)
 - [Caesar salad](appetizers/ceasar-salad.md)
 - [Chicken wings](appetizers/chicken-wings.md) (and buffalo sauce and lemon pepper sauce)
+- [Crab salad](seafood/crab-salad.md)
 - [Guacamole](appetizers/guacamole.md)
 - [Herb coeur à la crème](appetizers/herb-coeur-a-la-creme.md)
 - [Queso](appetizers/queso.md)
 - [Roasted salsa](condiments/salsa.md#roasted)
 - [Salsa verde](condiments/salsa.md#verde)
-- [Crab salad](seafood/crab-salad.md)
-- [Bunny rabbit ears](appetizers/bunny-rabbit-ears.md)
 
 ## Soups
 
@@ -39,44 +39,44 @@
 
 ## Salads
 
-- [Chunky greek salad](sides/greek-salad.md)
 - [Caesar salad](appetizers/ceasar-salad.md)
+- [Chunky greek salad](sides/greek-salad.md)
 
 ## Dinner
 
+- [Baked ziti](pasta/baked-ziti.md) ★
 - [Brisket chili](one-pot/brisket-chili.md)
 - [Chicken and dumplings](one-pot/chicken-and-dumplings.md)
 - [Chili](one-pot/chili.md) ★
-- [Jambalaya](one-pot/jambalaya.md) ★
-- [Lemony chicken and rice soup](one-pot/lemony-chicken-and-rice-soup.md) ★
-- [Paella](one-pot/paella.md)
-- [Pot roast](one-pot/pot-roast.md)
-- [Roasted chicken](one-pot/roasted-chicken.md)
-- [Shrimp bisque](one-pot/shrimp-bisque.md)
-- [Singapore noodles](one-pot/singapore-noodles.md)
-- [Tortilla soup](one-pot/tortilla-soup.md)
-- [Baked ziti](pasta/baked-ziti.md) ★
-- [Pasta Bolognese](pasta/bolognese.md)
-- [Herbed orzo with feta](pasta/herbed-orzo-with-feta.md)
-- [Linguine and clams](pasta/linguine-and-clams.md) ★
-- [Pasta carbonara](pasta/pasta-carbonara.md)
-- [Spaghetti with fried eggs](pasta/spaghetti-with-fried-eggs.md)
+- [Clam & scallop stew](seafood/mussel-and-scallop-stew.md) (mussels?)
 - [Croatian mussels](seafood/croatian-mussels.md)
-- [Shrimp etouffee](seafood/etouffee.md)
 - [Fish stew](seafood/fish-stew.md)
 - [Fish tacos](seafood/fish-tacos.md)
+- [Glazed ham](glazed-ham.md)
 - [Gumbo](seafood/gumbo.md)
+- [Herbed orzo with feta](pasta/herbed-orzo-with-feta.md)
+- [Jambalaya](one-pot/jambalaya.md) ★
+- [Korean fried chicken wings](korean-fried-chicken-wings.md)
+- [Lemony chicken and rice soup](one-pot/lemony-chicken-and-rice-soup.md) ★
+- [Linguine and clams](pasta/linguine-and-clams.md) ★
 - [Meunière](seafood/meuniere.md)
-- [Clam & scallop stew](seafood/mussel-and-scallop-stew.md) (mussels?)
 - [Mussels with pan sauce](seafood/mussels-with-pan-sauce.md) ★
+- [Paella](one-pot/paella.md)
+- [Pasta Bolognese](pasta/bolognese.md)
+- [Pasta carbonara](pasta/pasta-carbonara.md)
+- [Pot roast](one-pot/pot-roast.md)
+- [Roasted chicken](one-pot/roasted-chicken.md)
 - [Roasted Dungeness crab](seafood/roasted-dungeness-crab.md)
 - [Salt & pepper mussels](seafood/salt-and-pepper-mussels.md)
-- [Shrimp pasta](seafood/shimp-pasta.md)
+- [Shrimp bisque](one-pot/shrimp-bisque.md)
+- [Shrimp etouffee](seafood/etouffee.md)
 - [Shrimp etouffee](seafood/shrimp-etouffee.md)
+- [Shrimp fajitas](seafood/shrimp-fajitas.md) ★
+- [Shrimp pasta](seafood/shimp-pasta.md)
+- [Singapore noodles](one-pot/singapore-noodles.md)
+- [Spaghetti with fried eggs](pasta/spaghetti-with-fried-eggs.md)
 - [Sushi rice](seafood/sushi.md)
-- [Korean fried chicken wings](korean-fried-chicken-wings.md)
-- [Glazed ham](glazed-ham.md)
-- [Shrimp fajitas](seafood/shrimp-fajitas.md)
+- [Tortilla soup](one-pot/tortilla-soup.md)
 
 ## Smoked
 
@@ -89,32 +89,32 @@
 
 - [Beef bulgogi](barbecue/bulgogi.md)
 - [Chicken fajitas](barbecue/chicken-fajitas.md) ★
-- [Marinated flank steak](barbecue/flank-steak.md) ★
-- [Pollo asado al carbón](barbecue/pollo-asado-al-carbon.md)
 - [Corn](sides/grilled-corn.md)
 - [Grilled shrimp](seafood/grilled-shrimp.md)
+- [Marinated flank steak](barbecue/flank-steak.md) ★
+- [Pollo asado al carbón](barbecue/pollo-asado-al-carbon.md)
 
 ## Sides
 
 - [Barbecue beans](sides/barbecue-beans.md)
 - [Black beans](sides/black-beans.md)
+- [Braised carrots](sides/honey-glazed-carrots.md)
 - [Brussels sprouts](sides/brussels-sprouts.md)
+- [Brussels sprouts](sides/roasted-brussels-sprouts.md)
 - [Cinnamon apples](sides/cinnamon-apples.md)
 - [Coleslaw](sides/coleslaw.md)
 - [Creamed corn](sides/creamed-corn.md)
 - [Feta smashed potatoes](sides/feta-smashed-potatoes.md) ★
 - [Greek salad](sides/greek-salad.md) ★
+- [Green bean casserole](sides/green-bean-casserole.md)
 - [Grilled corn](sides/grilled-corn.md)
+- [Loaded smashed potatoes](sides/loaded-smashed-potatoes.md)
 - [Macaroni & cheese](sides/macaroni-and-cheese.md)
 - [Potato salad](sides/potato-salad.md) ★
 - [Rice pilaf](sides/rice-pilaf.rst)
 - [Risotto](sides/risotto.md)
 - [Shredded Brussels sprouts](sides/shredded-brussels-sprouts.md)
 - [Vegetable seasoning](sides/vegetable-seasoning.md)
-- [Loaded smashed potatoes](sides/loaded-smashed-potatoes.md)
-- [Green bean casserole](sides/green-bean-casserole.md)
-- [Braised carrots](sides/honey-glazed-carrots.md)
-- [Brussels sprouts](sides/roasted-brussels-sprouts.md)
 
 ## Dessert
 
@@ -130,19 +130,19 @@
 
 ## Seasonings and rubs
 
+- [Blackening](seasoning/blackening.md)
 - [Pork](barbecue/pork-rub.md)
 - [Steak](barbecue/steak-seasoning.md)
-- [Blackening](seasoning/blackening.md)
 - [Vegetable](sides/vegetable-seasoning.md)
 
 ## Sauces and condiments
 
 - [Barbecue](barbecue/sauce.md)
-- [Ketchup](barbecue/sauce.md#ketchup)
 - [Buffalo](appetizers/chicken-wings.md#buffalo-sauce)
-- [Lemon pepper](appetizers/chicken-wings.md#lemon-pepper-sauce)
 - [Chimichurri](condiments/chimichurri.md)
 - [Gremolata](condiments/gremolata.md)
+- [Ketchup](barbecue/sauce.md#ketchup)
+- [Lemon pepper](appetizers/chicken-wings.md#lemon-pepper-sauce)
 - [Pesto](condiments/pesto.md)
 - [Rémoulade](condiments/remoulade.md)
 - [Salsa](condiments/salsa.md)
