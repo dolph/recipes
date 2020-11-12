@@ -1,5 +1,7 @@
 # Chicken parm
 
+> Based on [BA's Best](https://www.bonappetit.com/recipe/bas-best-chicken-parm)
+
 ## Tomato sauce
 
 - 1/2 cup extra-virgin olive oil
