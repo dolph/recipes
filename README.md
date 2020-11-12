@@ -44,6 +44,7 @@
 
 ## Dinner
 
+- [Al limone](pasta/al-limone.md)
 - [Baked ziti](pasta/baked-ziti.md) ★
 - [Brisket chili](one-pot/brisket-chili.md)
 - [Chicken and dumplings](one-pot/chicken-and-dumplings.md)
