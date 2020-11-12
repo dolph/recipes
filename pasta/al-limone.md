@@ -9,7 +9,7 @@ Whisk together egg slurry in a small bowl and side aside:
 
 In a stock pot, cook in heavily salted water until 2 minutes short of al dente (or just enough to heat fresh pasta through):
 
-- 200 grams dried **pasta** (e.g. linguine)
+- 200 grams **dried pasta** (e.g. linguine or spaghetti)
 
 Meanwhile, mix to combine in a high-walled saute pan, and begin heating over very low heat:
 
