@@ -45,7 +45,7 @@ Stop the browning:
 
 Return to a simmer and steam, covered, until clams open (~5 minutes)
 
-- 2 pounds (16-20) **little neck clams**, scrubbed
+- 2 pounds (16-20) **littleneck clams**, scrubbed
 
 Set aside clams as they open (cover with foil), leaving sauce in dutch oven.
 
