@@ -6,11 +6,13 @@
 
 Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Friday):
 
-- 2 12-14 pound **whole turkeys**
+- 12-14 pound **whole turkey**
 
 ## Friday
 
 ### Dry brine
+
+> have not scaled this down to match change to 1 turkey
 
 Combine in a medium bowl:
 
@@ -28,7 +30,7 @@ Set aside.
 
 Separate turkey into leg quarters, wings, breasts (do not separate), and backbone.
 
-- 2 12-14 pound **turkeys**, parted
+- 12-14 pound **turkey**, parted
 
 Place turkey on a wire rack set in a baking sheet triple lined with aluminum foil, apply dry brine mixture, and refrigerate for 24-48 hours.
 
@@ -36,7 +38,7 @@ Place turkey on a wire rack set in a baking sheet triple lined with aluminum foi
 
 ### Turkey stock
 
-> Makes about 3 quarts.
+> Makes about 3 quarts (before scaling down to 1 turkey?)
 
 Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer uncovered for 6-8 hours.
 
@@ -51,26 +53,6 @@ Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer unc
 - 6 **peppercorns**
 - 1 cloves **garlic**, peeled
 - 1 gallon **water**
-
-Strain through a fine mesh strainer, discarding solids. Cool immediately and refrigerate.
-
-### Chicken stock
-
-> Makes about 5 quarts - none of which is used in this combined recipe, yet!
-
-Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer uncovered for 6-8 hours.
-
-- 4 pounds **chicken scraps**, including necks, backs, and wings
-- 1 **onion**, quartered
-- 4 **carrots**, peeled and cut in 1/2
-- 4 ribs **celery**, cut in 1/2
-- 1 **leek**, white part only, cut in 1/2 lengthwise
-- 10 sprigs **thyme**
-- 10 sprigs **parsley** with stems
-- 2 **bay leaves**
-- 8 to 10 **peppercorns**
-- 2 cloves **garlic**, peeled
-- 2 gallons **water**
 
 Strain through a fine mesh strainer, discarding solids. Cool immediately and refrigerate.
 
