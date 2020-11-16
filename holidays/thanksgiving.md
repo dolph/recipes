@@ -1,8 +1,8 @@
 # Thanksgiving
 
 * [Combined recipe](thanksgiving-combined.md)
-* [First covid Thanksgiving](holidays/first-covid-thanksigiving-combined.md)
-* [Second covid Thanksgiving](holidays/second-covid-thanksigiving-combined.md)
+* [First covid Thanksgiving](first-covid-thanksigiving-combined.md)
+* [Second covid Thanksgiving](second-covid-thanksigiving-combined.md)
 
 ## Menu
 
