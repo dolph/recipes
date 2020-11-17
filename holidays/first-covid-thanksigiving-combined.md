@@ -1,6 +1,6 @@
 # Thanksgiving
 
-> Serves 15-20 people with plenty of leftovers.
+> Serves 10 people with plenty of leftovers.
 
 ## ~Tuesday
 
@@ -16,13 +16,13 @@ Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Frid
 
 Combine in a medium bowl:
 
-- 140 grams **kosher salt**
-- 48 grams whole **black peppercorns**, very finely ground
-- 48 grams whole **pink peppercorns**, very finely ground
-- 58 grams **garlic powder**
-- 24 grams **light brown sugar**
-- 12 grams **onion powder**
-- 12 grams **smoked paprika**
+- 2 tablespoons whole **black peppercorns**, very finely ground
+- 2 tablespoons whole **pink peppercorns**, very finely ground
+- 4.5 tablespoons **kosher salt**
+- 2 tablespoons **garlic powder**
+- 2 tablespoons **onion powder**
+- 1 tablespoon **smoked paprika**
+- 1 tablespoon **light brown sugar**
 
 Set aside.
 
@@ -30,7 +30,7 @@ Set aside.
 
 Separate turkey into leg quarters, wings, breasts (do not separate), and backbone.
 
-- 12-14 pound **turkey**, parted
+- Turkey, parted
 
 Place turkey on a wire rack set in a baking sheet triple lined with aluminum foil, apply dry brine mixture, and refrigerate for 24-48 hours.
 
@@ -42,7 +42,7 @@ Place turkey on a wire rack set in a baking sheet triple lined with aluminum foi
 
 Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer uncovered for 6-8 hours.
 
-- 2.5 pounds **turkey scraps**, including necks, backs, and wings
+- ~2.5 pounds **Turkey scraps**, including necks, backs, and wings
 - 1 **onion**, quartered
 - 2 **carrots**, peeled and cut in 1/2
 - 2 ribs **celery**, cut in 1/2
