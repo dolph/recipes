@@ -34,34 +34,14 @@ Place turkey on a wire rack set in a baking sheet triple lined with aluminum foi
 
 - **Dry brine** mixture
 
-### Turkey stock
-
-> Makes about 3 quarts (before scaling down to 1 turkey?)
-
-Combine in a large stock pot, bring to a boil, skim and discard foam. Simmer uncovered for 6-8 hours.
-
-- ~2.5 pounds **Turkey scraps**, including necks, backs, and wings
-- 1 **onion**, quartered
-- 2 **carrots**, peeled and cut in 1/2
-- 2 ribs **celery**, cut in 1/2
-- 1 **leek**, white part only, cut in 1/2 lengthwise
-- 6 sprigs **thyme**
-- 6 sprigs **parsley** with stems
-- 1 **bay leaves**
-- 6 **peppercorns**
-- 1 cloves **garlic**, peeled
-- 1 gallon **water**
-
-Strain through a fine mesh strainer, discarding solids. Cool immediately and refrigerate.
-
 ## Saturday
 
 ### Beurre manié
 
 Mash together in a small bowl with your fingers or a fork until homogenous:
 
-- 90 grams **flour**
-- 112 grams (8 tablespoons) **butter**, room temperature
+- 55 grams **flour**
+- 56 grams (4 tablespoons) **butter**, room temperature
 
 Set aside.
 
@@ -96,8 +76,8 @@ Remove skillet from oven and set on stovetop over medium-high heat. Add sherry a
 Transfer everything to a dutch oven, add stock and parsley, and bring to a low simmer over medium-high heat:
 
 - Roasted wings and aromatics
-- 3 quarts **turkey stock** (or chicken stock), warmed
-- **Parsley**
+- 3 quarts **chicken stock**, warmed
+- **Parsley**, including stems
 
 Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
 
@@ -243,8 +223,8 @@ Return to a gentle simmer, and whisk together:
 
 Remove from heat and whisk in:
 
-- 2.5 teaspoons **sherry vinegar** or **red wine vinegar**
-- 1.25 teaspoons **MSG**
+- 2 teaspoons **sherry vinegar** or **red wine vinegar**
+- 1 teaspoons **MSG**
 
 Season to taste:
 
