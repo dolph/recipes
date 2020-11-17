@@ -69,34 +69,34 @@ Set aside.
 
 Preheat oven to 450 F.
 
-Toss wings in a large roasting tray with oil until coated.
+Toss wings in a 15" skillet with oil until coated.
 
-- 6 pounds **turkey and/or chicken wings**, flats and drumettes separated
-- 4 tablespoons **olive oil**
+- 3 pounds **turkey and/or chicken wings**, flats and drumettes separated
+- 2 tablespoons **olive oil**
 
 Roast, tossing halfway through, until golden brown and starting to crisp (about 25–35 minutes).
 
 Remove wings from oven and add, tossing to coat with oil:
 
-- 4 heads of **garlic**, cut in half crosswise
-- 4 large **shallots**, unpeeled, halved
-- 2 4" piece **ginger**, scrubbed, thickly sliced
-- 8 ounces **crimini, shiitake, or white button mushrooms**, torn into large pieces
-- 16 grams **black peppercorns**, lightly crushed
-- 120 grams **olive oil**
+- 2 heads of **garlic**, cut in half crosswise
+- 2 large **shallots**, unpeeled, halved
+- 4" piece **ginger**, scrubbed, thickly sliced
+- 4 ounces **crimini, shiitake, or white button mushrooms**, torn into large pieces
+- 8 grams **black peppercorns**, lightly crushed
+- 60 grams **olive oil**
 
-Return to oven and roast, tossing halfway through, until wings are deeply browned and crisp and vegetables are browned (about 30–40 minutes).
+Return to oven and roast, tossing halfway through, until poultry is deeply browned and crisp and vegetables are browned (about 30–40 minutes).
 
 Remove skillet from oven and set on stovetop over medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes).
 
-- 240 grams (1 cup) **amontillado sherry**
+- 120 grams (1 cup) **amontillado sherry**
 
 ### Gravy
 
 Transfer everything to a dutch oven, add stock and parsley, and bring to a low simmer over medium-high heat:
 
 - Roasted wings and aromatics
-- 3 quarts **turkey stock**, warmed
+- 3 quarts **turkey stock** (or chicken stock), warmed
 - **Parsley**
 
 Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
