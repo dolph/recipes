@@ -12,8 +12,6 @@ Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Frid
 
 ### Dry brine
 
-> have not scaled this down to match change to 1 turkey
-
 Combine in a medium bowl:
 
 - 2 tablespoons whole **black peppercorns**, very finely ground
@@ -186,11 +184,11 @@ Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and 
 Cook in a small saucepan over medium heat, stirring occasionally, until sugar is dissolved and glaze thickens slightly (it should just barely coat a spoon, about 10-12 minutes).
 
 - Small handful of hardy herbs (such as sage, rosemary, bay leaves, and/or thyme)
-- 8 cloves **garlic**, crushed
-- Zest of 1 small **orange**, in strips
-- 160 grams (~1/3 cup) **soy sauce**
-- 160 grams (~1/3 cup) **red wine vinegar**
-- 140 grams (~1/3 cup) **brown sugar**
+- 4 cloves **garlic**, crushed
+- 2 2x1" strips **orange** zest
+- 80 grams (~1/3 cup) **soy sauce**
+- 80 grams (~1/3 cup) **red wine vinegar**
+- 70 grams (~1/3 cup) **brown sugar**
 
 Remove glaze from heat, discard solids, and refrigerate.
 
@@ -204,7 +202,7 @@ Place two racks distributed in middle of oven, with enough room for the breasts 
 
 Rub turkey:
 
-- 12 tablespoons **canola oil**
+- 6 tablespoons **canola oil**
 
 Pour into each baking sheet:
 
