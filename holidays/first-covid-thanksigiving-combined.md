@@ -121,7 +121,7 @@ Set potato mixture over medium heat and whisk until liquid is incorporated and p
 
 Cover and refrigerate.
 
-## Mashed potatoes topping
+#### Mashed potatoes topping
 
 Preheat oven to 350 F.
 
@@ -172,7 +172,7 @@ Cook in a small saucepan over medium heat, stirring occasionally, until sugar is
 
 Remove glaze from heat, discard solids, and refrigerate.
 
-## Thursday
+## Sunday
 
 ### Roast turkey
 
