@@ -61,7 +61,7 @@ Remove wings from oven and add, tossing to coat with oil:
 - 2 heads of **garlic**, cut in half crosswise
 - 2 large **shallots**, unpeeled, halved
 - 4" piece **ginger**, scrubbed, thickly sliced
-- 4 ounces **crimini, shiitake, or white button mushrooms**, torn into large pieces
+- 4 ounces **baby bella, shiitake, or white button mushrooms**, torn into large pieces
 - 8 grams **black peppercorns**, lightly crushed
 - 60 grams **olive oil**
 
