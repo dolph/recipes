@@ -69,13 +69,13 @@ Remove skillet from oven. Transfer solids to a 7-quart stock pot.
 
 Set skillet on stovetop over medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes).
 
-- 120 grams (1 cup) **amontillado sherry**
+- 60 grams (0.5 cup) **amontillado sherry**
 
 Transfer everything to a 7-quart stock pot, add stock and parsley, and bring to a low simmer over medium-high heat:
 
 - Roasted turkey parts and aromatics
 - Reserved organs
-- 3 quarts **chicken stock**, warmed
+- 1.5 quarts **chicken stock**, warmed
 - **Parsley**, including stems
 
 Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
@@ -90,7 +90,7 @@ Simmer, whisking often and skimming any foam from surface, until gravy is thick 
 
 Refrigerate.
 
-## Roast potatoes
+### Roast potatoes
 
 Preheat oven to 425 F. Place potatoes on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender (about 80–95 minutes) and internal temperature reaches 210 F.
 
@@ -120,7 +120,7 @@ Set potato mixture over medium heat and whisk until liquid is incorporated and p
 
 Cover and refrigerate.
 
-#### Mashed potatoes topping
+### Mashed potatoes topping
 
 Preheat oven to 350 F.
 
