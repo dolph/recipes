@@ -217,9 +217,12 @@ Transfer mashed potatoes to a large bowl and sprinkle topping over.
 
 ### Gravy
 
-**T-1.5h**: Return to a gentle simmer, and whisk together:
+**T-1.5h**: Return to a gentle simmer, cover, and hold until turkey comes out of the oven:
 
 - **Gravy**
+
+**T-1h**: Add and whisk to combine:
+
 - Turkey drippings
 
 Remove from heat and whisk in:
