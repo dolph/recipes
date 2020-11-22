@@ -26,11 +26,9 @@ Set aside.
 
 ### Dry brine turkey
 
-Separate turkey into leg quarters, wings, breasts (do not separate), and backbone.
+Separate turkey into leg quarters, breasts (do not separate), wings, and backbone. Reserve wings, backbone, neck, etc, for gravy.
 
-- Turkey, parted
-
-Place turkey on a wire rack set in a baking sheet triple lined with aluminum foil, apply dry brine mixture, and refrigerate for 24-48 hours.
+Place leg quarters and breasts on a wire rack set in a baking sheet triple lined with aluminum foil, apply dry brine mixture, and refrigerate for 24-48 hours.
 
 - **Dry brine** mixture
 
@@ -45,13 +43,13 @@ Mash together in a small bowl with your fingers or a fork until homogenous:
 
 Set aside.
 
-### Roast gravy parts
+### Gravy
 
 Preheat oven to 450 F.
 
-Toss wings in a 15" skillet with oil until coated.
+Toss wings, backbone, and neck in a 15" skillet with oil until coated.
 
-- 3 pounds **turkey and/or chicken wings**, flats and drumettes separated
+- 3 pounds reserved turkey parts (no organs), broken down into 1" pieces
 - 2 tablespoons **olive oil**
 
 Roast, tossing halfway through, until golden brown and starting to crisp (about 25–35 minutes).
@@ -67,15 +65,16 @@ Remove wings from oven and add, tossing to coat with oil:
 
 Return to oven and roast, tossing halfway through, until poultry is deeply browned and crisp and vegetables are browned (about 30–40 minutes).
 
-Remove skillet from oven and set on stovetop over medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes).
+Remove skillet from oven. Transfer solids to a 7-quart stock pot.
+
+Set skillet on stovetop over medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes).
 
 - 120 grams (1 cup) **amontillado sherry**
 
-### Gravy
+Transfer everything to a 7-quart stock pot, add stock and parsley, and bring to a low simmer over medium-high heat:
 
-Transfer everything to a dutch oven, add stock and parsley, and bring to a low simmer over medium-high heat:
-
-- Roasted wings and aromatics
+- Roasted turkey parts and aromatics
+- Reserved organs
 - 3 quarts **chicken stock**, warmed
 - **Parsley**, including stems
 
@@ -101,8 +100,8 @@ Preheat oven to 425 F. Place potatoes on a rimmed baking sheet or in a large bak
 
 Meanwhile, place in a large saucepan:
 
-- 350 grams (25 tablespoons) **butter**
-- 1 head of **garlic**, halved crosswise
+- 336 grams (24 tablespoons) **butter**
+- 1 large head of **garlic**, halved crosswise
 - 6 sprigs **thyme**
 - 10 grams **black peppercorns**, lightly crushed
 - 30 grams **kosher salt**
@@ -159,6 +158,8 @@ Meanwhile, combine in a small bowl:
 
 Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
 
+Store with a tight lid and refrigerate.
+
 ### Turkey glaze
 
 Cook in a small saucepan over medium heat, stirring occasionally, until sugar is dissolved and glaze thickens slightly (it should just barely coat a spoon, about 10-12 minutes).
@@ -176,9 +177,9 @@ Remove glaze from heat, discard solids, and refrigerate.
 
 ### Roast turkey
 
-Rest turkey at room temperature for 2 hours.
+**T-4.5h**: Rest turkey at room temperature for 2 hours.
 
-Place two racks distributed in middle of oven, with enough room for the breasts to fit on the bottom rack; preheat to 425 F.
+**T-2.5h**: Place two racks distributed in middle of oven, with enough room for the breasts to fit on the bottom rack; preheat to 425 F.
 
 Rub turkey:
 
@@ -190,17 +191,17 @@ Pour into each baking sheet:
 
 Roast turkey with the dark meat on the top rack, and the white meat on the bottom rack, rotating baking sheets halfway through, until skin is mostly golden brown (about 20-25 minutes).
 
-Reduce oven temperature to 300 F and continue to roast turkey, brushing with glaze every 20 minutes and adding more water as needed to maintain liquid in baking sheet, until the breast registers 150 F, and the thighs register 170 F, 50-70 minutes longer.
+**T-2h**: Reduce oven temperature to 300 F and continue to roast turkey, brushing with glaze every 20 minutes and adding more water as needed to maintain liquid in baking sheet, until the breast registers 150 F, and the thighs register 170 F, 50-70 minutes longer.
 
 - Turkey glaze, warmed
 
-Tent with foil and rest 30-60 minutes before carving.
+**T-1h**: Tent with foil and rest 30-60 minutes before carving.
 
 Reserve drippings for gravy.
 
 ### Mashed potatoes
 
-Reheat over medium, whisking constantly and loosening with more milk if needed:
+**T-1.5h**: Reheat over medium, whisking constantly and loosening with more milk if needed:
 
 - Mashed potatoes
 - **Milk**
@@ -216,7 +217,7 @@ Transfer mashed potatoes to a large bowl and sprinkle topping over.
 
 ### Gravy
 
-Return to a gentle simmer, and whisk together:
+**T-1.5h**: Return to a gentle simmer, and whisk together:
 
 - **Gravy**
 - Turkey drippings
@@ -224,7 +225,7 @@ Return to a gentle simmer, and whisk together:
 Remove from heat and whisk in:
 
 - 2 teaspoons **sherry vinegar** or **red wine vinegar**
-- 1 teaspoons **MSG**
+- 1 teaspoon **MSG**
 
 Season to taste:
 
