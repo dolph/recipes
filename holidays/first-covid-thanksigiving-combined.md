@@ -36,7 +36,7 @@ Place leg quarters and breasts on a wire rack set in a baking sheet triple lined
 
 ### Beurre manié
 
-Mash together in a small bowl with your fingers or a fork until homogenous:
+Mash together in a small bowl with fingers or a fork until homogenous:
 
 - 55 grams **flour**
 - 56 grams (4 tablespoons) **butter**, room temperature
