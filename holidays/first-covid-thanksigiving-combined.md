@@ -175,6 +175,19 @@ Remove glaze from heat, discard solids, and refrigerate.
 
 ## Sunday
 
+### Prep
+
+#### Flavor enhancing slurry
+
+Whisk together in a small bowl and set aside:
+
+- 2 teaspoons **sherry vinegar** or **red wine vinegar**
+- 1 teaspoon **MSG**
+
+#### Minced parsley
+
+- 1/3 cup minced **parsley**
+
 ### Roast turkey
 
 **T-4.5h**: Rest turkey at room temperature for 2 hours.
@@ -208,7 +221,7 @@ Reserve drippings for gravy.
 
 Add:
 
-- 1/3 cup chopped **parsley**
+- Minced parsley
 
 Transfer mashed potatoes to a large bowl and sprinkle topping over.
 
@@ -227,8 +240,7 @@ Transfer mashed potatoes to a large bowl and sprinkle topping over.
 
 Remove from heat and whisk in:
 
-- 2 teaspoons **sherry vinegar** or **red wine vinegar**
-- 1 teaspoon **MSG**
+- Flavor enhancing slurry
 
 Season to taste:
 
