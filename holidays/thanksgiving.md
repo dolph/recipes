@@ -37,6 +37,33 @@ Place leg quarters and breasts on a wire rack set in a baking sheet triple lined
 
 - **Dry brine** mixture
 
+### Cornbread
+
+Preheat oven to 400 F.
+
+Lightly grease a 13x9" baking dish:
+
+- **Canola oil**
+
+In a large bowl, whisk together:
+
+- 2 cups AP flour
+- 2 cups medium-grind **cornmeal**
+- 1/4 cup **sugar**
+- 1 tablespoon **baking powder**
+- 2.5 teaspoons **kosher salt**
+- 3/4 teaspoons **black pepper**
+
+In a medium bowl, whisk together:
+
+- 4 **eggs**
+- 2 cups **buttermilk**
+- 8 tablespoons (1 stick) **unsalted butter**, melted, slightly cooled
+
+Make a well in the dry ingredients and pour in the wet mixture; stir into dry ingredients with a wooden spoon until combined. Scrape batter into prepared pan and smooth top.
+
+Bake cornbread, rotating dish halfway through, until a tester inserted into the center comes out clean (~20–25 minutes). Let cornbread cool slightly in dish, then cut crosswise into 4 large pieces. Transfer to a wire rack and let cool completely.
+
 ### Stuffing
 
 - 3 pounds **cornbread**, cut into 3/4" pieces
