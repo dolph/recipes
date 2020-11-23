@@ -58,21 +58,69 @@ Bake cornbread, rotating dish halfway through, until a tester inserted into the 
 
 ### Stuffing
 
+Preheat oven to 325 F.
+
+Divide cornbread evenly between 2 large rimmed baking sheets and bake, tossing occasionally, until dried out and lightly browned around the edges (40–50 minutes).
+
 - 3 pounds **cornbread**, cut into 3/4" pieces
+
+Let cool at least 10 minutes. Increase oven temperature to 350 F.
+
+Meanwhile, cook in a large skillet over medium-high heat, stirring and breaking up with a spoon, until lightly browned and cooked through (6–8 minutes).
+
 - 1.5 pounds **breakfast sausage**, casings removed
+
+Transfer to a plate.
+
+Reduce heat to medium and melt:
+
 - 16 tablespoons (2 sticks) **butter**
+
+Add and season:
+
 - 2 medium **onions**, chopped
 - 4 stalks **celery**, chopped
 - Kosher salt
+
+Cook, stirring occasionally, until softened but not browned (8–10 minutes).
+
+Add and cook, stirring once, until very fragrant (~1 minute).
+
 - 3 cloves **garlic**, finely chopped
 - 1 **jalapeño** (with seeds), chopped
+
+Add and cook, stirring often, until very fragrant and vegetables are starting to brown around the edges (~3 minutes).
+
 - 3/4 cup **corn nuts**, finely ground
+
+Add and cook, stirring occasionally, until almost completely evaporated (~3 minutes).
+
 - 3/4 cup dry **white wine**
+
+Add and toss to combine:
+
 - 1 tablespoon finely chopped **sage**
 - 2 teaspoons finely chopped **thyme**
+
+Remove from heat.
+
+In a large bowl, combine cornbread, sausage, and vegetable mixture.
+
+In a medium bowl, whisk together until very well combined:
+
 - 3 **eggs**
 - 3.5 cups **low sodium chicken broth**
+
+Pour liquid mixture over cornbread mixture and let sit, gently stirring every minute or so, until cornbread has absorbed all or virtually all of the liquid. Season:
+
+- 1.5 teaspoons **kosher salt**
 - **Black pepper**
+
+Lightly grease a 3-quart or 13x9 baking dish. Transfer stuffing to dish and tap dish lightly against counter to distribute and compact stuffing.
+
+Cover tightly with foil and bake until stuffing is very hot throughout and bubbles appear around sides (40–45 minutes).
+
+Let cool, then chill.
 
 ## Tuesday
 
@@ -262,6 +310,14 @@ Roast turkey with the dark meat on the top rack, and the white meat on the botto
 **T-1h**: Tent with foil and rest 30-60 minutes before carving.
 
 Reserve drippings for gravy.
+
+### Stuffing
+
+**T-1.5h**: Reheat in a 300 F oven to 160 F:
+
+- Stuffing
+
+Remove foil, and move to highest rack in the oven until top is lightly browned (15-20 minutes). A 425 F oven or quick broil at the end will speed the process.
 
 ### Mashed potatoes
 
