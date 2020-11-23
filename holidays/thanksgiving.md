@@ -47,7 +47,7 @@ Lightly grease a 13x9" baking dish:
 
 In a large bowl, whisk together:
 
-- 2 cups AP flour
+- 2 cups **AP flour**
 - 2 cups medium-grind **cornmeal**
 - 1/4 cup **sugar**
 - 1 tablespoon **baking powder**
