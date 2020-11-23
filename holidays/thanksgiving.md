@@ -47,8 +47,8 @@ Place leg quarters and breasts on a wire rack set in a baking sheet triple lined
 - Kosher salt
 - 3 cloves **garlic**, finely chopped
 - 1 **jalapeño** (with seeds), chopped
-- 0.75 cup **corn nuts**, finely ground
-- 0.75 cup dry **white wine**
+- 3/4 cup **corn nuts**, finely ground
+- 3/4 cup dry **white wine**
 - 1 tablespoon finely chopped **sage**
 - 2 teaspoons finely chopped **thyme**
 - 3 **eggs**
