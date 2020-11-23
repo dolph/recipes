@@ -7,13 +7,11 @@
 * **Stuffing**: Bon Appétit's [Cornbread Stuffing With Sausage and Corn Nuts](https://www.bonappetit.com/recipe/cornbread-stuffing-with-sausage-and-corn-nuts)
 * **Mashed potatoes**: Bon Appétit's [Mashed Potatoes With Crispety Cruncheties](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
 
-## ~Tuesday
+## Friday/Saturday
 
-Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Friday):
+Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Tuesday):
 
 - 12-14 pound **whole turkey**
-
-## Friday
 
 ### Dry brine
 
@@ -29,13 +27,7 @@ Combine in a medium bowl:
 
 Set aside.
 
-### Dry brine turkey
-
-Separate turkey into leg quarters, breasts (do not separate), wings, and backbone. Reserve wings, backbone, neck, etc, for gravy.
-
-Place leg quarters and breasts on a wire rack set in a baking sheet triple lined with aluminum foil, apply dry brine mixture, and refrigerate for 24-48 hours.
-
-- **Dry brine** mixture
+## Sunday
 
 ### Cornbread
 
@@ -82,7 +74,16 @@ Bake cornbread, rotating dish halfway through, until a tester inserted into the 
 - 3.5 cups **low sodium chicken broth**
 - **Black pepper**
 
-## Saturday
+## Tuesday
+
+### Dry brine turkey
+
+Separate turkey into leg quarters, breasts (do not separate), wings, and backbone. Reserve wings, backbone, neck, etc, for gravy. Place leg quarters and breasts on a wire rack set in a baking sheet triple lined with aluminum foil, apply dry brine mixture, and refrigerate for 24-48 hours.
+
+- **Turkey**
+- **Dry brine** mixture
+
+## Wednesday
 
 ### Beurre manié
 
@@ -223,7 +224,7 @@ Cook in a small saucepan over medium heat, stirring occasionally, until sugar is
 
 Remove glaze from heat, discard solids, and refrigerate.
 
-## Sunday
+## Thursday
 
 ### Prep
 
