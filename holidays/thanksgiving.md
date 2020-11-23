@@ -37,6 +37,24 @@ Place leg quarters and breasts on a wire rack set in a baking sheet triple lined
 
 - **Dry brine** mixture
 
+### Stuffing
+
+- 3 pounds **cornbread**, cut into 3/4" pieces
+- 1.5 pounds **breakfast sausage**, casings removed
+- 16 tablespoons (2 sticks) **butter**
+- 2 medium **onions**, chopped
+- 4 stalks **celery**, chopped
+- Kosher salt
+- 3 cloves **garlic**, finely chopped
+- 1 **jalapeño** (with seeds), chopped
+- 0.75 cup **corn nuts**, finely ground
+- 0.75 cup dry **white wine**
+- 1 tablespoon finely chopped **sage**
+- 2 teaspoons finely chopped **thyme**
+- 3 **eggs**
+- 3.5 cups **low sodium chicken broth**
+- **Black pepper**
+
 ## Saturday
 
 ### Beurre manié
