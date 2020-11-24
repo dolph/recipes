@@ -76,7 +76,7 @@ Reduce heat to medium and melt:
 
 - 16 tablespoons (2 sticks) **butter**
 
-Add and cook, stirring occasionally, until softened but not browned (8–10 minutes):
+Add and cook, stirring occasionally, until softened but not browned (~15 minutes):
 
 - 2 medium **onions**, blended
 - 4 stalks **celery**, blended
