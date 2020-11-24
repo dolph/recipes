@@ -60,13 +60,13 @@ Bake cornbread, rotating dish halfway through, until a tester inserted into the 
 
 Preheat oven to 325 F.
 
-Divide cornbread evenly between 2 large rimmed baking sheets and bake, tossing occasionally, until dried out and lightly browned around the edges (40–50 minutes).
+Divide cornbread evenly between 2 large rimmed baking sheets and bake, tossing occasionally, until dried out and lightly browned around the edges (40–50 minutes):
 
 - 3 pounds **cornbread**, cut into 3/4" pieces
 
 Let cool at least 10 minutes. Increase oven temperature to 350 F.
 
-Meanwhile, cook in a large skillet over medium-high heat, stirring and breaking up with a spoon, until lightly browned and cooked through (6–8 minutes).
+Meanwhile, cook in a large skillet over medium-high heat, stirring and breaking up with a spoon, until lightly browned and cooked through (6–8 minutes):
 
 - 1.5 pounds **breakfast sausage**, casings removed
 
@@ -76,24 +76,22 @@ Reduce heat to medium and melt:
 
 - 16 tablespoons (2 sticks) **butter**
 
-Add and season:
+Add and cook, stirring occasionally, until softened but not browned (8–10 minutes):
 
-- 2 medium **onions**, chopped
-- 4 stalks **celery**, chopped
+- 2 medium **onions**, blended
+- 4 stalks **celery**, blended
+- 1 **jalapeño** (with seeds), blended
 - Kosher salt
 
-Cook, stirring occasionally, until softened but not browned (8–10 minutes).
-
-Add and cook, stirring once, until very fragrant (~1 minute).
+Add and cook, stirring once, until very fragrant (~1 minute):
 
 - 3 cloves **garlic**, finely chopped
-- 1 **jalapeño** (with seeds), chopped
 
-Add and cook, stirring often, until very fragrant and vegetables are starting to brown around the edges (~3 minutes).
+Add and cook, stirring often, until very fragrant and vegetables are starting to brown around the edges (~3 minutes):
 
 - 3/4 cup **corn nuts**, finely ground
 
-Add and cook, stirring occasionally, until almost completely evaporated (~3 minutes).
+Add and cook, stirring occasionally, until almost completely evaporated (~3 minutes):
 
 - 3/4 cup dry **white wine**
 
