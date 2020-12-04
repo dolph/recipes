@@ -17,9 +17,9 @@ Combine one of the following marinades in a zip-top bag.
 
 **Rosemary**:
 
-- 1/2 cup soy sauce
-- 1/2 cup olive oil
-- 1/4 cup honey
+- 120 grams (~1/2 cup) soy sauce
+- 90 grams (~1/2 cup) olive oil
+- 60 grams (~1/4 cup) honey
 - 6 large garlic cloves, minced
 - 3 tablespoons chopped fresh rosemary (or 1 tablespoon dried)
 
