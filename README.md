@@ -49,6 +49,7 @@
 - [Brisket chili](one-pot/brisket-chili.md)
 - [Chicken and dumplings](one-pot/chicken-and-dumplings.md)
 - [Chili](one-pot/chili.md) ★
+- [Cioppino](seafood/cioppino.md)
 - [Clam & scallop stew](seafood/mussel-and-scallop-stew.md) (mussels?)
 - [Croatian mussels](seafood/croatian-mussels.md)
 - [Fish stew](seafood/fish-stew.md)
