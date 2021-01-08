@@ -3,13 +3,13 @@
 In a Dutch oven or 6 quart pot, cook over medium heat until softened:
 
 * 3 tablespoons **olive oil**
-* 1 **fennelP bulb, white parts only, thinly sliced
-* 1 **leekP, white parts only, thinly sliced
+* 1 **fennel** bulb, white parts only, thinly sliced
+* 1 **leek**, white parts only, thinly sliced
 * 2 large **shallot**, thinly sliced
 
 Add, and cook until broken down and fragrant (about 1 minute):
 
-* 5 cloves **garlicP, minced
+* 5 cloves **garlic**, minced
 * 1 tablespoon **tomato paste**
 * 1 teaspoon **anchovy paste**
 
