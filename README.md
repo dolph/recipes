@@ -16,6 +16,7 @@
 ## Sandwiches
 
 - [Chicken salad](sandwiches/chicken-salad.md)
+- [Cuban](sandwiches/cuban.md)
 - [Crab salad](seafood/crab-salad.md)
 - [Egg salad](sandwiches/egg-salad.md)
 - [Meatball sub](sandwiches/meatball-sub.md)
