@@ -18,6 +18,7 @@
 - [Chicken salad](sandwiches/chicken-salad.md)
 - [Crab salad](seafood/crab-salad.md)
 - [Egg salad](sandwiches/egg-salad.md)
+- [Meatball sub](sandwiches/meatball-sub.md)
 - [Tuna salad](sandwiches/tuna-salad.md)
 
 ## Appetizers
