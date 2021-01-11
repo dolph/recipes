@@ -13,12 +13,12 @@
 - [Cinnamon rolls](breakfast/cinnamon-rolls.md)
 - [Lemon poppy seed pound cake](breakfast/lemon-poppy-pound-cake.md)
 
-## Lunch
+## Sandwiches
 
-- [Chicken salad](lunch/chicken-salad.md)
+- [Chicken salad](sandwiches/chicken-salad.md)
 - [Crab salad](seafood/crab-salad.md)
-- [Egg salad](lunch/egg-salad.md)
-- [Tuna salad](lunch/tuna-salad.md)
+- [Egg salad](sandwiches/egg-salad.md)
+- [Tuna salad](sandwiches/tuna-salad.md)
 
 ## Appetizers
 
