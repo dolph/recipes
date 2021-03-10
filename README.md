@@ -2,7 +2,7 @@
 
 ## Breakfast
 
-- [Breakfast ramen](breakfast/breakfast-ramen.md)
+- [Breakfast ramen](breakfast/breakfast-ramen.md) ★
 - [Carne guisada](one-pot/carne-guisada.md) ★
 - [Chilaquiles](breakfast/chilaquiles.md)
 - [French toast](breakfast/french-toast.md)
