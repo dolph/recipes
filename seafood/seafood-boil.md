@@ -28,7 +28,7 @@ Fill a 40-quart stock pot with water to half full, cover, and bring to a boil (~
 
 Meanwhile, rinse in a cooler until water runs clear:
 
-- 10 pounds **live crawfish**
+- 15 pounds **live crawfish**
 
 Once the seasoned water comes to a boil, add, and cook for 10 minutes:
 
