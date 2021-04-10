@@ -37,6 +37,7 @@ Once the seasoned water comes to a boil, add, and cook for 10 minutes:
 - 1 pound **green beans**, French-cut
 - 2 heads **garlic**, unpeeled, but separated
 - 1 pound **andouille sausage**, cut into 1-inch pieces
+- 5 pounds **shrimp**, unpeeled
 
 Add, bring to a boil, cook for 3 minutes, and allow the pot to sit for 25 minutes:
 
