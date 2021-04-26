@@ -1,8 +1,6 @@
-Salsa
-=====
+# Salsa
 
-Roasted
--------
+## Roasted
 
 Blacken:
 
@@ -21,19 +19,25 @@ Combine in a blender at medium-high speed until smooth:
 
 If necessary, add water until fluid.
 
-Verde
------
+## Verde
 
-> Makes about 1 quart.
+> Makes about 1.5 cups.
 
 Combine in a blender at medium-high speed until smooth:
 
-- 1 pound fresh **tomatillos**, husked and rinsed
-- 1 small (200 grams) **white onion**, quartered
+- 2 **tomatillos**, husked and rinsed
+- 1 small (200 grams) **shallot**
 - 1 clove of **garlic**
-- 3 **serrano chiles**, seeded
-- 1/4 cup (10 grams) **cilantro** leaves
+- 1 **anaheim chile**, seeded
+- 1 **serrano chile**, seeded
+- 1 **jalapeno chile**, seeded
+- 1 tablespoon **olive oil**
 - 1/4 cup (60 grams) **lime juice**
+- 1 tablespoon **white vinegar**
 - 1 teaspoon kosher salt
+
+Add, and pulse until thoroughly chopped and combined:
+
+- 1/4 cup (10 grams) **cilantro** leaves
 
 If necessary, add water until fluid.
