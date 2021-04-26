@@ -32,8 +32,7 @@ Combine in a blender at medium-high speed until smooth:
 - 1 **serrano chile**, seeded
 - 1 **jalapeno chile**, seeded
 - 1 tablespoon **olive oil**
-- 1/4 cup (60 grams) **lime juice**
-- 1 tablespoon **white vinegar**
+- 1 tablespoon **lime juice** or **white vinegar**
 - 1 teaspoon kosher salt
 
 Add, and pulse until thoroughly chopped and combined:
