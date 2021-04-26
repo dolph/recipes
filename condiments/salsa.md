@@ -26,7 +26,7 @@ If necessary, add water until fluid.
 Combine in a blender at medium-high speed until smooth:
 
 - 2 **tomatillos**, husked and rinsed
-- 1 small (200 grams) **shallot**
+- 1 small **shallot**
 - 1 clove of **garlic**
 - 1 **anaheim chile**, seeded
 - 1 **serrano chile**, seeded
