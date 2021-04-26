@@ -23,7 +23,7 @@ If necessary, add water until fluid.
 
 > Makes about 1.5 cups.
 
-Combine in a blender at medium-high speed until smooth:
+Combine in a blender at high speed until smooth (if necessary, add water until fluid):
 
 - 2 **tomatillos**, husked and rinsed
 - 1 small **shallot**
@@ -38,5 +38,3 @@ Combine in a blender at medium-high speed until smooth:
 Add, and pulse until thoroughly chopped and combined:
 
 - 1/4 cup (10 grams) **cilantro** leaves
-
-If necessary, add water until fluid.
