@@ -1,9 +1,10 @@
-Queso dip
-=========
+# Queso dip
 
 Saute:
 
 - 4 ounces **fresh chorizo**, casings removed, crumbled
+
+> TODO: replace this with a sodium citrate
 
 Blonde roux:
 
