@@ -1,6 +1,6 @@
 # Chicken wings
 
-> Related: [Korean fried chicken wings](korean-fried-chicken-wings.md)
+> Related: [Korean fried chicken wings](../korean-fried-chicken-wings.md)
 
 ## Roasted
 
