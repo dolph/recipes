@@ -1,10 +1,8 @@
-Chicken wings
-=============
+# Chicken wings
 
 > Related: [Korean fried chicken wings](korean-fried-chicken-wings.md)
 
-Baked
------
+## Roasted
 
 1. Preheat oven to 425 F.
 2. Prep a sheet pan, lined with foil, with an oiled cooling rack.
@@ -16,28 +14,33 @@ Baked
 7. Broil both sides until golden brown.
 8. Toss to coat with sauce.
 
-Deep fried
-----------
+## Deep fried
 
 Deep fry in 375 F pure/unrefined peanut oil until lightly browned (approximately 10-12 minutes, depending on the recovery time of the oil).
 
 Remove wings from deep fryer, allow to drip dry for 1 minute, and toss to coat in the sauce. Serve immediately.
 
-Buffalo sauce
--------------
+## Buffalo sauce
 
-Whisking constantly, simmer until thickened (5 minutes):
+Heat over low heat until fragrant:
 
-- 2 tablespoons butter
-- 60 milliliters (4 tablespoons) hot sauce
-- 5 milliliters (1 teaspoon) Worcestershire
-- 1 teaspoon garlic powder
-- 1 teaspoon onion powder
-- 1/2 teaspoon cayenne pepper
-- 1/2 teaspoon kosher salt
+- 2 tablespoons **butter**
+- 2 cloves **garlic**, minced
 
-Lemon pepper sauce
-------------------
+Immediately add, and bring to a gentle simmer:
+
+- 60 milliliters (4 tablespoons) **hot sauce**
+
+Season:
+
+- 1/4 teaspoon **kosher salt**
+- 1/4 teaspoon **MSG**
+
+Turn off heat, and allow to cool until no longer steaming. Whisk in:
+
+- 2 tablespoons **plain greek yogurt**
+
+## Lemon pepper sauce
 
 - Zest and juice of 1 lemon
 - 2 tablespoons butter
