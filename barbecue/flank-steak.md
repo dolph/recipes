@@ -56,4 +56,4 @@ In a hot cast iron pan, on a grill, or under a broiler, cook on both sides, flip
 
 - 2 tablespoons vegetable oil
 
-Cover the steak with foil, allowing it to rest until it reaches 130 F.
+Cover the steak with foil, allowing it to rest until it returns to 130 F.
