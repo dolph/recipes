@@ -6,15 +6,6 @@ Marinade
 
 Combine one of the following marinades in a zip-top bag.
 
-**Cilantro**:
-
-- 1/2 cup packed fresh cilantro leaves, minced
-- 3 medium scallions, minced
-- 3 medium garlic cloves, minced
-- 1/2 teaspoon ground cumin
-- 1/4 cup vegetable oil
-- 1 tablespoon lime juice
-
 **Rosemary**:
 
 - 120 grams (~1/2 cup) soy sauce
