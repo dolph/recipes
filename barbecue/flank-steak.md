@@ -8,9 +8,12 @@ Combine one of the following marinades in a zip-top bag.
 
 **Rosemary**:
 
+Combine in a blender on high speed:
+
 - 120 grams (~1/2 cup) soy sauce
 - 90 grams (~1/2 cup) olive oil
 - 60 grams (~1/4 cup) honey
+- 5 green onions, roots removed
 - 6 large garlic cloves, minced
 - 3 tablespoons chopped fresh rosemary (or 1 tablespoon dried)
 
