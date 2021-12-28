@@ -92,6 +92,7 @@
 
 ## Grilled
 
+- [Chicken marinades](barbecue/chicken-marinades.md)
 - [Beef bulgogi](barbecue/bulgogi.md)
 - [Chicken fajitas](barbecue/chicken-fajitas.md) ★
 - [Corn](sides/grilled-corn.md)
