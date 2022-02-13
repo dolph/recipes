@@ -1,4 +1,4 @@
- # Beef stroganoff
+# Beef stroganoff
 
 Season, and brown in a large skillet or dutch oven over medium-high heat:
 
