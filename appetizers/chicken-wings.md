@@ -5,14 +5,14 @@
 ## Roasted
 
 1. Preheat oven to 425 F.
-2. Prep a sheet pan, lined with foil, with an oiled cooling rack.
-2. Dry wings thoroughly.
-3. Lightly coat wings with Canola oil.
-4. Season liberally with a 1:1 salt & pepper blend.
-5. Bake them to 140 F, and flip them.
-6. Bake to 155 F, and switch to the broiler on high.
-7. Broil both sides until golden brown.
-8. Toss to coat with sauce.
+1. Prep a sheet pan, lined with foil, with an oiled cooling rack.
+1. Dry wings thoroughly.
+1. Lightly coat wings with Canola oil.
+1. Season liberally with a 1:1 salt & pepper blend.
+1. Bake them to 140 F, and flip them.
+1. Bake to 155 F, and switch to the broiler on high.
+1. Broil both sides until golden brown.
+1. Toss to coat with sauce.
 
 ## Deep fried
 
