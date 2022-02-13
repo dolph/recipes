@@ -1,10 +1,8 @@
+# Italian sub
+
 ![Italian sub](https://i.imgur.com/WU9q4Rh.jpg)
 
-Italian sub
-===========
-
-Dressing
---------
+## Dressing
 
 In a squirt bottle, shake to combine:
 
@@ -17,8 +15,7 @@ Season:
 - Black pepper
 - Kosher salt
 
-Composition
------------
+## Composition
 
 Layer crunchy, to fatty, to spicy, from bottom to top:
 
