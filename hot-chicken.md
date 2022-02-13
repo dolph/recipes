@@ -1,12 +1,8 @@
-> Untested.
-
-Nashville hot chicken
-=====================
+# Nashville hot chicken
 
 > Based on Bon Appétit's [Nashville-style hot chicken](http://www.bonappetit.com/recipe/nashville-style-hot-chicken).
 
-Season
-------
+## Season
 
 Season, cover, and chill 3-24 hours:
 
@@ -14,8 +10,7 @@ Season, cover, and chill 3-24 hours:
 - Freshly ground black pepper
 - Kosher salt
 
-Buttermilk mixture
-------------------
+## Buttermilk mixture
 
 Whisk together in a large bowl:
 
@@ -23,16 +18,14 @@ Whisk together in a large bowl:
 - 1 cups **buttermilk** (or **whole milk**)
 - 2 tablespoons vinegar-based **hot sauce**
 
-Flour mixture
--------------
+## Flour mixture
 
 In a second large bowl, whisk together:
 
 - 2 cups **flour**
 - 2 teaspoons kosher salt
 
-Spice mixture
--------------
+## Spice mixture
 
 Whisk together in a medium bowl:
 
@@ -42,8 +35,7 @@ Whisk together in a medium bowl:
 - 1/2 teaspoon **garlic powder**
 - 1/2 teaspoon **paprika**
 
-Frying
-------
+## Frying
 
 Preheat a dutch oven to 325 F:
 
