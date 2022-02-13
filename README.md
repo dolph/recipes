@@ -26,6 +26,7 @@
 ## Appetizers
 
 - [Brussels sprouts](appetizers/brussels-sprouts.md) ★
+- [Buffalo chicken dip](appetizers/buffalo-dip.md) *
 - [Bunny rabbit ears](appetizers/bunny-rabbit-ears.md)
 - [Caesar salad](appetizers/ceasar-salad.md)
 - [Chicken wings](appetizers/chicken-wings.md) (and buffalo sauce and lemon pepper sauce)
