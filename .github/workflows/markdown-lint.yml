@@ -1,0 +1,12 @@
+jobs:
+  lint:
+    name: Markdown linting
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    - name: Lint
+      uses: avto-dev/markdown-lint@v1
+      with:
+        args: .
