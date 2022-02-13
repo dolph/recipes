@@ -1,8 +1,7 @@
+# Pasta carbonara
+
 ![Pasta carbonara](https://i.imgur.com/K1G6Gao.jpg)
 ![Plain pasta carbonara](https://i.imgur.com/j4WpFM0.jpg)
-
-Pasta carbonara
-===============
 
 > Serves 2.
 

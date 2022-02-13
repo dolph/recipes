@@ -1,12 +1,10 @@
-Baked ziti
-==========
+# Baked ziti
 
 > Makes 8-10 servings.
 
 > Total time: 2 hours
 
-Pasta
------
+## Pasta
 
 Cook pasta until not quite al dente and drain:
 
@@ -14,8 +12,7 @@ Cook pasta until not quite al dente and drain:
 
 Transfer to a large mixing bowl.
 
-Meat sauce
-----------
+## Meat sauce
 
 In a pot over medium heat, saute until the onions soften:
 
@@ -54,8 +51,7 @@ Season to taste.
 
 Set aside meat sauce.
 
-Cheese sauce
-------------
+## Cheese sauce
 
 In the large mixing bowl with the pasta, gently mix together (leave clumps):
 
@@ -66,10 +62,9 @@ In the large mixing bowl with the pasta, gently mix together (leave clumps):
 - 1 **egg**
 - Salt & pepper
 
-Set aside in the refrigerator. 
+Set aside in the refrigerator.
 
-Composition
------------
+## Composition
 
 In a large casserole dish, layer together (from bottom to top):
 

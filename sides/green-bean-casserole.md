@@ -1,6 +1,6 @@
 # Green bean casserole
 
-Set oven rack to lower-middle position and preheat oven to 350 F. 
+Set oven rack to lower-middle position and preheat oven to 350 F.
 
 ## Shallots
 

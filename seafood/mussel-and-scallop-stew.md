@@ -1,6 +1,4 @@
-Clam & scallop stew
-===================
-
+# Clam & scallop stew
 
 Bring to a boil in a large pot, cover, and reduce heat to low until mussels open, shaking often (~5 minutes):
 

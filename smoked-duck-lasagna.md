@@ -1,12 +1,10 @@
-> Untested.
+# Smoked duck lasagna
 
-Smoked duck lasagna
-===================
+> Untested.
 
 > This is an attempt to [recreate the dish by Chef Matt Abdoo at Pig Bleecker](https://www.youtube.com/watch?v=NhYPEXiZv4Y).
 
-Smoked duck
------------
+## Smoked duck
 
 In a 9x9 roasting pan, season:
 
@@ -20,13 +18,11 @@ Cover completely with:
 
 Smoke 3-3.5 hours, until the meat is falling off the bone.
 
-Bechemel
---------
+## Bechemel
 
 Make 2 cups and set aside in a squirt bottle.
 
-Sauce
------
+## Sauce
 
 Start a soffritto until lightly browned:
 
@@ -44,8 +40,7 @@ Add:
 
 - Smoked duck meat
 
-Composition
------------
+## Composition
 
 On a sheet pan lined with parchment paper, lay down a foundation:
 

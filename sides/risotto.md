@@ -1,8 +1,6 @@
-Risotto
-=======
+# Risotto
 
-Broth
------
+## Broth
 
 In a medium saucepan over medium-high heat, bring to a boil, then reduce heat to medium-low, and simmer for 15 minutes.
 
@@ -15,8 +13,7 @@ In a medium saucepan over medium-high heat, bring to a boil, then reduce heat to
 
 Strain liquid and discard herb bundle. Keep liquid warm over low heat.
 
-Risotto
--------
+## Risotto
 
 Melt in a large saucepan over medium heat, and cook onions until softened (~9 minutes):
 

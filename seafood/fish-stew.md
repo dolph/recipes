@@ -1,5 +1,4 @@
-Fish stew
-=========
+# Fish stew
 
 > This is basically a simplified Cioppino.
 

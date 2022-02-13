@@ -1,10 +1,8 @@
-Cuban sandwiches
-================
+# Cuban sandwiches
 
 > Original recipe is from the movie [Chef](http://www.imdb.com/title/tt2883512/) by Jon Favrau, [as posted to Reddit](https://www.reddit.com/r/food/comments/44t67p/im_jon_favreau_and_these_are_cuban_sandwiches_i/czsrjx1/).
 
-Pork shoulder
--------------
+## Pork shoulder
 
 > This is WAY too long for meat to sit in acid. Either shorten the marinade to just a couple hours, or cut the acids.
 
@@ -54,8 +52,7 @@ Rest to 140 F.
 
 Refridgerate if time allows.
 
-Sandwiches
-----------
+## Sandwiches
 
 Butter inside of baguette and toast until golden brown:
 

@@ -1,11 +1,10 @@
-Salt & pepper mussels
-=====================
+# Salt & pepper mussels
 
 > Serves 2.
 
 > The salt here comes entirely from the parmesean and the pasta water. Be heavy handed with both!
 
-<img src="https://pbs.twimg.com/media/Cinwya_VAAAZUR0.jpg:large" alt="Salt & pepper mussels" width="50%" />
+![Salt & pepper mussels](https://pbs.twimg.com/media/Cinwya_VAAAZUR0.jpg:large)
 
 Start the pasta:
 
