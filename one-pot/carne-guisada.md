@@ -1,7 +1,6 @@
-![Carne guisada](http://i.imgur.com/P46dSy0.jpg)
+# Carne guisada
 
-Carne guisada
-=============
+![Carne guisada](http://i.imgur.com/P46dSy0.jpg)
 
 > Total time: 5 hours
 
