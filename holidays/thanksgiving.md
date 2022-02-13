@@ -2,10 +2,10 @@
 
 > Serves 10 people with plenty of leftovers.
 
-* **Turkey**: Bon Appétit's [Expertly Spiced and Glazed Roast Turkey](https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey)
-* **Gravy**: Bon Appétit's [Why-Is-It-So-Good Gravy](https://www.bonappetit.com/recipe/why-is-it-so-good-gravy)
-* **Stuffing**: Bon Appétit's [Cornbread Stuffing With Sausage and Corn Nuts](https://www.bonappetit.com/recipe/cornbread-stuffing-with-sausage-and-corn-nuts)
-* **Mashed potatoes**: Bon Appétit's [Mashed Potatoes With Crispety Cruncheties](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
+- **Turkey**: Bon Appétit's [Expertly Spiced and Glazed Roast Turkey](https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey)
+- **Gravy**: Bon Appétit's [Why-Is-It-So-Good Gravy](https://www.bonappetit.com/recipe/why-is-it-so-good-gravy)
+- **Stuffing**: Bon Appétit's [Cornbread Stuffing With Sausage and Corn Nuts](https://www.bonappetit.com/recipe/cornbread-stuffing-with-sausage-and-corn-nuts)
+- **Mashed potatoes**: Bon Appétit's [Mashed Potatoes With Crispety Cruncheties](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
 
 ## Friday/Saturday
 
