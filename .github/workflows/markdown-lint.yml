@@ -1,6 +1,16 @@
+name: Lint
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    branches:
+    - main
+
 jobs:
   lint:
-    name: Markdown linting
+    name: Lint Markdown
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repo
