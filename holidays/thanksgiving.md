@@ -309,7 +309,7 @@ Roast turkey with the dark meat on the top rack, and the white meat on the botto
 
 Reserve drippings for gravy.
 
-### Stuffing
+### Finish stuffing
 
 **T-1.5h**: Reheat in a 300 F oven to 160 F:
 
@@ -317,7 +317,7 @@ Reserve drippings for gravy.
 
 Remove foil, and move to highest rack in the oven until top is lightly browned (15-20 minutes). A 425 F oven or quick broil at the end will speed the process.
 
-### Mashed potatoes
+### Finish mashed potatoes
 
 **T-1.5h**: Reheat over medium, whisking constantly and loosening with more milk if needed:
 
@@ -333,7 +333,7 @@ Transfer mashed potatoes to a large bowl and sprinkle topping over.
 - Mashed potatoes
 - Mashed potatoes topping
 
-### Gravy
+### Finish gravy
 
 **T-1.5h**: Return to a gentle simmer, cover, and hold until turkey comes out of the oven:
 
