@@ -1,12 +1,10 @@
-![General Tso's chicken](https://pbs.twimg.com/media/C7EgpQ_VsAAyvuA.jpg)
+# General Tso's chicken
 
-General Tso's chicken
-=====================
+![General Tso's chicken](https://pbs.twimg.com/media/C7EgpQ_VsAAyvuA.jpg)
 
 > Needs to be spicier, and could use more depth of flavor.
 
-Sauce
------
+## Sauce
 
 Combine in a small bowl:
 
@@ -18,8 +16,7 @@ Combine in a small bowl:
 - 1 tablespoon **rice vinegar**
 - 3 tablespoons **chicken stock** (or water)
 
-Chicken
--------
+## Chicken
 
 Combine in a large bowl:
 
@@ -35,8 +32,7 @@ Add (use extra oil to avoid clumps):
 
 Set aside to marinade (at least 15 minutes).
 
-Rice
-----
+## Rice
 
 Bring to a simmer:
 
@@ -49,8 +45,7 @@ Remove from heat and let steam for 10 minutes.
 
 Fold gently to fluff. Can be held for up to an hour.
 
-Deep frying
------------
+## Deep frying
 
 Fill a wok with 1.5 inches oil and heat to 350-400 F:
 
@@ -64,8 +59,7 @@ Transfer to a plate.
 
 Discard or set aside peanut oil, and wipe the wok clean.
 
-Stir frying
------------
+## Stir frying
 
 Over high heat:
 
