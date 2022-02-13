@@ -1,7 +1,6 @@
-![Pork butt](http://i.imgur.com/IjwBlwa.jpg)
+# Boston pork butt
 
-Boston pork butt
-================
+![Pork butt](http://i.imgur.com/IjwBlwa.jpg)
 
 - Wood: Oak
 - Smoker temperature: 275 F
