@@ -3,7 +3,7 @@ Brisket
 
 > It's not possible to write a traditional "recipe" for brisket. Instead, we have some of the variables.
 
-<img src="https://pbs.twimg.com/media/Ch9lOnWVIAAIhjP.jpg:large" alt="Brisket" width="50%" />
+![Brisket](https://pbs.twimg.com/media/Ch9lOnWVIAAIhjP.jpg:large)
 
 - Grade: high choice or prime
 - Slather: olive oil
