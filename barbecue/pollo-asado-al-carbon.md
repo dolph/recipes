@@ -26,11 +26,11 @@ Reserve 1/4 cup of marinade for basting. Marinate the chicken for 12-48 hours.
 
 Prepare a grill with a hot side and a cool side. Bring the grill to 325 F degrees. Brush the grill grates with oil.
 
-Cook chicken bone-side down on the hot side of the grill for 15 minutes, covered.
+Cook chicken bone-side down on the cool side of the grill, legs facing the hot side, covered, until the breast reaches an internal temperature of 155 F.
 
-Move chicken to cool side of the grill and cover. Cook 15 minutes.
+Turn the chicken skin-side down on the hot side of the grill for 1-3 minutes, until crisped (watch carefully to avoid burning).
 
-Continue turning every 15 minutes, basting with marinade each time, until the chicken reach 165 F.
+Rest 5-10 minutes.
 
 Serve with:
 
