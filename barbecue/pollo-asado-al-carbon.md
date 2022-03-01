@@ -14,7 +14,7 @@ Combine marinade ingredients:
 - 4 teaspoons **Worcestershire sauce**
 - 1 ounce **achiote paste**
 - 1 tablespoon of **chicken bullion powder**
-- 2 teaspoon salt
+- 1 teaspoon salt _per pound_ of chicken
 - 1/2 teaspoon black pepper
 
 Reserve 1/4 cup of marinade for basting. Marinate the chicken for 12-48 hours.
