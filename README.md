@@ -67,6 +67,7 @@
 - [Linguine and clams](pasta/linguine-and-clams.md) ★
 - [Meunière](seafood/meuniere.md)
 - [Mussels with pan sauce](seafood/mussels-with-pan-sauce.md) ★
+- [Nola BBQ Shrimp](seafood/nola-shrimp.md)
 - [Paella](one-pot/paella.md)
 - [Pasta Bolognese](pasta/bolognese.md)
 - [Pasta carbonara](pasta/pasta-carbonara.md)
