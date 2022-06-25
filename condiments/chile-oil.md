@@ -1,5 +1,7 @@
 # Chile oil
 
+> Based on [Sohla's chile _crisp_](https://www.seriouseats.com/homemade-spicy-chili-crisp) recipe
+
 In a 2-quart heatproof bowl, combine:
 
 - 30 grams minced ginger
