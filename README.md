@@ -147,6 +147,7 @@
 - [Barbecue](barbecue/sauce.md)
 - [Buffalo](appetizers/chicken-wings.md#buffalo-sauce)
 - [Chimichurri](condiments/chimichurri.md)
+- [Chile oil](condiments/chile-oil.md)
 - [Gremolata](condiments/gremolata.md)
 - [Ketchup](barbecue/sauce.md#ketchup)
 - [Lemon pepper](appetizers/chicken-wings.md#lemon-pepper-sauce)
