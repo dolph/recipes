@@ -7,13 +7,25 @@
 - **Stuffing**: Bon Appétit's [Cornbread Stuffing With Sausage and Corn Nuts](https://www.bonappetit.com/recipe/cornbread-stuffing-with-sausage-and-corn-nuts)
 - **Mashed potatoes**: Bon Appétit's [Mashed Potatoes With Crispety Cruncheties](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
 
+Schedule:
+
+- **Friday/Saturday**: thaw turkey (if necessary)
+- **Sunday**: make dry brine mixture, make cornbread
+- **Tuesday**: Breakdown turkey, begin dry brining, cook gravy
+- **Wednesday**: Cook stuffing & mashed potatoes
+- **Thursday**: Cook turkey, finish sides
+
 ## Friday/Saturday
 
 Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Tuesday):
 
 - 12-14 pound **whole turkey**
 
+## Sunday
+
 ### Dry brine
+
+> Consider keeping salt separate.
 
 Combine in a medium bowl:
 
@@ -27,8 +39,6 @@ Combine in a medium bowl:
 
 Set aside.
 
-## Sunday
-
 ### Cornbread
 
 Preheat oven to 400 F.
@@ -39,9 +49,9 @@ Lightly grease a 13x9" baking dish:
 
 In a large bowl, whisk together:
 
-- 2 cups **AP flour**
-- 2 cups medium-grind **cornmeal**
-- 1/4 cup **sugar**
+- 240 grams **AP flour**
+- 425 grams medium-grind **yellow cornmeal**
+- 50 grams **sugar**
 - 1 tablespoon **baking powder**
 - 2.5 teaspoons **kosher salt**
 - 3/4 teaspoons **black pepper**
@@ -49,12 +59,77 @@ In a large bowl, whisk together:
 In a medium bowl, whisk together:
 
 - 4 **eggs**
-- 2 cups **buttermilk**
+- 450 grams **buttermilk**
 - 8 tablespoons (1 stick) **unsalted butter**, melted, slightly cooled
 
 Make a well in the dry ingredients and pour in the wet mixture; stir into dry ingredients with a wooden spoon until combined. Scrape batter into prepared pan and smooth top.
 
-Bake cornbread, rotating dish halfway through, until a tester inserted into the center comes out clean (~20–25 minutes). Let cornbread cool slightly in dish, then cut crosswise into 4 large pieces. Transfer to a wire rack and let cool completely.
+Bake cornbread on center rack, rotating dish halfway through, until a tester inserted into the center comes out clean (~20–25 minutes). Let cornbread cool completely in dish, cover, and transfer to refridgerator.
+
+## Tuesday
+
+### Beurre manié
+
+With gloved fingers (or a fork), mash together in a 24-ounce deli container (or a small bowl) until homogenous:
+
+- 55 grams **flour**
+- 56 grams (4 tablespoons) **butter**, room temperature
+
+Set aside for gravy.
+
+### Dry brine turkey & make gravy
+
+Preheat oven to 450 F.
+
+Separate turkey into leg quarters, breasts (do not separate), wings, and backbone. Place wings, backbone, neck, etc, intended for gravy into a large roasting pan. Place leg quarters and breasts on a wire rack set in a baking sheet (triple lined with aluminum foil if roasting in the same pan on Thanksgiving), apply dry brine mixture, and refrigerate for 24-48 hours.
+
+- **Turkey**
+- **Dry brine** mixture
+
+In the large roasting pan, toss wings, backbone, and neck with oil until coated.
+
+- 3 pounds reserved turkey parts (no organs), broken down into 1" pieces
+- 2 tablespoons **olive oil**
+
+Roast, tossing halfway through, until golden brown and starting to crisp (about 25–35 minutes).
+
+Remove wings from oven and add, tossing to coat with oil:
+
+- 2 heads of **garlic**, cut in half crosswise
+- 2 large **shallots**, unpeeled, halved
+- 4" piece **ginger**, scrubbed, thickly sliced
+- 4 ounces **baby bella, shiitake, or white button mushrooms**, torn into large pieces
+- 8 grams **black peppercorns**, lightly crushed
+- 60 grams **olive oil**
+
+Return to oven and roast, tossing halfway through, until poultry is deeply browned and crisp and vegetables are browned (about 30–40 minutes).
+
+Remove roasting pan from oven. Transfer solids to a 7-quart stock pot.
+
+Set roasting pan onto griddle over medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes).
+
+- 60 grams (0.5 cup) **amontillado sherry**
+
+Transfer everything to a 7-quart stock pot, add stock and parsley, and bring to a low simmer over medium-high heat:
+
+- Roasted turkey parts and aromatics
+- Reserved organs
+- 1.5 quarts **chicken stock**, warmed
+- **Parsley**, including stems
+
+Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
+
+Strain through a fat separator, discarding fat and solids, rinse pot, and return broth back to pot, and bring to a simmer.
+
+Add and whisk constantly until completely incorporated:
+
+- Beurre manié
+
+Simmer, whisking often and skimming any foam from surface, until gravy is thick enough to coat a spoon (about 6–8 minutes).
+
+Refrigerate.
+
+## Wednesday
 
 ### Stuffing
 
@@ -119,73 +194,6 @@ Lightly grease a 3-quart or 13x9 baking dish. Transfer stuffing to dish and tap 
 Cover tightly with foil and bake until stuffing is very hot throughout and bubbles appear around sides (40–45 minutes).
 
 Let cool, then chill.
-
-## Tuesday
-
-### Dry brine turkey
-
-Separate turkey into leg quarters, breasts (do not separate), wings, and backbone. Reserve wings, backbone, neck, etc, for gravy. Place leg quarters and breasts on a wire rack set in a baking sheet triple lined with aluminum foil, apply dry brine mixture, and refrigerate for 24-48 hours.
-
-- **Turkey**
-- **Dry brine** mixture
-
-## Wednesday
-
-### Beurre manié
-
-Mash together in a small bowl with fingers or a fork until homogenous:
-
-- 55 grams **flour**
-- 56 grams (4 tablespoons) **butter**, room temperature
-
-Set aside.
-
-### Gravy
-
-Preheat oven to 450 F.
-
-Toss wings, backbone, and neck in a 15" skillet with oil until coated.
-
-- 3 pounds reserved turkey parts (no organs), broken down into 1" pieces
-- 2 tablespoons **olive oil**
-
-Roast, tossing halfway through, until golden brown and starting to crisp (about 25–35 minutes).
-
-Remove wings from oven and add, tossing to coat with oil:
-
-- 2 heads of **garlic**, cut in half crosswise
-- 2 large **shallots**, unpeeled, halved
-- 4" piece **ginger**, scrubbed, thickly sliced
-- 4 ounces **baby bella, shiitake, or white button mushrooms**, torn into large pieces
-- 8 grams **black peppercorns**, lightly crushed
-- 60 grams **olive oil**
-
-Return to oven and roast, tossing halfway through, until poultry is deeply browned and crisp and vegetables are browned (about 30–40 minutes).
-
-Remove skillet from oven. Transfer solids to a 7-quart stock pot.
-
-Set skillet on stovetop over medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes).
-
-- 60 grams (0.5 cup) **amontillado sherry**
-
-Transfer everything to a 7-quart stock pot, add stock and parsley, and bring to a low simmer over medium-high heat:
-
-- Roasted turkey parts and aromatics
-- Reserved organs
-- 1.5 quarts **chicken stock**, warmed
-- **Parsley**, including stems
-
-Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
-
-Strain through a fat separator, discarding fat and solids, rinse pot, and return broth back to pot, and bring to a simmer.
-
-Add and whisk constantly until completely incorporated:
-
-- Beurre manié
-
-Simmer, whisking often and skimming any foam from surface, until gravy is thick enough to coat a spoon (about 6–8 minutes).
-
-Refrigerate.
 
 ### Roast potatoes
 
