@@ -43,7 +43,7 @@ Set aside.
 
 Preheat oven to 400 F.
 
-Lightly grease a 13x9" baking dish:
+Lightly grease a 13x9" glass baking dish:
 
 - **Canola oil**
 
@@ -64,13 +64,21 @@ In a medium bowl, whisk together:
 
 Make a well in the dry ingredients and pour in the wet mixture; stir into dry ingredients with a wooden spoon until combined. Scrape batter into prepared pan and smooth top.
 
-Bake cornbread on center rack, rotating dish halfway through, until a tester inserted into the center comes out clean (~20–25 minutes). Let cornbread cool completely in dish, cover, and transfer to refridgerator.
+Bake cornbread on center rack, rotating dish halfway through, until a tester inserted into the center comes out clean (~20–25 minutes).
+
+Let cornbread cool slightly, then transfer to wire rack (otherwise it will stick to the glass). Meanwhile, lower oven temperature to 325 F.
+
+Cut into 3/4" inch pieces. Divide cornbread evenly between 2 large rimmed baking sheets and bake, tossing occasionally, until dried out and lightly browned around the edges (40–50 minutes):
+
+- 3 pounds **cornbread**, cut into 3/4" pieces
+
+Let cool at least 30 minutes and transfer to a large bowl. Cover and refrigerate.
 
 ## Tuesday
 
 ### Beurre manié
 
-With gloved fingers (or a fork), mash together in a 24-ounce deli container (or a small bowl) until homogenous:
+With gloved fingers (or a fork), mash together in a 24-ounce container until homogenous:
 
 - 55 grams **flour**
 - 56 grams (4 tablespoons) **butter**, room temperature
@@ -131,70 +139,6 @@ Refrigerate.
 
 ## Wednesday
 
-### Stuffing
-
-Preheat oven to 325 F.
-
-Divide cornbread evenly between 2 large rimmed baking sheets and bake, tossing occasionally, until dried out and lightly browned around the edges (40–50 minutes):
-
-- 3 pounds **cornbread**, cut into 3/4" pieces
-
-Let cool at least 10 minutes. Increase oven temperature to 350 F.
-
-Meanwhile, cook in a large skillet over medium-high heat, stirring and breaking up with a spoon, until lightly browned and cooked through (6–8 minutes):
-
-- 1.5 pounds **breakfast sausage**, casings removed
-
-Transfer to a plate.
-
-Reduce heat to medium and melt:
-
-- 16 tablespoons (2 sticks) **butter**
-
-Add and cook, stirring occasionally, until softened but not browned (~15 minutes):
-
-- 2 medium **onions**, blended
-- 4 stalks **celery**, blended
-- 1 **jalapeño** (with seeds), blended
-- Kosher salt
-
-Add and cook, stirring once, until very fragrant (~1 minute):
-
-- 3 cloves **garlic**, finely chopped
-
-Add and cook, stirring often, until very fragrant and vegetables are starting to brown around the edges (~3 minutes):
-
-- 3/4 cup **corn nuts**, finely ground
-
-Add and cook, stirring occasionally, until almost completely evaporated (~3 minutes):
-
-- 3/4 cup dry **white wine**
-
-Add and toss to combine:
-
-- 1 tablespoon finely chopped **sage**
-- 2 teaspoons finely chopped **thyme**
-
-Remove from heat.
-
-In a large bowl, combine cornbread, sausage, and vegetable mixture.
-
-In a medium bowl, whisk together until very well combined:
-
-- 3 **eggs**
-- 3.5 cups **low sodium chicken broth**
-
-Pour liquid mixture over cornbread mixture and let sit, gently stirring every minute or so, until cornbread has absorbed all or virtually all of the liquid. Season:
-
-- 1.5 teaspoons **kosher salt**
-- **Black pepper**
-
-Lightly grease a 3-quart or 13x9 baking dish. Transfer stuffing to dish and tap dish lightly against counter to distribute and compact stuffing.
-
-Cover tightly with foil and bake until stuffing is very hot throughout and bubbles appear around sides (40–45 minutes).
-
-Let cool, then chill.
-
 ### Roast potatoes
 
 Preheat oven to 425 F. Place potatoes on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender (about 80–95 minutes) and internal temperature reaches 210 F.
@@ -223,7 +167,7 @@ Return garlic mixture to a simmer, then strain into pot with potatoes, discardin
 
 Set potato mixture over medium heat and whisk until liquid is incorporated and potatoes are very smooth and bubbling. Taste and season with more salt if needed.
 
-Cover and refrigerate.
+Transfer to a 13x9" baking dish, cover, and refridgerate.
 
 ### Mashed potatoes topping
 
@@ -263,7 +207,45 @@ Meanwhile, combine in a small bowl:
 
 Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
 
-Store with a tight lid and refrigerate.
+Transfer to a 12-ounce container and refrigerate.
+
+### Stuffing
+
+Cook in a large skillet over medium-high heat, stirring and breaking up with a spoon, until lightly browned and cooked through (6–8 minutes):
+
+- 1.5 pounds **breakfast sausage**, casings removed
+
+Transfer to 24-ounce deli container, allow to cool, and refrigerate.
+
+Reduce heat to medium and melt:
+
+- 16 tablespoons (2 sticks) **butter**
+
+Add and cook, stirring occasionally, until softened but not browned (~15 minutes):
+
+- 2 medium **onions**, blended
+- 4 stalks **celery**, blended
+- 1 **jalapeño** (with seeds), blended
+- Kosher salt
+
+Add and cook, stirring once, until very fragrant (~1 minute):
+
+- 3 cloves **garlic**, finely chopped
+
+Add and cook, stirring often, until very fragrant and vegetables are starting to brown around the edges (~3 minutes):
+
+- 3/4 cup **corn nuts**, finely ground
+
+Add and cook, stirring occasionally, until almost completely evaporated (~3 minutes):
+
+- 3/4 cup dry **white wine**
+
+Add and toss to combine:
+
+- 1 tablespoon finely chopped **sage**
+- 2 teaspoons finely chopped **thyme**
+
+Remove from heat. Transfer to another 24-ounce container, allow to cool, and refrigerate.
 
 ### Turkey glaze
 
@@ -313,15 +295,27 @@ Roast turkey with the dark meat on the top rack, and the white meat on the botto
 
 - Turkey glaze, warmed
 
-**T-1h**: Tent with foil and rest 30-60 minutes before carving.
+**T-1.5h**: Tent with foil and rest 30-60 minutes before carving.
 
 Reserve drippings for gravy.
 
 ### Finish stuffing
 
-**T-1.5h**: Reheat in a 300 F oven to 160 F:
+In a large bowl, combine cornbread, sausage, and vegetable mixture.
 
-- Stuffing
+In a medium bowl, whisk together until very well combined:
+
+- 3 **eggs**
+- 3.5 cups **low sodium chicken broth**
+
+Pour liquid mixture over cornbread mixture and let sit, gently stirring every minute or so, until cornbread has absorbed all or virtually all of the liquid. Season:
+
+- 1.5 teaspoons **kosher salt**
+- **Black pepper**
+
+Lightly grease a 3-quart or 13x9 baking dish. Transfer stuffing to dish and tap dish lightly against counter to distribute and compact stuffing.
+
+Cover tightly with foil and bake until stuffing is very hot throughout and bubbles appear around sides (40–45 minutes).
 
 Remove foil, and move to highest rack in the oven until top is lightly browned (15-20 minutes). A 425 F oven or quick broil at the end will speed the process.
 
