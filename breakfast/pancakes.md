@@ -1,7 +1,7 @@
 Pancakes
 ========
 
-Preheat griddle over medium low heat (electric stove on 3). Grease with canola oil before each batch.
+Preheat griddle over medium low heat. Grease with canola oil before each batch.
 
 Mix dry ingredients:
 
@@ -14,9 +14,8 @@ Mix dry ingredients:
 In a separate bowl, mix wet ingredentients:
 
 - 1 large **egg**, gently beaten (do not introduce air)
-- 1 cup **whole milk**
-- 2 tablespoons **butter**, melted
-- 1 tablespoon **lemon** juice (or white vinegar)
+- 300 grams **buttermilk** (or **whole milk** + 15 grams **white vinegar**)
+- 1.5 tablespoons **butter**, melted
 - 1 teaspoon **vanilla extract**
 
 Optionally, add any additional ingredients to the wet, such as:
