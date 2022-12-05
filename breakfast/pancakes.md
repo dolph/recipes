@@ -5,11 +5,11 @@ Preheat griddle over medium low heat. Grease with canola oil before each batch.
 
 Mix dry ingredients:
 
-- 1 cup **flour**, sifted
-- 1.5 tablespoons **sugar**
-- 3/4 teaspoons **baking powder**
-- 3/4 teaspoons **baking soda**
-- 3/4 teaspoons kosher salt
+- 120 grams **flour**, sifted
+- 19 grams **sugar**
+- 3.6 grams (3/4 teaspoons) **baking powder**
+- 3.6 grams (3/4 teaspoons) **baking soda**
+- 4.5 grams (3/4 teaspoons) kosher salt
 
 In a separate bowl, mix wet ingredentients:
 
