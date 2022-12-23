@@ -11,7 +11,7 @@ Remove the sausage with a slotted spoon and drain on paper towels. Set aside.
 Season the chicken with the Essence and add in batches to the fat remaining in the pan. Cook over medium-high heat until well browned, 5 to 6 minutes. Remove the chicken from the pan, let cool, and then refrigerate until ready to use.
 
 - 4 pounds chicken thighs, skin removed
-- 1 tablespoon Essence or Creole seasoning
+- 2 tablespoons Essence or Creole seasoning
 
 Combine the remaining 1/2 cup oil and the flour in the same Dutch oven over medium heat. Cook, stirring slowly and constantly for 20 to 25 minutes, to make a dark brown roux, the color of chocolate.
 
