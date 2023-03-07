@@ -81,6 +81,7 @@
 - [Shrimp fajitas](seafood/shrimp-fajitas.md) ★
 - [Shrimp pasta](seafood/shimp-pasta.md)
 - [Singapore noodles](one-pot/singapore-noodles.md)
+- [Steak fajitas](steak-fajitas.md) ★
 - [Spaghetti with fried eggs](pasta/spaghetti-with-fried-eggs.md)
 - [Sushi rice](seafood/sushi.md)
 - [Tortilla soup](one-pot/tortilla-soup.md)
