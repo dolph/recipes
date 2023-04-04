@@ -33,6 +33,7 @@
 - [Crab salad](seafood/crab-salad.md)
 - [Guacamole](appetizers/guacamole.md)
 - [Herb coeur à la crème](appetizers/herb-coeur-a-la-creme.md)
+- [Popcorn](popcorn.md)
 - [Queso](appetizers/queso.md)
 - [Roasted salsa](condiments/salsa.md#roasted)
 - [Salsa verde](condiments/salsa.md#verde)
