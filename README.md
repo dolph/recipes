@@ -91,6 +91,7 @@
 
 - [Boston pork butt](barbecue/boston-pork-butt.md) ★
 - [Brisket](barbecue/brisket.md) ★
+- [Lamb](barbecue/lamb.md)
 - [St. Louis pork ribs](barbecue/pork-ribs.md) ★
 - [Turkey](barbecue/turkey.md)
 
