@@ -28,7 +28,6 @@ Blend, and strain into a spray bottle to make a spritzer:
 - 3 cups **mint leaves**
 - 2 cups water
 
-
 Smoke at 275 F to 140 F internal, spritzing 2-3 times.
 
 Garnish:
