@@ -28,10 +28,10 @@ Form 4 ounce patties, oil cooking surface, and griddle or grill to an internal t
 
 Serve with:
 
-* Toasted **pretzel buns**
-* Sliced **Avocado**
-* **Garlic aioli**
-* Sliced **red onion**
-* **Pickles**
-* **Lettuce**
-* **Tomato**
+- Toasted **pretzel buns**
+- Sliced **Avocado**
+- **Garlic aioli**
+- Sliced **red onion**
+- **Pickles**
+- **Lettuce**
+- **Tomato**
