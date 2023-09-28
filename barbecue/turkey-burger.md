@@ -19,6 +19,7 @@ Food process into a smooth paste:
 
 Transfer turkey paste to the mixing bowl, and _hand mix_ to thoroughly combine:
 
+- Coarsley ground turkey
 - Turkey paste
 - **Kosher salt**
 - **Black pepper**
