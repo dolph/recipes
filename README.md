@@ -152,7 +152,7 @@
 - [Buffalo](appetizers/chicken-wings.md#buffalo-sauce)
 - [Chile oil](condiments/chile-oil.md)
 - [Chimichurri](condiments/chimichurri.md)
-- [Diablo](condiments/diablo.md)
+- [Diablo sauce](condiments/diablo-sauce.md)
 - [Fast chili crisp](condiments/fast-chili-crisp.md)
 - [Gremolata](condiments/gremolata.md)
 - [Ketchup](barbecue/sauce.md#ketchup)
