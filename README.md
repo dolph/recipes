@@ -159,6 +159,7 @@
 - [Lemon pepper](appetizers/chicken-wings.md#lemon-pepper-sauce)
 - [Pesto](condiments/pesto.md)
 - [Rémoulade](condiments/remoulade.md)
+- [Ranch dressing](condiments/ranch-dressing.md)
 - [Salsa](condiments/salsa.md)
 - [Tzatziki](condiments/tzatziki.md)
 
