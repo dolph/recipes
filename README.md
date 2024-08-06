@@ -75,6 +75,7 @@
 - [Pot roast](one-pot/pot-roast.md)
 - [Roasted chicken](one-pot/roasted-chicken.md)
 - [Roasted Dungeness crab](seafood/roasted-dungeness-crab.md)
+- [Rotisserie chicken](rotisserie-chicken.md)
 - [Salt & pepper mussels](seafood/salt-and-pepper-mussels.md)
 - [Shrimp bisque](one-pot/shrimp-bisque.md)
 - [Shrimp etouffee](seafood/etouffee.md)
