@@ -21,7 +21,7 @@ Simmer, partially covered, until chicken hits 195 F, then set aside to rest. Shr
 
 Place in a pot with enough water to cover:
 
-- 5-6 **tomatillos**, husked and rinsed
+- 4 **tomatillos**, husked and rinsed
 - 2 **serrano**
 - 1 clove **garlic**, peeled
 
