@@ -13,8 +13,6 @@
 
 ## Garlic butter
 
-> Untested: include white wine
-
 Melt over low heat in a small saucepan until fragrant and foaming (2-3 minutes):
 
 - 4 tablespoons salted **butter**
