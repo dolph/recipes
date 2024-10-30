@@ -1,37 +1,45 @@
-Shredded chicken tacos
-======================
+# Shredded chicken tacos
 
-In a saucepan over medium high heat, sear, skin side down, until well browned:
+In a saucepan over medium high heat, sear on one side until well browned:
 
-- 1 tablespoon canola oil
-- 2 chicken breasts
+- 1 tablespoon **canola oil**
+- 2 pounds **chicken thighs**, boneless, skinless
 - Salt & pepper
+- 1 teaspoon **cumin**, ground
+- 1 teaspoon **garlic powder**
+- 1 teaspoon **onion powder**
+- 1 teaspoon **paprika**
 
-Add, and bring to a boil:
+Flip onto the other side, cover halfway with water, and dissolve:
 
-- 1 large white onion, peeled and quartered
-- 5 cloves garlic, crushed
-- 2 bay leaves
-- 2 sprigs fresh thyme (or 1 teaspoon dried thyme)
-- 1 tablespoon ground cumin
-- 1 teaspoon chili powder
-- 1 cup chicken stock
-- Water to cover
-- Salt & pepper
+- 1.5 teaspoons **chicken bouillon**
+- Water
 
-Reduce to gentle simmer, partially cover, and skim any foam that comes to the surface.
+Simmer, partially covered, until chicken hits 195 F, then set aside to rest. Shred by hand, and return to pan (on warm) to hold for serving.
 
-Cook until chicken hits 165 F, then set aside to rest. Discard cooking liquid.
+## Salsa verde
 
-Shred meat, discarding skin and bones.
+Place in a pot with enough water to cover:
+
+- 5-6 tomatillos, husked and rinsed
+- 2 serrano
+- 1 clove garlic, peeled
+
+Bring to a boil, then simmer until tomatillos are soft (about 5 minutes).
+
+Transfer to a blender, and add:
+
+- 1 small bunch of fresh cilantro (stems removed)
+- 1/2 cup sour cream or Mexican crema
+- Juice of 1 lime
+- Salt
+
+## Assembly
 
 Serve with:
 
 - Flour tortillas, warmed
+- Mild cheddar cheese, shredded
+- Iceberg shredduce
+- Roma tomato, diced
 - Avocado
-- Lettuce
-- Tomato
-- Cheddar cheese
-- Cilantro
-- Salsa
-- Hot sauce
