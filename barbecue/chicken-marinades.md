@@ -34,21 +34,21 @@ Serve with:
 
 ## Jerk
 
-Blend marinade for 2 whole, skin-on chickens:
+Blend marinade for one whole, skin-on chicken:
 
-* 1 large bunch scallions, roots removed
-* 2 shallots, peeled and halved
-* 4 to 6 Scotch bonnet (or habeneros) chili peppers, stems removed
-* 1 2-inch piece fresh ginger, peeled and coarsely chopped
-* 6 garlic cloves, peeled
-* 1/4 cup fresh thyme leaves, or 1 tablespoon dried
-* 2 tablespoons ground allspice, more for sprinkling
-* 2 tablespoons soy sauce
-* 2 tablespoons dark brown sugar
+* 6 **green onions**, roots removed
+* 1 **shallot**, peeled and halved
+* 3 **habenero peppers**, stems removed
+* 1 2-inch piece **ginger**, peeled and coarsely chopped
+* 4 cloves **garlic**, peeled
+* 2 tablespoons **thyme** leaves, or 1 tablespoon dried
+* 1 tablespoons ground **allspice**, more for sprinkling
+* 2 tablespoons **dark brown sugar**
+* 2 tablespoons **soy sauce**
+* 3 tablespoons **mayo**
+* 1 teaspoon **white wine vinegar**
 * 1 tablespoon salt, more for sprinkling
 * 1 tablespoon black pepper
-* 1/2 cup vegetable oil
-* 1 tablespoon white or apple cider vinegar
 * Freshly squeezed juice of 2 limes
 
 ## Chimichurri
