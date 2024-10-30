@@ -99,7 +99,7 @@
 
 ## Grilled
 
-- [Chicken marinades](barbecue/chicken-marinades.md)
+- [Barbecue chicken](barbecue/chicken-marinades.md) (soy ginger, jerk, and chimichurri) ★
 - [Beef bulgogi](barbecue/bulgogi.md)
 - [Chicken fajitas](barbecue/chicken-fajitas.md) ★
 - [Corn](sides/grilled-corn.md)
