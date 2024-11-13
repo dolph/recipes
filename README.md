@@ -102,6 +102,7 @@
 - [Barbecue chicken](barbecue/chicken-marinades.md) (soy ginger, jerk, and chimichurri) ★
 - [Beef bulgogi](barbecue/bulgogi.md)
 - [Chicken fajitas](barbecue/chicken-fajitas.md) ★
+- [Chicken sandwich](chicken-sandwich.md) ★
 - [Corn](sides/grilled-corn.md)
 - [Grilled shrimp](seafood/grilled-shrimp.md)
 - [Marinated flank steak](barbecue/flank-steak.md) ★
