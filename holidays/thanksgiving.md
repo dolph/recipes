@@ -9,8 +9,8 @@
 
 Schedule:
 
-- **Friday/Saturday**: thaw turkey (if necessary)
-- **Sunday**: make dry brine mixture, make cornbread
+- **Friday/Saturday**: Thaw turkey (if necessary)
+- **Sunday**: Make dry brine mixture and cornbread
 - **Tuesday**: Breakdown turkey, begin dry brining, cook gravy
 - **Wednesday**: Cook stuffing & mashed potatoes
 - **Thursday**: Cook turkey, finish sides
