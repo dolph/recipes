@@ -37,7 +37,8 @@ Combine in a medium bowl:
 
 - 300 grams **mayonnaise**
 - 35 grams **Dijon mustard**
-- 1/2 cup + 1 tablespoon **kosher salt**
+- For pre-brined birds: 2 tablespoons **kosher salt**
+- For unbrained birds: 1/2 cup **kosher salt**
 - 1/4 cup whole **black peppercorns**, very finely ground
 - 1/4 cup whole **pink peppercorns**, very finely ground
 - 1/4 cup **garlic powder**
