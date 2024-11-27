@@ -35,7 +35,8 @@ Set aside for gravy.
 
 Combine in a medium bowl:
 
-- 1 cup **mayonnaise**
+- 300 grams **mayonnaise**
+- 35 grams **Dijon mustard**
 - 1/2 cup + 1 tablespoon **kosher salt**
 - 1/4 cup whole **black peppercorns**, very finely ground
 - 1/4 cup whole **pink peppercorns**, very finely ground
