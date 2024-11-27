@@ -42,7 +42,6 @@ Combine in a medium bowl:
 - 1/4 cup **garlic powder**
 - 1/4 cup **onion powder**
 - 2 tablespoon **smoked paprika**
-- 2 tablespoon **light brown sugar**
 - 1 tablespoon **anchovy paste**
 
 Set aside.
