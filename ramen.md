@@ -26,7 +26,7 @@ Meanwhile, roast until deeply caramelized:
 - 1 head **garlic**, halved horizontally
 - 1 thumb-sized piece of **ginger**, sliced
 
-In a large stockpot, bring to a simmer (10-12 hours), skimming impurities:
+In a large stockpot, bring to a simmer and reduce by 25-40% (10-12 hours), skimming impurities:
 
 - Cleaned bones
 - Chicken feet
