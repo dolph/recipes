@@ -41,6 +41,7 @@
 ## Soups
 
 - [Creamy mushroom soup](soups/creamy-mushroom.md)
+- [Tonkatsu Ramen](ramen.md)
 
 ## Salads
 
