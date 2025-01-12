@@ -91,7 +91,7 @@ Bring to a gentle simmer over low heat in a small saucepan:
 
 Strain the marinade into a clean bowl or zip-top bag, discarding the solids.
 
-Bring to a boil for 6 minutes, then immediately transfer to an ice bath:
+Bring pot of water a gentle boil, boil eggs for 7 minutes (uncovered), then immediately transfer to an ice bath:
 
 - 12 **eggs** at room temperature
 
