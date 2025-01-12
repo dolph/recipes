@@ -1,7 +1,5 @@
 # Ramen
 
-> Tonkotsu is the only way to fly.
-
 ## Tonkatsu broth
 
 Soak overnight, and then discard the kombu (reserving water):
