@@ -48,14 +48,13 @@ Strain the broth through a fine-mesh sieve into a clean pot. Use an immersion bl
 
 Combine in a saucepan, bring to a simmer, then turn off the heat and let steep for 15 minutes:
 
-- 1/4 cup **light soy sauce**
-- 1/4 cup **dark soy sauce**
-- 2 tbsp **mirin**
-- 2 tbsp **sake**
-- 1 tbsp **roasted garlic oil** (mayu)
-- 1 tsp **chili flakes** (optional)
-- 2 **scallions**, smashed
-- 1 thumb-sized piece of **ginger**, smashed
+- 1 cup **light soy sauce**
+- 1 cup **dark soy sauce**
+- 1/2 cup **mirin**
+- 1/2 cup **sake**
+- 1/4 cup **black garlic paste**
+- 1 bunch **scallions**, smashed
+- 4 tablespoons **minced ginger**
 
 Strain and set aside.
 
@@ -81,20 +80,20 @@ Cool in the braising liquid.
 
 Bring to a gentle simmer over low heat in a small saucepan:
 
-- 1/2 cup **soy sauce**
-- 1/2 cup **mirin**
-- 1/4 cup **sake**
-- 1 tablespoon **sugar**
-- 1 clove **garlic**, smashed
-- 1 small piece of **ginger** (about 1 inch), sliced
-- 2 **green onions**, roughly chopped
-- 1/4 cup water
+- 1 cup **soy sauce**
+- 1 cup **mirin**
+- 1/2 cup **sake**
+- 2 tablespoon **sugar**
+- 2 clove **garlic**, smashed
+- 2 small piece of **ginger** (about 1 inch), sliced
+- 4 **green onions**, roughly chopped
+- 1/2 cup water
 
 Strain the marinade into a clean bowl or zip-top bag, discarding the solids.
 
 Bring to a boil for 6 minutes, then immediately transfer to an ice bath:
 
-- 6 **eggs** at room temperature
+- 12 **eggs** at room temperature
 
 Peel and marinate for 18 hours, using a small plate to keep them submerged:
 
