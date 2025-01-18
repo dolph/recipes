@@ -194,7 +194,6 @@ Return potato mixture to medium heat and whisk manually until liquid is fully in
 
 > TODO: Transfer to a 13x9" baking dish, cover, and refrigerate.
 
-
 ### Prep
 
 #### Flavor enhancing slurry
