@@ -8,7 +8,7 @@ Slather:
 
 - **Yellow mustard**
 
-Season: 
+Season:
 
 - Kosher salt
 
@@ -25,9 +25,9 @@ Place on a rack, uncovered, and refridgerate 1-24 hours.
 
 Remove ribs from the fridge, and let rest 1-2 hours. Meanwhile, setup a water pan and bring smoker to **250 F** using:
 
-* 4 parts **hickory wood**
-* 1 part **cherry wood**
-* 1 part **apple wood**
+- 4 parts **hickory wood**
+- 1 part **cherry wood**
+- 1 part **apple wood**
 
 Cook meat side up, spritzing occassionally, and refilling water pan as necessary, to maintain moisture. Turn 180 degrees to allow the second side to face heat after 2-3 hours. Cook to 195-205 F and tender (~3-5 hours total).
 
