@@ -105,7 +105,7 @@ Peel and marinate for 18 hours, using a small plate to keep them submerged:
 Warm bowls, and add:
 
 - 2-3 tablespoons tare
-- Hot broth
+- Hot broth (175-190 F when served)
 - Cooked ramen noodles
 
 Top with:
