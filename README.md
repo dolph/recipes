@@ -118,6 +118,7 @@
 - [Roasted brussels sprouts](sides/roasted-brussels-sprouts.md)
 - [Cinnamon apples](sides/cinnamon-apples.md)
 - [Coleslaw](sides/coleslaw.md)
+- [Crab mac](sides/crab-mac.md)
 - [Creamed corn](sides/creamed-corn.md)
 - [Feta smashed potatoes](sides/feta-smashed-potatoes.md) ★
 - [Greek salad](sides/greek-salad.md) ★
