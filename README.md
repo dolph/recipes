@@ -80,6 +80,7 @@
 - [Salt & pepper mussels](seafood/salt-and-pepper-mussels.md)
 - [Shredded chicken tacos](shredded-chicken-tacos.md) ★
 - [Shrimp bisque](one-pot/shrimp-bisque.md)
+- [Shrimp burgers](shrimp-burgers.md) ★
 - [Shrimp etouffee](seafood/etouffee.md)
 - [Shrimp etouffee](seafood/shrimp-etouffee.md)
 - [Shrimp fajitas](seafood/shrimp-fajitas.md) ★
