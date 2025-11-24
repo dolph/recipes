@@ -1,8 +1,9 @@
 # Thanksgiving
 
 > Serves 10 people with plenty of leftovers.
-
+>
 > Comparison to [`thanksgiving.md`](thanksgiving.md):
+>
 > - No cornbread dressing
 > - Add smoked turkey legs
 > - Compress Tuesday & Wednesday into just Wednesday
