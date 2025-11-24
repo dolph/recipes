@@ -2,17 +2,20 @@
 
 > Serves 10 people with plenty of leftovers.
 
-- **Turkey**: Bon Appétit's [Expertly Spiced and Glazed Roast Turkey](https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey)
+> Comparison to [`thanksgiving.md`](thanksgiving.md):
+> - No cornbread dressing
+> - Add smoked turkey legs
+> - Compress Tuesday & Wednesday into just Wednesday
+
+- **Turkey**: Bon Appétit's [Expertly Spiced and Glazed Roast Turkey](https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey) + smoked turkey legs
 - **Gravy**: Bon Appétit's [Why-Is-It-So-Good Gravy](https://www.bonappetit.com/recipe/why-is-it-so-good-gravy)
-- **Stuffing**: Bon Appétit's [Cornbread Stuffing With Sausage and Corn Nuts](https://www.bonappetit.com/recipe/cornbread-stuffing-with-sausage-and-corn-nuts)
 - **Mashed potatoes**: Bon Appétit's [Mashed Potatoes With Crispety Cruncheties](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
 
 Schedule:
 
 - **Friday/Saturday**: Thaw turkey (if necessary)
-- **Sunday**: Make dry brine mixture and cornbread
-- **Tuesday**: Breakdown turkey, begin dry brining, cook gravy
-- **Wednesday**: Cook stuffing & mashed potatoes
+- **Sunday**: Make dry brine mixture
+- **Wednesday**: Breakdown turkey, dry brine turkey, cook gravy, cook mashed potatoes, cure turkey legs
 - **Thursday**: Cook turkey, finish sides
 
 ## Friday/Saturday
@@ -21,7 +24,7 @@ Start defrosting turkey in refrigerator (24 hours for every 4 pounds before Tues
 
 - 12-14 pound **whole turkey**
 
-## Sunday
+## Wednesday
 
 ### Dry brine
 
@@ -38,43 +41,6 @@ Combine in a medium bowl:
 - 1 tablespoon **light brown sugar**
 
 Set aside.
-
-### Cornbread
-
-Preheat oven to 400 F.
-
-Lightly grease a 13x9" glass baking dish:
-
-- **Canola oil**
-
-In a large bowl, whisk together:
-
-- 240 grams **AP flour**
-- 425 grams medium-grind **yellow cornmeal**
-- 50 grams **sugar**
-- 1 tablespoon **baking powder**
-- 2.5 teaspoons **kosher salt**
-- 3/4 teaspoons **black pepper**
-
-In a medium bowl, whisk together:
-
-- 4 **eggs**
-- 450 grams **buttermilk**
-- 8 tablespoons (1 stick) **unsalted butter**, melted, slightly cooled
-
-Make a well in the dry ingredients and pour in the wet mixture; stir into dry ingredients with a wooden spoon until combined. Scrape batter into prepared pan and smooth top.
-
-Bake cornbread on center rack, rotating dish halfway through, until a tester inserted into the center comes out clean (~20–25 minutes).
-
-Let cornbread cool slightly, then transfer to wire rack (otherwise it will stick to the glass). Meanwhile, lower oven temperature to 325 F.
-
-Cut into 3/4" inch pieces. Divide cornbread evenly between 2 large rimmed baking sheets and bake, tossing occasionally, until dried out and lightly browned around the edges (40–50 minutes):
-
-- 3 pounds **cornbread**, cut into 3/4" pieces
-
-Let cool at least 30 minutes and transfer to a large bowl. Cover and refrigerate.
-
-## Tuesday
 
 ### Beurre manié
 
@@ -96,19 +62,19 @@ Separate turkey into leg quarters, breasts (do not separate), wings, and backbon
 
 In the large roasting pan, toss wings, backbone, and neck with oil until coated.
 
-- 3 pounds reserved turkey parts (no organs), broken down into 1" pieces
-- 2 tablespoons **olive oil**
+- 3-6 pounds reserved turkey parts (no organs), broken down into 1" pieces
+- 4 tablespoons **olive oil**
 
 Roast, tossing halfway through, until golden brown and starting to crisp (about 25–35 minutes).
 
 Remove wings from oven and add, tossing to coat with oil:
 
-- 2 heads of **garlic**, cut in half crosswise
-- 2 large **shallots**, unpeeled, halved
-- 4" piece **ginger**, scrubbed, thickly sliced
-- 4 ounces **baby bella, shiitake, or white button mushrooms**, torn into large pieces
-- 8 grams **black peppercorns**, lightly crushed
-- 60 grams **olive oil**
+- 4 heads of **garlic**, cut in half crosswise
+- 4 large **shallots**, unpeeled, halved
+- 8" piece **ginger**, scrubbed, thickly sliced
+- 8 ounces **baby bella, shiitake, or white button mushrooms**, torn into large pieces
+- 16 grams **black peppercorns**, lightly crushed
+- 120 grams **olive oil**
 
 Return to oven and roast, tossing halfway through, until poultry is deeply browned and crisp and vegetables are browned (about 30–40 minutes).
 
@@ -116,13 +82,13 @@ Remove roasting pan from oven. Transfer solids to a 7-quart stock pot.
 
 Set roasting pan onto griddle over medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes).
 
-- 60 grams (0.5 cup) **amontillado sherry**
+- 120 grams (0.5 cup) **amontillado sherry**
 
 Transfer everything to a 7-quart stock pot, add stock and parsley, and bring to a low simmer over medium-high heat:
 
 - Roasted turkey parts and aromatics
 - Reserved organs
-- 1.5 quarts **chicken stock**, warmed
+- 3 quarts **chicken stock**, warmed
 - **Parsley**, including stems
 
 Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
@@ -136,8 +102,6 @@ Add and whisk constantly until completely incorporated:
 Simmer, whisking often and skimming any foam from surface, until gravy is thick enough to coat a spoon (about 6–8 minutes).
 
 Refrigerate.
-
-## Wednesday
 
 ### Roast potatoes
 
@@ -167,7 +131,7 @@ Return garlic mixture to a simmer, then strain into pot with potatoes, discardin
 
 Set potato mixture over medium heat and whisk until liquid is incorporated and potatoes are very smooth and bubbling. Taste and season with more salt if needed.
 
-Transfer to a 13x9" baking dish, cover, and refridgerate.
+Transfer to a 13x9" baking dish, cover, and refrigerate.
 
 ### Mashed potatoes topping
 
@@ -209,44 +173,6 @@ Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and 
 
 Transfer to a 12-ounce container and refrigerate.
 
-### Stuffing
-
-Cook in a large skillet over medium-high heat, stirring and breaking up with a spoon, until lightly browned and cooked through (6–8 minutes):
-
-- 1.5 pounds **breakfast sausage**, casings removed
-
-Transfer to 24-ounce deli container, allow to cool, and refrigerate.
-
-Reduce heat to medium and melt:
-
-- 16 tablespoons (2 sticks) **butter**
-
-Add and cook, stirring occasionally, until softened but not browned (~15 minutes):
-
-- 2 medium **onions**, blended
-- 4 stalks **celery**, blended
-- 1 **jalapeño** (with seeds), blended
-- Kosher salt
-
-Add and cook, stirring once, until very fragrant (~1 minute):
-
-- 3 cloves **garlic**, finely chopped
-
-Add and cook, stirring often, until very fragrant and vegetables are starting to brown around the edges (~3 minutes):
-
-- 3/4 cup **corn nuts**, finely ground
-
-Add and cook, stirring occasionally, until almost completely evaporated (~3 minutes):
-
-- 3/4 cup dry **white wine**
-
-Add and toss to combine:
-
-- 1 tablespoon finely chopped **sage**
-- 2 teaspoons finely chopped **thyme**
-
-Remove from heat. Transfer to another 24-ounce container, allow to cool, and refrigerate.
-
 ### Turkey glaze
 
 Cook in a small saucepan over medium heat, stirring occasionally, until sugar is dissolved and glaze thickens slightly (it should just barely coat a spoon, about 10-12 minutes).
@@ -283,7 +209,7 @@ Whisk together in a small bowl and set aside:
 
 Rub turkey:
 
-- 6 tablespoons **canola oil**
+- 6 tablespoons **avocado oil**
 
 Pour into each baking sheet:
 
@@ -298,26 +224,6 @@ Roast turkey with the dark meat on the top rack, and the white meat on the botto
 **T-1.5h**: Tent with foil and rest 30-60 minutes before carving.
 
 Reserve drippings for gravy.
-
-### Finish stuffing
-
-In a large bowl, combine cornbread, sausage, and vegetable mixture.
-
-In a medium bowl, whisk together until very well combined:
-
-- 3 **eggs**
-- 3.5 cups **low sodium chicken broth**
-
-Pour liquid mixture over cornbread mixture and let sit, gently stirring every minute or so, until cornbread has absorbed all or virtually all of the liquid. Season:
-
-- 1.5 teaspoons **kosher salt**
-- **Black pepper**
-
-Lightly grease a 3-quart or 13x9 baking dish. Transfer stuffing to dish and tap dish lightly against counter to distribute and compact stuffing.
-
-Cover tightly with foil and bake until stuffing is very hot throughout and bubbles appear around sides (40–45 minutes).
-
-Remove foil, and move to highest rack in the oven until top is lightly browned (15-20 minutes). A 425 F oven or quick broil at the end will speed the process.
 
 ### Finish mashed potatoes
 
