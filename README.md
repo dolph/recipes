@@ -115,6 +115,7 @@
 ## German
 
 - [Gurkensalat](german/gurkensalat.md)
+- [Käsespätzle](german/kasespatzle.md)
 - [Röstzwiebeln](german/rostzwiebeln.md)
 - [Salz-Dampfnudel](german/salz-dampfnudel.md)
 - [Schnitzel](german/schnitzel.md)
