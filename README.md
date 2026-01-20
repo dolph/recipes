@@ -112,6 +112,13 @@
 - [Pollo asado al carbón](barbecue/pollo-asado-al-carbon.md)
 - [Turkey burger](barbecue/turkey-burger.md)
 
+## German
+
+- [Gurkensalat](german/gurkensalat.md)
+- [Röstzwiebeln](german/rostzwiebeln.md)
+- [Salz-Dampfnudel](german/salz-dampfnudel.md)
+- [Schnitzel](german/schnitzel.md)
+
 ## Sides
 
 - [Barbecue beans](sides/barbecue-beans.md)
