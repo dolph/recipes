@@ -169,6 +169,7 @@
 - [Chimichurri](condiments/chimichurri.md)
 - [Diablo sauce](condiments/diablo-sauce.md)
 - [Fast chili crisp](condiments/fast-chili-crisp.md)
+- [Green sauce](condiments/green-sauce.md)
 - [Gremolata](condiments/gremolata.md)
 - [Ketchup](barbecue/sauce.md#ketchup)
 - [Lemon pepper](appetizers/chicken-wings.md#lemon-pepper-sauce)
