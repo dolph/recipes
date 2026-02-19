@@ -15,4 +15,4 @@ Transfer to a squirt bottle, and refrigerate up to 3 days.
 
 Serve with:
 
-- **Pulled pork**, **cilantro**, **onion**, **cotija**, & **corn tortillas**
+- **Pulled pork**, **cilantro**, **pickled red onion**, **cotija**, & **corn tortillas**
