@@ -57,6 +57,7 @@
 - [Chili](one-pot/chili.md) ★
 - [Cioppino](seafood/cioppino.md)
 - [Clam & scallop stew](seafood/mussel-and-scallop-stew.md) (mussels?)
+- [Coconut chicken & rice](one-pot/coconut-chicken-and-rice.md)
 - [Croatian mussels](seafood/croatian-mussels.md)
 - [Fish stew](seafood/fish-stew.md)
 - [Fish tacos](seafood/fish-tacos.md)
