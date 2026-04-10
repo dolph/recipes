@@ -62,3 +62,55 @@ Remove from heat, and transfer to CREAMi pint (optionally, strain).
 Freeze for 24 hours.
 
 Install _Creamerizer_ paddle and process on _GELATO_.
+
+## Triple chocolate ice cream
+
+In a microwave-safe bowl, add:
+
+- 1 tablespoon **cream cheese**
+- 2 tablespoons **cocoa powder**
+
+Microwave for 10 seconds. Add and mix to combine until the mixture looks like frosting:
+
+- 1/3 cup **sugar**
+- 1 teaspoon **vanilla extract**
+
+Slowly add and mix until fully combined and dissolved:
+
+- 3/4 cup **heavy cream**
+- 1 cup **whole milk**
+
+Transfer to CREAMi pint, and freeze for 24 hours.
+
+Install _Creamerizer_ paddle, and process on _ICE CREAM_.
+
+Create a hole through the center of the pint, and add:
+
+- 2 tablespoons **mini chocolate chips**
+- 2 tablespoons **brownie chunks**
+
+Process on _MIX-IN_.
+
+## Cookies & cream
+
+In a microwave-safe bowl, add:
+
+- 1 tablespoon **cream cheese**
+
+Microwave for 10 seconds. Add and mix to combine until the mixture looks like frosting:
+
+- 1/3 cup **granulated sugar**
+- 1 teaspoon **vanilla extract**
+
+Slowly add and mix until fully combined and dissolved:
+
+- 3/4 cup **heavy cream**
+- 1 cup **whole milk**
+
+Transfer to CREAMi pint, and freeze for 24 hours.
+
+Install _Creamerizer_ paddle, and process on _ICE CREAM_.
+
+Create a hole through the center of the pint, and add:
+
+- 3 **Oreos**
