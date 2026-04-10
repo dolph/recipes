@@ -23,7 +23,7 @@ In the bowl of a food processor, add 20% of the shrimp, and run until a shrimp p
 
 Then, add the remaining shrimp and pulse until the desired final texture is achieved.
 
-Form into 4 patties. Chill 15–30 minutes for binding.
+Form into six 4oz patties. Chill 15–30 minutes for binding.
 
 ## Lemon-herb mayo
 
