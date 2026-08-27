@@ -42,7 +42,6 @@ Cooking
 
 After marinating, remove as much marinade from the steak as possible by scraping and wiping it dry. Season the flank steak with:
 
-- 1 tablespoon kosher salt
 - 1/2 teaspoon sugar
 - 1/2 teaspoon freshly ground black pepper
 
