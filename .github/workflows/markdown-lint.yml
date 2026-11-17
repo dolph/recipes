@@ -11,10 +11,10 @@ on:
 jobs:
   lint:
     name: Lint Markdown
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
     - name: Checkout repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v7
 
     - name: Lint
       uses: avto-dev/markdown-lint@v1

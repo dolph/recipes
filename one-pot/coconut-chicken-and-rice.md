@@ -18,7 +18,7 @@ Working in two batches, brown chicken, turning halfway, until no longer pink, ar
 Add, the ginger and stir until fragrant:
 
 - 1 tablespoon **neutral oil**
-- 2 tablespoons **minced **fresh ginger**
+- 2 tablespoons **minced fresh ginger**
 - 1 tablespoon **minced garlic**
 
 Add and stir until evenly coated in the oil:
