@@ -132,7 +132,7 @@ Once the oven is at 425 F, divide potatoes between two rimmed half sheet pans an
 
 ### Garlic mixture
 
-Meanwhile, place in a 6-quart saucepan:
+Meanwhile, place in a 4-quart soup pot (the 7-quart is holding the gravy):
 
 - 672 grams (48 tablespoons) **butter**
 - 2 large heads of **garlic**, halved crosswise
@@ -142,7 +142,7 @@ Meanwhile, place in a 6-quart saucepan:
 - 2100 grams (10 cups) **whole milk**
 - Zest of 2 large **lemons** (in large strips)
 
-Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediately remove from heat, cover, and let sit at least 30 minutes.
+Bring mixture to a simmer over medium-high heat, stirring occasionally and watching closely, since the pot will be about three-quarters full and milk foams up quickly. Immediately remove from heat, cover, and let sit at least 30 minutes.
 
 ### Mashed potatoes
 
