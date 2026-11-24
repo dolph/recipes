@@ -35,7 +35,7 @@ Keep stirring until the brine is at or below 40 F. Some ice will remain, which i
 
 Completely submerge turkey legs in the brine in a food-safe container.
 
-Refrigerate at 40 F or below for 12-18 hours. An overnight brine may not produce uniform cured color all the way to the bone.
+Refrigerate at 40 F or below for 12-18 hours.
 
 Remove the turkey legs and discard the brine. Pat thoroughly dry. Arrange on wire racks over sheet pans, and refrigerate uncovered for 1-4 hours to dry the skin and develop a slightly tacky surface.
 
