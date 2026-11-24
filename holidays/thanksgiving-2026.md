@@ -5,7 +5,7 @@
 > Comparison to [`thanksgiving.md`](thanksgiving.md):
 >
 > - No cornbread dressing
-> - Gravy and mashed potatoes scaled up for 27 people
+> - Gravy scaled up for 27 people
 > - Two turkeys: roast the breasts and thighs, smoke the drumsticks (see [smoked turkey legs](../barbecue/smoked-turkey-legs.md))
 > - Break down and dry brine on Tuesday; make gravy and sides on Wednesday
 >
@@ -126,23 +126,23 @@ Cool, cover, and refrigerate.
 
 ### Roast potatoes
 
-Once the oven is at 425 F, divide potatoes between two rimmed half sheet pans and cover tightly with foil. Roast on two racks, swapping pans halfway through, until very tender (about 90–110 minutes) and internal temperature reaches 210 F.
+Once the oven is at 425 F, place potatoes on a rimmed half sheet pan and cover tightly with foil. Roast until very tender (about 80–95 minutes) and internal temperature reaches 210 F.
 
-- 10 pounds **Yukon Gold potatoes**, scrubbed
+- 5 pounds **Yukon Gold potatoes**, scrubbed
 
 ### Garlic mixture
 
 Meanwhile, place in a 4-quart soup pot (the 7-quart is holding the gravy):
 
-- 672 grams (48 tablespoons) **butter**
-- 2 large heads of **garlic**, halved crosswise
-- 12 sprigs **thyme**
-- 20 grams **black peppercorns**, lightly crushed
-- 60 grams **kosher salt**
-- 2100 grams (10 cups) **whole milk**
-- Zest of 2 large **lemons** (in large strips)
+- 336 grams (24 tablespoons) **butter**
+- 1 large head of **garlic**, halved crosswise
+- 6 sprigs **thyme**
+- 10 grams **black peppercorns**, lightly crushed
+- 30 grams **kosher salt**
+- 1050 grams (5 cups) **whole milk**
+- Zest of 1 large **lemon** (in large strips)
 
-Bring mixture to a simmer over medium-high heat, stirring occasionally and watching closely, since the pot will be about three-quarters full and milk foams up quickly. Immediately remove from heat, cover, and let sit at least 30 minutes.
+Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediately remove from heat, cover, and let sit at least 30 minutes.
 
 ### Mashed potatoes
 
@@ -152,42 +152,42 @@ Return garlic mixture to a simmer, then strain into pot with potatoes, discardin
 
 Set potato mixture over medium heat and whisk until liquid is incorporated and potatoes are very smooth and bubbling. Taste and season with more salt if needed.
 
-Divide between two 13x9" baking dishes, cover, and refrigerate.
+Transfer to a 13x9" baking dish, cover, and refrigerate.
 
 ### Mashed potatoes topping
 
 Pulse in a food processor until coarse crumbs form (about 1 minute):
 
-- 200 grams **country-style bread** (about four 1/2"-thick slices), torn into 1" pieces
+- 100 grams **country-style bread** (about two 1/2"-thick slices), torn into 1" pieces
 
 Add to breadcrumbs, and pulse just once or twice to combine:
 
-- 140 grams (about 5 cups) **kettle-style potato chips** (such as Cape Cod)
+- 70 grams (about 2.5 cups) **kettle-style potato chips** (such as Cape Cod)
 
-Heat in a 12" ovenproof skillet over medium-low heat, swirling, until butter is foaming and garlic is fragrant and just golden (about 4 minutes), then remove and discard garlic:
+Heat in a large ovenproof skillet over medium-low heat, swirling, until butter is foaming and garlic is fragrant and just golden (about 4 minutes), then remove and discard garlic:
 
-- 140 grams (10 tablespoons) **butter**
-- 10 cloves of **garlic**, smashed
+- 70 grams (5 tablespoons) **butter**
+- 5 cloves of **garlic**, smashed
 
 Add to the garlic butter over medium heat:
 
 - Breadcrumb mixture
-- 6 grams kosher salt
-- 2 grams freshly ground black pepper
+- 3 grams kosher salt
+- 1 gram freshly ground black pepper
 
 Cook, stirring, until mixture is coated in butter and fragrant, about 1 minute.
 
-Transfer skillet to 350 F oven and bake, tossing every 5 minutes, until dark golden brown (about 20–25 minutes).
+Transfer skillet to 350 F oven and bake, tossing every 5 minutes, until dark golden brown (about 15–20 minutes).
 
 Meanwhile, combine in a small bowl:
 
-- 8 sprigs **thyme**, leaves picked
-- 6 grams (2 1/2 teaspoons) **hot smoked Spanish paprika**
-- Zest of 2 large **lemons**, finely grated
+- 4 sprigs **thyme**, leaves picked
+- 3 grams (1 1/4 teaspoons) **hot smoked Spanish paprika**
+- Zest of 1 large **lemon**, finely grated
 
 Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
 
-Transfer to a 64-ounce container and refrigerate.
+Transfer to a 32-ounce container and refrigerate.
 
 ### Turkey glaze
 
@@ -251,7 +251,7 @@ Whisk together in a small bowl and set aside:
 
 #### Minced parsley
 
-- 40 grams (about 2/3 cup) **parsley**, minced
+- 20 grams (about 1/3 cup) **parsley**, minced
 
 ### Smoke turkey legs
 
@@ -310,7 +310,7 @@ Season to taste:
 
 ### Finish mashed potatoes
 
-**T-45m**: Transfer to a 12-quart pot and reheat over medium-low, whisking constantly and loosening with more milk if needed:
+**T-30m**: Transfer to the 12-quart pot and reheat over medium, whisking constantly and loosening with more milk if needed:
 
 - Mashed potatoes
 - **Whole milk**, as needed
@@ -319,7 +319,7 @@ Add:
 
 - Minced parsley
 
-Transfer mashed potatoes to two large bowls and sprinkle topping over just before serving.
+Transfer mashed potatoes to a large bowl and sprinkle topping over just before serving.
 
 - Mashed potatoes topping
 
