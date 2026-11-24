@@ -19,7 +19,7 @@ Schedule:
 
 - **Friday**: Thaw turkeys (if necessary)
 - **Tuesday**: Make dry brine mixture, break down turkeys, dry brine breasts and thighs
-- **Wednesday**: Cook gravy, cook mashed potatoes and topping, make glaze, brine turkey legs (between T-25h and T-19h)
+- **Wednesday**: Cook gravy, cook mashed potatoes and topping, make glaze, brine turkey legs (afternoon or evening)
 - **Thursday**: Smoke turkey legs, roast breasts and thighs, finish sides
 
 ## Friday
@@ -204,7 +204,7 @@ Remove glaze from heat, discard solids, and refrigerate.
 
 ### Brine turkey legs
 
-> Start between T-25h and T-19h, so the legs get 12–18 hours before coming out at T-7h. For a 4 PM dinner, that's between 3 PM and 9 PM tonight. This is one batch of the [smoked turkey legs](../barbecue/smoked-turkey-legs.md) brine.
+> Start in the afternoon or evening, 12–18 hours before the legs come out of the brine on Thursday morning. For a 4 PM dinner, that's between 3 PM and 9 PM. This is one batch of the [smoked turkey legs](../barbecue/smoked-turkey-legs.md) brine.
 
 Weigh together, including bones, and record the total weight in grams:
 
