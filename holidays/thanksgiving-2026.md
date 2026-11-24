@@ -32,17 +32,17 @@ Start defrosting turkeys in refrigerator by Friday evening (24 hours for every 4
 
 ### Dry brine
 
-> Sized for about 7.5 kilograms of breasts and thighs (roughly 1% salt).
+> Sized for about 8.7 kilograms of breasts and thighs (roughly 1% salt).
 
 Combine in a medium bowl:
 
-- 24 grams (3.5 tablespoons) whole **black peppercorns**, very finely ground
-- 14 grams (3.5 tablespoons) whole **pink peppercorns**, very finely ground
-- 70 grams **Morton kosher salt**
-- 33 grams (3.5 tablespoons) **garlic powder** (contains fructans, which may trigger intolerance)
-- 25 grams (3.5 tablespoons) **onion powder** (contains fructans, which may trigger intolerance)
-- 12 grams (1.75 tablespoons) **smoked paprika**
-- 21 grams (1.75 tablespoons) **light brown sugar**
+- 28 grams (4 tablespoons) whole **black peppercorns**, very finely ground
+- 16 grams (4 tablespoons) whole **pink peppercorns**, very finely ground
+- 80 grams **Morton kosher salt**
+- 38 grams (4 tablespoons) **garlic powder** (contains fructans, which may trigger intolerance)
+- 28 grams (4 tablespoons) **onion powder** (contains fructans, which may trigger intolerance)
+- 14 grams (2 tablespoons) **smoked paprika**
+- 24 grams (2 tablespoons) **light brown sugar**
 
 ### Break down turkeys
 
@@ -56,10 +56,11 @@ Refrigerate the wings, backbones, necks, hearts, and gizzards, covered, for grav
 
 ### Dry brine breasts and thighs
 
-Place one breast crown and two thighs on each of two wire racks set in rimmed half sheet pans (triple lined with aluminum foil if roasting in the same pans on Thanksgiving). Apply dry brine mixture evenly over all pieces, and refrigerate uncovered until Thursday (about 48 hours).
+Place one breast crown and three thighs on each of two wire racks set in rimmed half sheet pans (triple lined with aluminum foil if roasting in the same pans on Thanksgiving). Apply dry brine mixture evenly over all pieces, and refrigerate uncovered until Thursday (about 48 hours).
 
 - Turkey breasts
 - Turkey thighs
+- 2 extra **turkey thighs**
 - Dry brine mixture
 
 ## Wednesday
@@ -82,7 +83,8 @@ Preheat oven to 450 F.
 Divide turkey parts between a large roasting pan and a rimmed half sheet pan, toss with oil until coated, and spread them in as close to a single layer as possible:
 
 - Wings, backbones, and necks from both turkeys (about 6 pounds), broken down into 1" pieces
-- 3 pounds **turkey wings**, separated at the joints
+- 4 extra **turkey wings**, separated at the joints
+- 2 extra **turkey necks**
 - 80 grams **olive oil**
 
 Roast on two racks, tossing and swapping pans halfway through, until golden brown and starting to crisp (about 25–35 minutes).
