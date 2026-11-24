@@ -17,7 +17,7 @@
 Schedule:
 
 - **Friday**: Thaw turkeys (if necessary)
-- **Tuesday**: Make dry brine mixture, break down turkeys, dry brine breasts
+- **Tuesday**: Make dry brine seasoning, break down turkeys, dry brine breasts
 - **Wednesday**: Cook gravy, cook mashed potatoes and topping, make glaze, brine turkey legs (between T-25h and T-19h)
 - **Thursday**: Smoke turkey legs, roast breasts, finish sides
 
@@ -29,15 +29,12 @@ Start defrosting turkeys in refrigerator by Friday evening (24 hours for every 4
 
 ## Tuesday
 
-### Dry brine
+### Dry brine seasoning
 
-> Consider keeping salt separate.
-
-Combine in a medium bowl:
+Combine in a medium bowl (the salt goes on separately):
 
 - 14 grams (2 tablespoons) whole **black peppercorns**, very finely ground
 - 8 grams (2 tablespoons) whole **pink peppercorns**, very finely ground
-- 40 grams **Diamond Crystal kosher salt**
 - 19 grams (2 tablespoons) **garlic powder** (contains fructans, which may trigger intolerance)
 - 14 grams (2 tablespoons) **onion powder** (contains fructans, which may trigger intolerance)
 - 7 grams (1 tablespoon) **smoked paprika**
@@ -55,10 +52,17 @@ Refrigerate the wings, backbones, necks, hearts, and gizzards, covered, for grav
 
 ### Dry brine breasts
 
-Place each breast on a wire rack set in a baking sheet (triple lined with aluminum foil if roasting in the same pan on Thanksgiving). Apply dry brine mixture evenly, and refrigerate uncovered until Thursday (about 48 hours).
+Place each breast on a wire rack set in a baking sheet (triple lined with aluminum foil if roasting in the same pan on Thanksgiving).
 
 - Turkey breasts
-- Dry brine mixture
+
+Sprinkle salt evenly over all surfaces of both breasts, about half on each:
+
+- 40 grams **Morton kosher salt**
+
+Then apply seasoning evenly over the salt, and refrigerate uncovered until Thursday (about 48 hours):
+
+- Dry brine seasoning
 
 ## Wednesday
 
