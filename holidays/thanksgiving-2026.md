@@ -100,13 +100,13 @@ Remove pans from oven and divide between them, tossing to coat with oil:
 
 Return to oven and roast, tossing halfway through, until poultry is deeply browned and crisp and vegetables are browned (about 30–40 minutes).
 
-Remove pans from oven, and lower oven to 425 F for the potatoes. Transfer solids to a 16-quart stock pot.
+Remove pans from oven, and lower oven to 425 F for the potatoes. Transfer solids to a 12-quart stock pot.
 
 Set roasting pan over two burners on medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 3 minutes):
 
 - 180 grams (0.75 cup) **amontillado sherry**
 
-Scrape the deglazed bits and any browned bits from the sheet pan into the stock pot, add the remaining ingredients, and bring to a low simmer over medium-high heat:
+Scrape the deglazed bits and any browned bits from the sheet pan into the stock pot, add the remaining ingredients, and bring to a low simmer over medium-high heat. The pot will be nearly full, so pack the parts down and add the last of the stock as they settle:
 
 - Reserved hearts and gizzards
 - 5 quarts **chicken stock**, warmed
@@ -114,7 +114,7 @@ Scrape the deglazed bits and any browned bits from the sheet pan into the stock 
 
 Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 45–60 minutes).
 
-Strain through a fat separator in batches, discarding fat and solids. Rinse pot, return broth to pot, and bring to a simmer.
+Strain through a fat separator in batches into a 7-quart pot, discarding fat and solids, and bring to a simmer. Wash the 12-quart pot for the potatoes.
 
 Add and whisk constantly until completely incorporated:
 
