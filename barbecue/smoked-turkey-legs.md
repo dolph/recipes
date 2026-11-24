@@ -1,39 +1,37 @@
 # Smoked turkey legs
 
-> Makes 13 small turkey drumsticks. Brine 12-18 hours, smoke at 260-275 F to 180 F internal, then finish in a 450 F oven for 5-8 minutes.
+> Makes 12 small turkey drumsticks. Brine 12-18 hours, smoke at 260-275 F to 180 F internal, then finish in a 450 F oven for 5-8 minutes.
 
 Weigh together, including bones, and record the total weight in grams:
 
-- 13 small **turkey drumsticks**
+- 12 small **turkey drumsticks**
 
 Calculate the pink curing salt by weight, using the equilibrium method for a target of approximately 156 parts per million sodium nitrite:
 
 > Cure #1 (grams) = 0.0025 × (6000 + turkey weight in grams)
 >
-> For example, if the 13 legs weigh 5000 grams total, use 27.5 grams of Cure #1.
+> For example, if the 12 legs weigh 5000 grams total, use 27.5 grams of Cure #1.
 >
-> This assumes standard Cure #1 containing 6.25% sodium nitrite. Use an accurate scale, and do not substitute other curing salts.
+> This assumes standard Cure #1 containing 6.25% sodium nitrite.
 
 In a large pot, heat gently, stirring until the salt and sugar dissolve:
 
 - 1500 grams **water**
 - 300 grams **kosher salt**
 - 600 grams **brown sugar**
-- 8 grams **dried thyme**
-- 8 grams **dried sage**
-- 5 grams **dried rosemary**
+- 20 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves), about one 0.75 ounce package
 - 5 grams **black peppercorns**
-- 9 cloves **garlic**, smashed (strained out with the brine, but fructans are water-soluble, so traces may reach the meat)
+- 9 cloves **garlic**, smashed
 
 Remove from heat, and add:
 
-- 4500 grams cold **water**
+- 4500 grams **ice**
 
-Once cooled, stir in until fully dissolved:
+Stir in until fully dissolved:
 
 - **Pink curing salt #1** (6.25% sodium nitrite), weighed as calculated above
 
-Refrigerate until the brine is at or below 40 F.
+Keep stirring until the brine is at or below 40 F. Some ice will remain, which is fine.
 
 Place the turkey legs in a nonreactive container or food-safe brining bags. Add the cold brine, ensuring the legs are completely submerged (weigh down if necessary). Use a snug container to minimize excess brine. If more brine is needed, scale the ingredients proportionally and recalculate the curing salt using the actual water and meat weights.
 
