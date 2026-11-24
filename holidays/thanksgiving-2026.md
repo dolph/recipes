@@ -1,10 +1,11 @@
 # Thanksgiving 2026
 
-> Serves 10 people with plenty of leftovers.
+> Serves 27 people (about 12 of them kids, who get the smoked legs), with turkey leftovers to send home. This plan covers only the turkey, gravy, and mashed potatoes.
 >
 > Comparison to [`thanksgiving.md`](thanksgiving.md):
 >
 > - No cornbread dressing
+> - Gravy and mashed potatoes scaled up for 27 people
 > - Two turkeys: roast the breasts and thighs, smoke the drumsticks (see [smoked turkey legs](../barbecue/smoked-turkey-legs.md))
 > - Break down and dry brine on Tuesday; make gravy and sides on Wednesday
 >
@@ -69,8 +70,8 @@ Oven order today: gravy parts at 450 F, then potatoes at 425 F, then topping at 
 
 With gloved fingers (or a fork), mash together in a 24-ounce container until homogeneous:
 
-- 55 grams **flour**
-- 56 grams (4 tablespoons) **butter**, room temperature
+- 90 grams **flour**
+- 90 grams (6.5 tablespoons) **butter**, room temperature
 
 Set aside for gravy.
 
@@ -78,112 +79,113 @@ Set aside for gravy.
 
 Preheat oven to 450 F.
 
-In a large roasting pan, toss turkey parts with oil until coated, spreading them in as close to a single layer as possible:
+Divide turkey parts between a large roasting pan and a rimmed half sheet pan, toss with oil until coated, and spread them in as close to a single layer as possible:
 
 - Wings, backbones, and necks from both turkeys (about 6 pounds), broken down into 1" pieces
-- 55 grams (4 tablespoons) **olive oil**
+- 3 pounds **turkey wings**, separated at the joints
+- 80 grams **olive oil**
 
-Roast, tossing halfway through, until golden brown and starting to crisp (about 25–35 minutes).
+Roast on two racks, tossing and swapping pans halfway through, until golden brown and starting to crisp (about 25–35 minutes).
 
-Remove roasting pan from oven and add, tossing to coat with oil:
+Remove pans from oven and divide between them, tossing to coat with oil:
 
-- 4 heads of **garlic**, cut in half crosswise
-- 4 large **shallots**, unpeeled, halved
-- 115 grams **ginger** (about an 8" piece), scrubbed, thickly sliced
-- 225 grams **baby bella, shiitake, or white button mushrooms**, torn into large pieces
-- 16 grams **black peppercorns**, lightly crushed
-- 120 grams **olive oil**
+- 6 heads of **garlic**, cut in half crosswise
+- 6 large **shallots**, unpeeled, halved
+- 170 grams **ginger**, scrubbed, thickly sliced
+- 340 grams **baby bella, shiitake, or white button mushrooms**, torn into large pieces
+- 24 grams **black peppercorns**, lightly crushed
+- 180 grams **olive oil**
 
 Return to oven and roast, tossing halfway through, until poultry is deeply browned and crisp and vegetables are browned (about 30–40 minutes).
 
-Remove roasting pan from oven, and lower oven to 425 F for the potatoes. Transfer solids to a 7-quart stock pot.
+Remove pans from oven, and lower oven to 425 F for the potatoes. Transfer solids to a 16-quart stock pot.
 
-Set roasting pan over two burners on medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 2 minutes):
+Set roasting pan over two burners on medium-high heat. Add sherry and cook, stirring and scraping up any browned bits with a wooden spoon, until sherry is almost completely reduced (about 3 minutes):
 
-- 120 grams (0.5 cup) **amontillado sherry**
+- 180 grams (0.75 cup) **amontillado sherry**
 
-Scrape the deglazed bits into the stock pot, add the remaining ingredients, and bring to a low simmer over medium-high heat:
+Scrape the deglazed bits and any browned bits from the sheet pan into the stock pot, add the remaining ingredients, and bring to a low simmer over medium-high heat:
 
 - Reserved hearts and gizzards
-- 3 quarts **chicken stock**, warmed
-- 30 grams **parsley**, including stems
+- 5 quarts **chicken stock**, warmed
+- 45 grams **parsley**, including stems
 
-Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 30–40 minutes).
+Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 45–60 minutes).
 
-Strain through a fat separator, discarding fat and solids. Rinse pot, return broth to pot, and bring to a simmer.
+Strain through a fat separator in batches, discarding fat and solids. Rinse pot, return broth to pot, and bring to a simmer.
 
 Add and whisk constantly until completely incorporated:
 
 - Beurre manié
 
-Simmer, whisking often and skimming any foam from surface, until gravy is thick enough to coat a spoon (about 6–8 minutes).
+Simmer, whisking often and skimming any foam from surface, until gravy is thick enough to coat a spoon (about 8–10 minutes). This makes about 3.5 quarts.
 
 Cool, cover, and refrigerate.
 
 ### Roast potatoes
 
-Once the oven is at 425 F, place potatoes on a rimmed baking sheet or in a large baking dish and cover tightly with foil. Roast until very tender (about 80–95 minutes) and internal temperature reaches 210 F.
+Once the oven is at 425 F, divide potatoes between two rimmed half sheet pans and cover tightly with foil. Roast on two racks, swapping pans halfway through, until very tender (about 90–110 minutes) and internal temperature reaches 210 F.
 
-- 5 pounds **Yukon Gold potatoes**, scrubbed
+- 10 pounds **Yukon Gold potatoes**, scrubbed
 
 ### Garlic mixture
 
-Meanwhile, place in a large saucepan:
+Meanwhile, place in a 6-quart saucepan:
 
-- 336 grams (24 tablespoons) **butter**
-- 1 large head of **garlic**, halved crosswise
-- 6 sprigs **thyme**
-- 10 grams **black peppercorns**, lightly crushed
-- 30 grams **kosher salt**
-- 1050 grams (5 cups) **whole milk**
-- Zest of 1 large **lemon** (in large strips)
+- 672 grams (48 tablespoons) **butter**
+- 2 large heads of **garlic**, halved crosswise
+- 12 sprigs **thyme**
+- 20 grams **black peppercorns**, lightly crushed
+- 60 grams **kosher salt**
+- 2100 grams (10 cups) **whole milk**
+- Zest of 2 large **lemons** (in large strips)
 
 Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediately remove from heat, cover, and let sit at least 30 minutes.
 
 ### Mashed potatoes
 
-When potatoes are done, lower oven to 350 F for the topping. Remove skins while potatoes are very hot (hold with a kitchen towel), add to a 6- to 8-quart pot, and mash immediately.
+When potatoes are done, lower oven to 350 F for the topping. Remove skins while potatoes are very hot (hold with a kitchen towel), add to a 12-quart pot, and mash immediately.
 
 Return garlic mixture to a simmer, then strain into pot with potatoes, discarding solids.
 
 Set potato mixture over medium heat and whisk until liquid is incorporated and potatoes are very smooth and bubbling. Taste and season with more salt if needed.
 
-Transfer to a 13x9" baking dish, cover, and refrigerate.
+Divide between two 13x9" baking dishes, cover, and refrigerate.
 
 ### Mashed potatoes topping
 
 Pulse in a food processor until coarse crumbs form (about 1 minute):
 
-- 100 grams **country-style bread** (about two 1/2"-thick slices), torn into 1" pieces
+- 200 grams **country-style bread** (about four 1/2"-thick slices), torn into 1" pieces
 
 Add to breadcrumbs, and pulse just once or twice to combine:
 
-- 70 grams (about 2.5 cups) **kettle-style potato chips** (such as Cape Cod)
+- 140 grams (about 5 cups) **kettle-style potato chips** (such as Cape Cod)
 
-Heat in a large ovenproof skillet over medium-low heat, swirling, until butter is foaming and garlic is fragrant and just golden (about 4 minutes), then remove and discard garlic:
+Heat in a 12" ovenproof skillet over medium-low heat, swirling, until butter is foaming and garlic is fragrant and just golden (about 4 minutes), then remove and discard garlic:
 
-- 70 grams (5 tablespoons) **butter**
-- 5 cloves of **garlic**, smashed
+- 140 grams (10 tablespoons) **butter**
+- 10 cloves of **garlic**, smashed
 
 Add to the garlic butter over medium heat:
 
 - Breadcrumb mixture
-- 3 grams kosher salt
-- 1 gram freshly ground black pepper
+- 6 grams kosher salt
+- 2 grams freshly ground black pepper
 
 Cook, stirring, until mixture is coated in butter and fragrant, about 1 minute.
 
-Transfer skillet to 350 F oven and bake, tossing every 5 minutes, until dark golden brown (about 15–20 minutes).
+Transfer skillet to 350 F oven and bake, tossing every 5 minutes, until dark golden brown (about 20–25 minutes).
 
 Meanwhile, combine in a small bowl:
 
-- 4 sprigs **thyme**, leaves picked
-- 3 grams (1 1/4 teaspoons) **hot smoked Spanish paprika**
-- Zest of 1 large **lemon**, finely grated
+- 8 sprigs **thyme**, leaves picked
+- 6 grams (2 1/2 teaspoons) **hot smoked Spanish paprika**
+- Zest of 2 large **lemons**, finely grated
 
 Remove crumb mixture from oven and immediately toss in thyme mixture. Taste and season with more salt if needed. Let topping cool in pan.
 
-Transfer to a 32-ounce container and refrigerate.
+Transfer to a 64-ounce container and refrigerate.
 
 ### Turkey glaze
 
@@ -242,12 +244,12 @@ Completely submerge the legs in the brine in a 16-quart food-safe container, and
 
 Whisk together in a small bowl and set aside:
 
-- 2 teaspoons **sherry vinegar** or **red wine vinegar**
-- 1 teaspoon **MSG**
+- 1 tablespoon **sherry vinegar** or **red wine vinegar**
+- 1 1/2 teaspoons **MSG**
 
 #### Minced parsley
 
-- 20 grams (about 1/3 cup) **parsley**, minced
+- 40 grams (about 2/3 cup) **parsley**, minced
 
 ### Smoke turkey legs
 
@@ -306,7 +308,7 @@ Season to taste:
 
 ### Finish mashed potatoes
 
-**T-30m**: Transfer to a 6- to 8-quart pot and reheat over medium, whisking constantly and loosening with more milk if needed:
+**T-45m**: Transfer to a 12-quart pot and reheat over medium-low, whisking constantly and loosening with more milk if needed:
 
 - Mashed potatoes
 - **Whole milk**, as needed
@@ -315,7 +317,7 @@ Add:
 
 - Minced parsley
 
-Transfer mashed potatoes to a large bowl and sprinkle topping over just before serving.
+Transfer mashed potatoes to two large bowls and sprinkle topping over just before serving.
 
 - Mashed potatoes topping
 
