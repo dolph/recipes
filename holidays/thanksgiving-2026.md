@@ -5,21 +5,21 @@
 > Comparison to [`thanksgiving.md`](thanksgiving.md):
 >
 > - No cornbread dressing
-> - Two turkeys: roast the breasts, smoke all of the legs (see [smoked turkey legs](../barbecue/smoked-turkey-legs.md))
+> - Two turkeys: roast the breasts and thighs, smoke the drumsticks (see [smoked turkey legs](../barbecue/smoked-turkey-legs.md))
 > - Break down and dry brine on Tuesday; make gravy and sides on Wednesday
 >
 > Times on Thursday are counted back from dinner (**T**). For a 4 PM dinner, T-5h is 11 AM.
 
-- **Turkey**: Bon Appétit's [Expertly Spiced and Glazed Roast Turkey](https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey) (breasts only) + [smoked turkey legs](../barbecue/smoked-turkey-legs.md)
+- **Turkey**: Bon Appétit's [Expertly Spiced and Glazed Roast Turkey](https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey) (breasts and thighs) + [smoked turkey legs](../barbecue/smoked-turkey-legs.md)
 - **Gravy**: Bon Appétit's [Why-Is-It-So-Good Gravy](https://www.bonappetit.com/recipe/why-is-it-so-good-gravy)
 - **Mashed potatoes**: Bon Appétit's [Mashed Potatoes With Crispety Cruncheties](https://www.bonappetit.com/recipe/mashed-potatoes-with-crispety-cruncheties)
 
 Schedule:
 
 - **Friday**: Thaw turkeys (if necessary)
-- **Tuesday**: Make dry brine mixture, break down turkeys, dry brine breasts
+- **Tuesday**: Make dry brine mixture, break down turkeys, dry brine breasts and thighs
 - **Wednesday**: Cook gravy, cook mashed potatoes and topping, make glaze, brine turkey legs (between T-25h and T-19h)
-- **Thursday**: Smoke turkey legs, roast breasts, finish sides
+- **Thursday**: Smoke turkey legs, roast breasts and thighs, finish sides
 
 ## Friday
 
@@ -31,15 +31,17 @@ Start defrosting turkeys in refrigerator by Friday evening (24 hours for every 4
 
 ### Dry brine
 
+> Sized for about 7.5 kilograms of breasts and thighs (roughly 1% salt).
+
 Combine in a medium bowl:
 
-- 14 grams (2 tablespoons) whole **black peppercorns**, very finely ground
-- 8 grams (2 tablespoons) whole **pink peppercorns**, very finely ground
-- 40 grams **Morton kosher salt**
-- 19 grams (2 tablespoons) **garlic powder** (contains fructans, which may trigger intolerance)
-- 14 grams (2 tablespoons) **onion powder** (contains fructans, which may trigger intolerance)
-- 7 grams (1 tablespoon) **smoked paprika**
-- 12 grams (1 tablespoon) **light brown sugar**
+- 24 grams (3.5 tablespoons) whole **black peppercorns**, very finely ground
+- 14 grams (3.5 tablespoons) whole **pink peppercorns**, very finely ground
+- 70 grams **Morton kosher salt**
+- 33 grams (3.5 tablespoons) **garlic powder** (contains fructans, which may trigger intolerance)
+- 25 grams (3.5 tablespoons) **onion powder** (contains fructans, which may trigger intolerance)
+- 12 grams (1.75 tablespoons) **smoked paprika**
+- 21 grams (1.75 tablespoons) **light brown sugar**
 
 ### Break down turkeys
 
@@ -47,15 +49,16 @@ Separate each turkey into breast (keep whole, on the bone), leg quarters, wings,
 
 - Turkeys
 
-Refrigerate the drumsticks and thighs, covered, for brining on Wednesday.
+Refrigerate the drumsticks, covered, for brining on Wednesday.
 
 Refrigerate the wings, backbones, necks, hearts, and gizzards, covered, for gravy on Wednesday. Discard the livers or save them for another use.
 
-### Dry brine breasts
+### Dry brine breasts and thighs
 
-Place each breast on a wire rack set in a baking sheet (triple lined with aluminum foil if roasting in the same pan on Thanksgiving). Apply dry brine mixture evenly, about half on each breast, and refrigerate uncovered until Thursday (about 48 hours).
+Place one breast and two thighs on each of two wire racks set in baking sheets (triple lined with aluminum foil if roasting in the same pans on Thanksgiving). Apply dry brine mixture evenly over all pieces, and refrigerate uncovered until Thursday (about 48 hours).
 
 - Turkey breasts
+- Turkey thighs
 - Dry brine mixture
 
 ## Wednesday
@@ -197,31 +200,31 @@ Remove glaze from heat, discard solids, and refrigerate.
 
 ### Brine turkey legs
 
-> Start between T-25h and T-19h, so the legs get 12–18 hours before coming out at T-7h. For a 4 PM dinner, that's between 3 PM and 9 PM tonight. This is 1.5 batches of the [smoked turkey legs](../barbecue/smoked-turkey-legs.md) brine, to keep everything submerged.
+> Start between T-25h and T-19h, so the legs get 12–18 hours before coming out at T-7h. For a 4 PM dinner, that's between 3 PM and 9 PM tonight. This is one batch of the [smoked turkey legs](../barbecue/smoked-turkey-legs.md) brine.
 
 Weigh together, including bones, and record the total weight in grams:
 
-- Drumsticks and thighs from both turkeys
+- Drumsticks from both turkeys
 - 9 small **turkey drumsticks**
 
 Calculate the pink curing salt by weight, using the equilibrium method for a target of approximately 156 parts per million sodium nitrite:
 
-> Cure #1 (grams) = 0.0025 × (9000 + turkey weight in grams)
+> Cure #1 (grams) = 0.0025 × (6000 + turkey weight in grams)
 >
-> For example, if the legs weigh 8000 grams total, use 42.5 grams of Cure #1.
+> For example, if the legs weigh 5000 grams total, use 27.5 grams of Cure #1.
 
 In a large pot, heat gently, stirring until the salt and sugar dissolve:
 
-- 2250 grams **water**
-- 450 grams **kosher salt**
-- 900 grams **brown sugar**
-- 30 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves)
-- 7.5 grams **black peppercorns**
-- 14 cloves **garlic**, smashed
+- 1500 grams **water**
+- 300 grams **kosher salt**
+- 600 grams **brown sugar**
+- 20 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves)
+- 5 grams **black peppercorns**
+- 9 cloves **garlic**, smashed
 
 Remove from heat, and add:
 
-- 6750 grams **ice**
+- 4500 grams **ice**
 
 Stir in until fully dissolved:
 
@@ -229,7 +232,7 @@ Stir in until fully dissolved:
 
 Keep stirring until the brine is at or below 40 F. Some ice will remain, which is fine.
 
-Completely submerge the legs in the brine in a 22-quart food-safe container, and refrigerate at 40 F or below.
+Completely submerge the legs in the brine in a 16-quart food-safe container, and refrigerate at 40 F or below.
 
 ## Thursday
 
@@ -256,17 +259,17 @@ Whisk together in a small bowl and set aside:
 
 - **Oak** or **hickory** wood, optionally blended with **apple** or **cherry** wood
 
-**T-5h**: Arrange the legs on the grates with space between them. Smoke until each piece reaches 180 F internal in its thickest portion, avoiding the bone when measuring (about 2.5–4 hours; the small drumsticks will finish before the thighs).
+**T-5h**: Arrange the legs on the grates with space between them. Smoke until each piece reaches 180 F internal in its thickest portion, avoiding the bone when measuring (about 2.5–3.5 hours; the small drumsticks will finish first).
 
 As each piece reaches 180 F, wrap it in aluminum foil and hold it in a dry cooler lined with towels until serving.
 
-### Roast turkey breasts
+### Roast turkey breasts and thighs
 
-**T-3.5h**: Rest breasts at room temperature for 1 hour.
+**T-3.5h**: Rest breasts and thighs at room temperature for 1 hour.
 
-**T-2.5h**: Place two racks in the middle of the oven, with enough room for a breast on each; preheat to 425 F.
+**T-2.5h**: Place two racks in the middle of the oven, with enough room for a baking sheet of breast and thighs on each; preheat to 425 F.
 
-Rub breasts:
+Rub breasts and thighs:
 
 - 80 grams (6 tablespoons) **avocado oil**
 
@@ -276,11 +279,11 @@ Pour into each baking sheet:
 
 Roast until skin is mostly golden brown (about 20-25 minutes).
 
-**T-2h**: Reduce oven temperature to 300 F and continue to roast, swapping racks and rotating baking sheets halfway through, brushing with glaze every 20 minutes, and adding more water as needed to maintain liquid in baking sheets, until the breasts register 150 F (50-70 minutes longer).
+**T-2h**: Reduce oven temperature to 300 F and continue to roast, swapping racks and rotating baking sheets halfway through, brushing with glaze every 20 minutes, and adding more water as needed to maintain liquid in baking sheets, until the breasts register 150 F and the thighs register 170 F (50-70 minutes longer). Remove each piece as it reaches temperature.
 
 - Turkey glaze, warmed
 
-**About T-1h**: Remove breasts from oven, tent with foil, and rest 30-60 minutes before carving. Reserve drippings for gravy. Raise oven to 450 F for the turkey legs.
+**About T-1h**: Once everything is out of the oven, tent with foil, and rest 30-60 minutes before carving. Reserve drippings for gravy. Raise oven to 450 F for the turkey legs.
 
 ### Finish gravy
 
