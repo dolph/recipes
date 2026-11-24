@@ -33,7 +33,7 @@ Stir in until fully dissolved:
 
 Keep stirring until the brine is at or below 40 F. Some ice will remain, which is fine.
 
-Place the turkey legs in a nonreactive container or food-safe brining bags. Add the cold brine, ensuring the legs are completely submerged (weigh down if necessary). Use a snug container to minimize excess brine. If more brine is needed, scale the ingredients proportionally and recalculate the curing salt using the actual water and meat weights.
+Completely submerge turkey legs in the brine in a food-safe container.
 
 Refrigerate at 40 F or below for 12-18 hours. An overnight brine may not produce uniform cured color all the way to the bone.
 
