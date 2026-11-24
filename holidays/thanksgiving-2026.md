@@ -32,7 +32,7 @@ Start defrosting turkeys in refrigerator by Friday evening (24 hours for every 4
 
 ### Dry brine
 
-> Sized for about 8.7 kilograms of breasts and thighs (roughly 1% salt).
+> Sized for about 19 pounds of bone-in breasts and thighs (about 1% salt by weight).
 
 Combine in a medium bowl:
 
