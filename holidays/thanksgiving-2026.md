@@ -85,7 +85,7 @@ Divide turkey parts between a large roasting pan and a rimmed half sheet pan, to
 - Wings, backbones, and necks from both turkeys (about 6 pounds), broken down into 1" pieces
 - 4 extra **turkey wings**, separated at the joints
 - 2 extra **turkey necks**
-- 80 grams **olive oil**
+- 80 grams **avocado oil**
 
 Roast on two racks, tossing and swapping pans halfway through, until golden brown and starting to crisp (about 25–35 minutes).
 
@@ -96,7 +96,7 @@ Remove pans from oven and divide between them, tossing to coat with oil:
 - 170 grams **ginger**, scrubbed, thickly sliced
 - 340 grams **baby bella, shiitake, or white button mushrooms**, torn into large pieces
 - 24 grams **black peppercorns**, lightly crushed
-- 180 grams **olive oil**
+- 180 grams **avocado oil**
 
 Return to oven and roast, tossing halfway through, until poultry is deeply browned and crisp and vegetables are browned (about 30–40 minutes).
 
