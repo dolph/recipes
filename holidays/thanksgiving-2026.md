@@ -45,7 +45,7 @@ Combine in a medium bowl:
 
 ### Break down turkeys
 
-Separate each turkey into breast (keep whole, on the bone), leg quarters, wings, and backbone. Split each leg quarter at the joint into a drumstick and a thigh.
+Separate each turkey into breast (keep whole, on the bone, as a crown), leg quarters, wings, and backbone. Split each leg quarter at the joint into a drumstick and a thigh.
 
 - Turkeys
 
@@ -55,7 +55,7 @@ Refrigerate the wings, backbones, necks, hearts, and gizzards, covered, for grav
 
 ### Dry brine breasts and thighs
 
-Place one breast and two thighs on each of two wire racks set in baking sheets (triple lined with aluminum foil if roasting in the same pans on Thanksgiving). Apply dry brine mixture evenly over all pieces, and refrigerate uncovered until Thursday (about 48 hours).
+Place one breast crown and two thighs on each of two wire racks set in rimmed half sheet pans (triple lined with aluminum foil if roasting in the same pans on Thanksgiving). Apply dry brine mixture evenly over all pieces, and refrigerate uncovered until Thursday (about 48 hours).
 
 - Turkey breasts
 - Turkey thighs
@@ -279,7 +279,7 @@ Pour into each baking sheet:
 
 Roast until skin is mostly golden brown (about 20-25 minutes).
 
-**T-2h**: Reduce oven temperature to 300 F and continue to roast, swapping racks and rotating baking sheets halfway through, brushing with glaze every 20 minutes, and adding more water as needed to maintain liquid in baking sheets, until the breasts register 150 F and the thighs register 170 F (50-70 minutes longer). Remove each piece as it reaches temperature.
+**T-2h**: Reduce oven temperature to 300 F and continue to roast, swapping racks and rotating baking sheets halfway through, brushing with glaze every 20 minutes, and adding more water as needed to maintain liquid in baking sheets, until the breasts register 150 F and the thighs register 170 F (50-80 minutes longer; two loaded sheets in one oven tend toward the long end). Remove each piece as it reaches temperature.
 
 - Turkey glaze, warmed
 
