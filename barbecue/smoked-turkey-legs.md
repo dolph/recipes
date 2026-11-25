@@ -14,14 +14,14 @@ Calculate the pink curing salt by weight, using the equilibrium method for a tar
 >
 > This assumes standard Cure #1 containing 6.25% sodium nitrite.
 
-In a large pot, heat gently, stirring until the salt and sugar dissolve:
+In a large pot, heat gently, stirring until the salt and sugar dissolve. Avoid a long boil, which can make the sage and rosemary taste bitter:
 
 - 1500 grams **water**
 - 300 grams **kosher salt**
 - 600 grams **brown sugar**
-- 20 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves), about one 0.75 ounce package
+- 60 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves), about three 0.75 ounce packages
 - 5 grams **black peppercorns**
-- 9 cloves **garlic**, smashed
+- 1 head **garlic**, cloves separated and smashed in their skins
 
 Remove from heat, and add:
 
