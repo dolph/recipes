@@ -9,7 +9,7 @@
 > - Two turkeys: roast the breasts and thighs, smoke the drumsticks (see [smoked turkey legs](../barbecue/smoked-turkey-legs.md))
 > - Break down and dry brine on Tuesday; make gravy and sides on Wednesday
 >
-> Times on Thursday are counted back from dinner (**T**). For a 4 PM dinner, T-5h is 11 AM.
+> Dinner is served Thursday at 4:30 PM Central. All times are Central.
 
 - **Turkey**: Bon Appétit's [Expertly Spiced and Glazed Roast Turkey](https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey) (breasts and thighs) + [smoked turkey legs](../barbecue/smoked-turkey-legs.md)
 - **Gravy**: Bon Appétit's [Why-Is-It-So-Good Gravy](https://www.bonappetit.com/recipe/why-is-it-so-good-gravy)
@@ -263,7 +263,7 @@ Remove glaze from heat, discard solids, and refrigerate.
 
 ### Brine turkey legs
 
-> Start in the afternoon or evening, 12–18 hours before the legs come out of the brine on Thursday morning. For a 4 PM dinner, that's between 3 PM and 9 PM. This is one batch of the [smoked turkey legs](../barbecue/smoked-turkey-legs.md) brine.
+> Start Wednesday between 3:30 PM and 9:30 PM, 12–18 hours before the legs come out of the brine at 9:30 AM Thursday. This is one batch of the [smoked turkey legs](../barbecue/smoked-turkey-legs.md) brine.
 
 Weigh together, including bones, and record the total weight in grams:
 
@@ -303,7 +303,7 @@ Completely submerge the legs in the brine in a 16-quart food-safe container, and
 
 #### Softened butter
 
-**T-7h** (Thursday morning): Set out at room temperature, still wrapped, so it is soft and spreadable by dinner:
+**9:30 AM**: Set out at room temperature, still wrapped, so it is soft and spreadable by dinner:
 
 - 339 grams (3 sticks) **butter**
 
@@ -320,23 +320,23 @@ Whisk together in a small bowl and set aside:
 
 ### Smoke turkey legs
 
-**T-7h**: Remove the legs and discard the brine. Rinse thoroughly under cold water, then pat thoroughly dry. Arrange on wire racks over sheet pans, and refrigerate uncovered to dry the skin and develop a slightly tacky surface.
+**9:30 AM**: Remove the legs and discard the brine. Rinse thoroughly under cold water, then pat thoroughly dry. Arrange on wire racks over sheet pans, and refrigerate uncovered to dry the skin and develop a slightly tacky surface.
 
 - Brined turkey legs
 
-**T-5.5h**: Preheat the smoker to 260-275 F with:
+**11:00 AM**: Preheat the smoker to 260-275 F with:
 
 - **Oak** or **hickory** wood, optionally blended with **apple** or **cherry** wood
 
-**T-5h**: Arrange the legs on the grates with space between them. Smoke until each piece reaches 180 F internal in its thickest portion, avoiding the bone when measuring (about 2.5–3.5 hours; the small drumsticks will finish first).
+**11:30 AM**: Arrange the legs on the grates with space between them. Smoke until each piece reaches 180 F internal in its thickest portion, avoiding the bone when measuring (about 2.5–3.5 hours; the small drumsticks will finish first).
 
 As each piece reaches 180 F, wrap it in aluminum foil and hold it in a dry cooler lined with towels until serving.
 
 ### Roast turkey breasts and thighs
 
-**T-3.5h**: Rest breasts and thighs at room temperature for 1 hour.
+**1:00 PM**: Rest breasts and thighs at room temperature for 1 hour.
 
-**T-2.5h**: Place two racks in the middle of the oven, with enough room for a baking sheet of breast and thighs on each; preheat to 425 F.
+**2:00 PM**: Place two racks in the middle of the oven, with enough room for a baking sheet of breast and thighs on each; preheat to 425 F.
 
 Rub breasts and thighs:
 
@@ -348,19 +348,19 @@ Pour into each baking sheet:
 
 Roast until skin is mostly golden brown (about 20-25 minutes).
 
-**T-2h**: Reduce oven temperature to 300 F and continue to roast, swapping racks and rotating baking sheets halfway through, brushing with glaze every 20 minutes, and adding more water as needed to maintain liquid in baking sheets, until the breasts register 150 F and the thighs register 170 F (50-80 minutes longer; two loaded sheets in one oven tend toward the long end). Remove each piece as it reaches temperature.
+**2:30 PM**: Reduce oven temperature to 300 F and continue to roast, swapping racks and rotating baking sheets halfway through, brushing with glaze every 20 minutes, and adding more water as needed to maintain liquid in baking sheets, until the breasts register 150 F and the thighs register 170 F (50-80 minutes longer; two loaded sheets in one oven tend toward the long end). Remove each piece as it reaches temperature.
 
 - Turkey glaze, warmed
 
-**About T-1h**: Once everything is out of the oven, tent with foil, and rest 30-60 minutes before carving. Reserve drippings for gravy. Raise oven to 450 F for the turkey legs.
+**About 3:30 PM**: Once everything is out of the oven, tent with foil, and rest 30-60 minutes before carving. Reserve drippings for gravy. Raise oven to 450 F for the turkey legs.
 
 ### Finish gravy
 
-**T-1.5h**: Return to a gentle simmer, cover, and hold until turkey comes out of the oven:
+**3:00 PM**: Return to a gentle simmer, cover, and hold until turkey comes out of the oven:
 
 - Gravy
 
-**About T-1h**: Add and whisk to combine:
+**About 3:30 PM**: Add and whisk to combine:
 
 - Turkey drippings
 
@@ -375,7 +375,7 @@ Season to taste:
 
 ### Finish mashed potatoes
 
-**T-30m**: Transfer to the 12-quart pot and reheat over medium, whisking constantly and loosening with more milk if needed:
+**4:00 PM**: Transfer to the 12-quart pot and reheat over medium, whisking constantly and loosening with more milk if needed:
 
 - Mashed potatoes
 - **Whole milk**, as needed
@@ -390,7 +390,7 @@ Transfer mashed potatoes to a large bowl and sprinkle topping over just before s
 
 ### Finish turkey legs
 
-**T-15m**: Unwrap the legs and arrange on wire racks over sheet pans. Roast at 450 F for 5-8 minutes, until the skin tightens and becomes slightly crisp.
+**4:15 PM**: Unwrap the legs and arrange on wire racks over sheet pans. Roast at 450 F for 5-8 minutes, until the skin tightens and becomes slightly crisp.
 
 - Smoked turkey legs
 
