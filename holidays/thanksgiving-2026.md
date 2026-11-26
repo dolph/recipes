@@ -301,6 +301,12 @@ Completely submerge the legs in the brine in a 16-quart food-safe container, and
 
 ### Prep
 
+#### Softened butter
+
+**T-7h** (Thursday morning): Set out at room temperature, still wrapped, so it is soft and spreadable by dinner:
+
+- 339 grams (3 sticks) **butter**
+
 #### Flavor enhancing slurry
 
 Whisk together in a small bowl and set aside:
