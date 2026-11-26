@@ -173,7 +173,7 @@ Scrape the deglazed bits and any browned bits from the sheet pan into the stock 
 
 Reduce heat and simmer gently, skimming fat from surface occasionally and turning wings so both sides get a chance to be submerged, until liquid is flavorful, mahogany in color, and reduced by about one-third (about 45–60 minutes).
 
-Strain through a fat separator in batches into a 7-quart pot, discarding fat and solids, and bring to a simmer. Wash the 12-quart pot for the potatoes.
+Strain through a fine-mesh strainer into a 7-quart pot, discarding solids, and bring to a simmer. Leave the fat in for now; it comes off more cleanly once the gravy is cold. Wash the 12-quart pot for the potatoes.
 
 Add and whisk constantly until completely incorporated:
 
@@ -181,7 +181,7 @@ Add and whisk constantly until completely incorporated:
 
 Simmer, whisking often and skimming any foam from surface, until gravy is thick enough to coat a spoon (about 8–10 minutes). This makes about 3.5 quarts.
 
-Cool, cover, and refrigerate.
+Cool, cover, and refrigerate overnight. The fat will rise and harden into a layer on top.
 
 ### Roast potatoes
 
@@ -356,13 +356,13 @@ Roast until skin is mostly golden brown (about 20-25 minutes).
 
 ### Finish gravy
 
-**3:00 PM**: Return to a gentle simmer, cover, and hold until turkey comes out of the oven:
+**3:00 PM**: Scrape the hardened fat off the surface of the cold gravy with a large spoon, and discard it. Return to a gentle simmer, cover, and hold until turkey comes out of the oven:
 
 - Gravy
 
-**About 3:30 PM**: Add and whisk to combine:
+**About 3:30 PM**: Tilt each baking sheet so the drippings pool in a corner, let them settle for a minute, and spoon off the clear fat that floats to the top. Add and whisk to combine:
 
-- Turkey drippings
+- Turkey drippings, fat spooned off
 
 Remove from heat and whisk in:
 
