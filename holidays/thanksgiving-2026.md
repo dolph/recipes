@@ -336,9 +336,9 @@ As each piece reaches 180 F, wrap it in aluminum foil and hold it in a dry coole
 
 **1:00 PM**: Rest breasts and thighs at room temperature for 1 hour.
 
-**2:00 PM**: Place two racks in the middle of the oven, with enough room for a baking sheet of breast and thighs on each; preheat to 425 F.
+**1:30 PM**: Place two racks in the middle of the oven, with enough room for a baking sheet of breast and thighs on each; preheat to 425 F.
 
-Rub breasts and thighs:
+**2:00 PM**: Rub breasts and thighs:
 
 - 80 grams (6 tablespoons) **avocado oil**
 
