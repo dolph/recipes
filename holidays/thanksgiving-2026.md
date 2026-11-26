@@ -217,14 +217,14 @@ Calculate the pink curing salt by weight, using the equilibrium method for a tar
 >
 > For example, if the legs weigh 5000 grams total, use 27.5 grams of Cure #1.
 
-In a large pot, heat gently, stirring until the salt and sugar dissolve:
+In a large pot, heat gently, stirring until the salt and sugar dissolve. Avoid a long boil, which can make the sage and rosemary taste bitter:
 
 - 1500 grams **water**
 - 300 grams **kosher salt**
 - 600 grams **brown sugar**
-- 20 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves)
+- 60 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves), about three 0.75 ounce packages
 - 5 grams **black peppercorns**
-- 9 cloves **garlic**, smashed
+- 1 head **garlic**, cloves separated and smashed in their skins
 
 Remove from heat, and add:
 
