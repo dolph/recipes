@@ -22,6 +22,65 @@ Schedule:
 - **Wednesday**: Cook gravy, cook mashed potatoes and topping, make glaze, brine turkey legs (afternoon or evening)
 - **Thursday**: Smoke turkey legs, roast breasts and thighs, finish sides
 
+## Shopping list
+
+> Every bold ingredient below, totaled across all four days. Water is left off.
+
+### Meat
+
+- 2 14-pound **whole turkeys** (buy by the Friday before, to allow 3.5 days of thawing)
+- 9 small **turkey drumsticks**
+- 2 **turkey thighs**
+- 4 **turkey wings**
+- 2 **turkey necks**
+
+### Produce
+
+- 9 heads of **garlic** (8 whole heads, plus 9 cloves)
+- 6 large **shallots**
+- 170 grams **ginger**
+- 340 grams **baby bella, shiitake, or white button mushrooms**
+- 65 grams **parsley**, including stems (about 2 bunches)
+- 70 grams fresh **poultry herbs** (sage, rosemary, bay leaves, and thyme), about four 0.75 ounce packages
+- 10 sprigs **thyme**
+- 2 large **lemons**
+- 1 **orange**
+- 5 pounds **Yukon Gold potatoes**
+
+### Dairy
+
+- 496 grams **butter** (buy 1.25 pounds, or 5 sticks)
+- 1050 grams (5 cups) **whole milk**, plus more for reheating the mashed potatoes (buy a half gallon)
+
+### Spices and seasonings
+
+- 67 grams whole **black peppercorns**
+- 16 grams whole **pink peppercorns**
+- 410 grams **Morton kosher salt**, plus more for seasoning to taste
+- **Pink curing salt #1** (6.25% sodium nitrite), about 30 grams (the exact amount depends on the weight of the legs)
+- 38 grams **garlic powder**
+- 28 grams **onion powder**
+- 14 grams **smoked paprika**
+- 3 grams **hot smoked Spanish paprika**
+- 1 1/2 teaspoons **MSG**
+
+### Pantry
+
+- 694 grams **light brown sugar** (one 2 pound bag)
+- 90 grams **flour**
+- 340 grams **avocado oil**
+- 180 grams **amontillado sherry**
+- 5 quarts **chicken stock**
+- 80 grams **red wine vinegar**, plus 1 tablespoon more of either **red wine vinegar** or **sherry vinegar**
+- 80 grams **soy sauce**
+- 100 grams **country-style bread**
+- 70 grams **kettle-style potato chips** (such as Cape Cod)
+
+### Other
+
+- 4500 grams **ice**
+- **Oak** or **hickory** smoking wood, optionally blended with **apple** or **cherry** wood
+
 ## Friday
 
 Start defrosting turkeys in refrigerator by Friday evening (24 hours for every 4 pounds, so 3.5 days, before Tuesday):
@@ -217,14 +276,14 @@ Calculate the pink curing salt by weight, using the equilibrium method for a tar
 >
 > For example, if the legs weigh 5000 grams total, use 27.5 grams of Cure #1.
 
-In a large pot, heat gently, stirring until the salt and sugar dissolve:
+In a large pot, heat gently, stirring until the salt and sugar dissolve. Avoid a long boil, which can make the sage and rosemary taste bitter:
 
 - 1500 grams **water**
 - 300 grams **kosher salt**
 - 600 grams **brown sugar**
-- 20 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves)
+- 60 grams fresh **poultry herbs** (thyme, sage, rosemary, bay leaves), about three 0.75 ounce packages
 - 5 grams **black peppercorns**
-- 9 cloves **garlic**, smashed
+- 1 head **garlic**, cloves separated and smashed in their skins
 
 Remove from heat, and add:
 
