@@ -205,11 +205,11 @@ Bring mixture to a simmer over medium-high heat, stirring occasionally. Immediat
 
 ### Mashed potatoes
 
-When potatoes are done, lower oven to 350 F for the topping. Remove skins while potatoes are very hot (hold with a kitchen towel), add to a 12-quart pot, and mash immediately.
+When potatoes are done, lower oven to 350 F for the topping. While potatoes are still very hot (hold with a kitchen towel), halve them and press them through a potato ricer (or a food mill fitted with its fine disk) into the 12-quart pot. There is no need to peel them first: the skins stay behind in the hopper, so clear them out between batches. Do not use a masher or mixer, which leave lumps or turn the potatoes gluey.
 
 Return garlic mixture to a simmer, then strain into pot with potatoes, discarding solids.
 
-Set potato mixture over medium heat and whisk until liquid is incorporated and potatoes are very smooth and bubbling. Taste and season with more salt if needed.
+Set potato mixture over medium heat and fold with a stiff silicone spatula until liquid is incorporated and potatoes are smooth and bubbling. Stir no more than needed, because overworking riced potatoes makes them gluey. Taste and season with more salt if needed.
 
 Transfer to a 13x9" baking dish, cover, and refrigerate.
 
