@@ -10,10 +10,10 @@ Prepare a sheet pan lined with aluminum foil:
 
 In a 12-inch oven safe skillet over medium-high heat, brown on several sides:
 
-- 1 tablespoon **canola oil**
+- 1 tablespoon **avocado oil**
 - 12 **Italian-style meatballs**
 
-Set meatballs aside, discard canola oil.
+Set meatballs aside, discard avocado oil.
 
 Return the skillet to medium-low heat, and saute till fragrant:
 

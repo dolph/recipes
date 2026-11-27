@@ -17,7 +17,7 @@ Marinate for 15 minutes:
 Stir fry in a wok over high heat (smoking).
 
 - Marinated pork
-- 2 tablespoons vegetable oil
+- 2 tablespoons avocado oil
 
 Set pork aside. Fry an egg in the remaining oil:
 

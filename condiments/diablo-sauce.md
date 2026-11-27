@@ -4,7 +4,7 @@
 
 Saute until fully caramelized:
 
-- 120 grams **canola oil**
+- 120 grams **avocado oil**
 - 85 grams **white onions**, chopped
 - 30 grams **garlic**, lightly crushed
 - 64 grams **habanero chiles**, de-stemmed, washed

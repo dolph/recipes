@@ -7,7 +7,7 @@ Preheat oven to 425 F.
 Remove papery outer skin from garlic bulb (do not separate cloves). Cut tops off garlic bulb, brush with oil, and wrap bulb in aluminum foil.
 
 - 1 **garlic** bulb
-- 1 tablespoons canola oil
+- 1 tablespoons avocado oil
 
 Bake until softened (~30 minutes). Allow to cool.
 

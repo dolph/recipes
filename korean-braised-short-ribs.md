@@ -19,7 +19,7 @@ Season liberally:
 
 In a Dutch oven over high heat, brown in batches:
 
-- 1 tablespoon **canola oil**
+- 1 tablespoon **avocado oil**
 - Beef
 
 Set beef aside.

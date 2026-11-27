@@ -18,7 +18,7 @@ When the oven is preheated, reduce the oven to 400 F, transfer the skillet to
 the stove over medium-high heat, and sear, skin-side down, until the skins are
 browned:
 
-- 1 tablespoon canola oil
+- 1 tablespoon avocado oil
 - Chicken pieces
 
 Flip chicken over, and transfer skillet to oven. Bake until chicken is cooked.

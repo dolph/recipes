@@ -4,7 +4,7 @@ Fish Tacos
 Marinate, 15 minutes:
 
 - 1 pound firm white fish (e.g. halibut, cod, tilapia, snapper, mahi mahi)
-- 1 tablespoon vegetable oil
+- 1 tablespoon avocado oil
 - 1 lime, juiced
 - 1 garlic clove, minced
 - 1 teaspoon chili powder
@@ -19,7 +19,7 @@ Combine, set aside:
 - 1/2 red onion, thinly sliced
 - 1/4 cup cilantro, coarsely chopped
 - 1 lime, juiced
-- 1 tablespoon canola oil
+- 1 tablespoon avocado oil
 - Kosher salt
 - Freshly ground black pepper
 
@@ -27,7 +27,7 @@ Warm:
 
 - 6 soft corn tortillas
 
-Brush the grates of a grill pan or outdoor grill with vegetable oil, and grill:
+Brush the grates of a grill pan or outdoor grill with avocado oil, and grill:
 
 - Fish
 

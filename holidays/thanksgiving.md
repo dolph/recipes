@@ -45,7 +45,7 @@ Preheat oven to 400 F.
 
 Lightly grease a 13x9" glass baking dish:
 
-- **Canola oil**
+- **avocado oil**
 
 In a large bowl, whisk together:
 
@@ -283,7 +283,7 @@ Whisk together in a small bowl and set aside:
 
 Rub turkey:
 
-- 6 tablespoons **canola oil**
+- 6 tablespoons **avocado oil**
 
 Pour into each baking sheet:
 

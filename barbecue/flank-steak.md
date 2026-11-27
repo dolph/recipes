@@ -23,7 +23,7 @@ Combine in a blender on high speed:
 - 1/4 cup tequila
 - 4 cloves garlic, smashed
 - 2 tablespoons cilantro, roughly chopped
-- 2 tablespoons vegetable oil
+- 2 tablespoons avocado oil
 - 2 teaspoons Worcestershire sauce
 - 1 teaspoon dried crushed Mexican oregano
 - 1 teaspoon red pepper flakes
@@ -47,6 +47,6 @@ After marinating, remove as much marinade from the steak as possible by scraping
 
 In a hot cast iron pan, on a grill, or under a broiler, cook on both sides, flipping once, until the internal temp reaches 130-135 F using:
 
-- 2 tablespoons vegetable oil
+- 2 tablespoons avocado oil
 
 Cover the steak with foil, allowing it to rest until it returns to 130 F.

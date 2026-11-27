@@ -1,7 +1,7 @@
 Pancakes
 ========
 
-Preheat griddle over medium low heat. Grease with canola oil before each batch.
+Preheat griddle over medium low heat. Grease with avocado oil before each batch.
 
 Mix dry ingredients:
 

@@ -7,7 +7,7 @@ Dry brine:
 Blend into a marinade, and rub on steak:
 
 - 2 tablespoons **Adobo sauce** (optionally, include chipotles for more heat)
-- 1 tablespoon **canola oil**
+- 1 tablespoon **avocado oil**
 - 5 cloves **garlic**
 - Zest of 1 **lime**
 - Juice of 2 **lime**

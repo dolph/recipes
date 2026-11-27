@@ -10,7 +10,7 @@ Slice the tortillas into strips (approximately 1cm x 2cm).
 In a skillet, fry until slightly browned:
 
 - Tortilla strips
-- 2 tablespoons canola oil
+- 2 tablespoons avocado oil
 
 Remove tortilla strips when well browned. Dry over a paper towel, and season with kosher salt.
 
