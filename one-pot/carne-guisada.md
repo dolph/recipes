@@ -13,7 +13,7 @@ Season beef with salt & pepper:
 In a stock pot over high heat, brown on all sides:
 
 - Beef
-- 1 tablespoon **canola oil**
+- 1 tablespoon **avocado oil**
 
 Remove the beef and allow to rest for at least 10 minutes. When rested, remove the layer of fat, and then cut into 3/4" cubes.
 

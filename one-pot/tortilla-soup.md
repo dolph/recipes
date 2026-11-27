@@ -13,7 +13,7 @@ Puree:
 - **2 medium tomatoes**, cored and quartered
 - **1 chipotle chile**, plus 1 teaspoon additional adobe sauce
 - 1/2 teaspoon kosher salt
-- 1 tablespoon canola oil
+- 1 tablespoon avocado oil
 
 For the soup
 ------------

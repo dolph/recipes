@@ -6,7 +6,7 @@
 
 Saute in a Dutch oven over medium-high heat until onions begin to brown:
 
-- 2 tablespoons canola oil
+- 2 tablespoons avocado oil
 - 2 large **onions**, chopped fine
 - 1/2 teaspoon kosher salt
 - 1/2 teaspoon freshly ground black pepper

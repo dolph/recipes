@@ -8,7 +8,7 @@ Sauté over a medium flame for 20 minutes, stirring occasionally:
 
 - 4 tablespoons **red pepper paste** ("hot pepper" or "chile pepper paste," available jarred in Asian markets)
 - 1 tablespoons water
-- 1 tablespoons canola oil
+- 1 tablespoons avocado oil
 - 1 teaspoon garlic, minced
 
 Store leftovers in refrigerator for up to one week.
@@ -21,7 +21,7 @@ Cook over low heat for 15 minutes, and set aside:
 - 1 tablespoon **soybean paste**
 - 2 teaspoons garlic, minced
 - 2 teaspoons red pepper sauce
-- 1 teaspoon canola oil
+- 1 teaspoon avocado oil
 - 2 tablespoons water
 
 Beef

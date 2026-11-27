@@ -19,7 +19,7 @@ Tortillas
 
 In medium sauté pan or cast iron skillet, fry one at a time until lightly browned:
 
-- 1/2 cup canola oil
+- 1/2 cup avocado oil
 - 1 dozen **yellow corn tortillas**
 
 Cool over a wire rack & baking sheet.

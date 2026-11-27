@@ -3,7 +3,7 @@ Gumbo
 
 In a Dutch oven, over medium-high heat, cook until well browned, about 8 minutes:
 
-- 1 tablespoon canola oil
+- 1 tablespoon avocado oil
 - 1 pound smoked sausage, such as andouille or kielbasa, cut crosswise 1/2-inch thick pieces
 
 Remove the sausage with a slotted spoon and drain on paper towels. Set aside.
@@ -16,7 +16,7 @@ Season the chicken with the Essence and add in batches to the fat remaining in t
 Combine the remaining 1/2 cup oil and the flour in the same Dutch oven over medium heat. Cook, stirring slowly and constantly for 20 to 25 minutes, to make a dark brown roux, the color of chocolate.
 
 - 1 cup all-purpose flour
-- 1/2 cup canola oil
+- 1/2 cup avocado oil
 
 Add the onions, celery, and bell peppers and cook, stirring, until wilted, 4 to 5 minutes. Add the reserved sausage, salt, cayenne, and bay leaves, stir, and cook for 2 minutes.
 

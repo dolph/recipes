@@ -41,7 +41,7 @@ Place a rack in middle of oven; preheat to 425 F.
 
 Rub turkey:
 
-- 6 tablespoons **canola oil**
+- 6 tablespoons **avocado oil**
 
 Pour into baking sheet:
 

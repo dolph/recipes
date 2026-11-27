@@ -2,7 +2,7 @@
 
 In a saucepan over medium high heat, sear on one side until well browned:
 
-- 1 tablespoon **canola oil**
+- 1 tablespoon **avocado oil**
 - 2 pounds **chicken thighs**, boneless, skinless
 - Salt & pepper
 - 1 teaspoon **cumin**, ground

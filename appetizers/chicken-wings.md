@@ -7,7 +7,7 @@
 1. Preheat oven to 425 F.
 1. Prep a sheet pan, lined with foil, with an oiled cooling rack.
 1. Dry wings thoroughly.
-1. Lightly coat wings with Canola oil.
+1. Lightly coat wings with avocado oil.
 1. Season liberally with a 1:1 salt & pepper blend.
 1. Bake them to 140 F, and flip them.
 1. Bake to 155 F, and switch to the broiler on high.

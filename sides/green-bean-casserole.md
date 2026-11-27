@@ -7,7 +7,7 @@ Set oven rack to lower-middle position and preheat oven to 350 F.
 Add shallots to a nonstick saucepan, adding oil until almost covered. Cook over high heat, stirring frequently, until shallots are completely soft and light golden brown, about 12-20 minutes.
 
 - 1 pound **shallots**, sliced 1/8 inch thick
-- 2 cups **canola oil** (as needed)
+- 2 cups **avocado oil** (as needed)
 
 Strain shallots through a fine-mesh strainer set in a heat-proof bowl.
 

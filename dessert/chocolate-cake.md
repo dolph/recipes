@@ -4,9 +4,9 @@
 
 ## Cake
 
-Place a rack in center of oven; preheat to 325 F. Using your fingertips, grease bottom and sides of a 9" round cake pan with vegetable oil. Line bottom of pan with parchment paper, smoothing to eliminate air bubbles. (It may sound fancy, but making a parchment circle is easy! Place pan on a piece of parchment, trace circumference with a pencil, then cut it out.)
+Place a rack in center of oven; preheat to 325 F. Using your fingertips, grease bottom and sides of a 9" round cake pan with avocado oil. Line bottom of pan with parchment paper, smoothing to eliminate air bubbles. (It may sound fancy, but making a parchment circle is easy! Place pan on a piece of parchment, trace circumference with a pencil, then cut it out.)
 
-- **Canola oil**
+- **avocado oil**
 
 Whisk together in a large bowl:
 
@@ -23,7 +23,7 @@ Add, and whisk to combine:
 Whisk together in a medium bowl until well combined and creamy, about 30 seconds.
 
 - 2 large **eggs**
-- 3/4 cup (161 grams?) **canola oil**
+- 3/4 cup (161 grams?) **avocado oil**
 - 1 teaspoon **vanilla extract**
 
 Using a spatula, mix egg mixture into dry ingredients until fully incorporated, thick, and pasty.
